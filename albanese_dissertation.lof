@@ -1,0 +1,14 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Free energy calculations speed up selectivity optimization}}{14}{figure.caption.4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A CDK2/CDK9 selectivity dataset from Shao et \emph {al}., 2013}}{17}{figure.caption.5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces CDK2 and ERK2 selectivity dataset from Blake et \emph {al}., 2016}}{20}{figure.caption.8}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Relative free energy calculations can accurately predict potency, but show larger errors for selectivity predictions.}}{22}{figure.caption.10}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Correlation in selectivity prediction errors can be used to accelerate selectivity optimization}}{25}{figure.caption.11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations}}{28}{figure.caption.17}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Correlation coefficient $\rho $ controls the shape of the joint marginal distribution of errors}}{29}{figure.caption.18}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Correlation reduces the expected error for selectivity predictions}}{30}{figure.caption.19}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Relative alchemical free-energy calculations can be used to predict affinity changes of FDA-approved selective kinase inhibitors arising from clinically-identified mutations in their targets of therapy.}}{34}{figure.caption.21}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Cross-comparison of the experimentally measured effects that mutations in Abl kinase have on ligand binding, performed by different labs.}}{41}{figure.caption.23}

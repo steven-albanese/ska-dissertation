@@ -1,0 +1,264 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: albanese_dissertation.aux
+The style file: vancouver-elife.bst
+Illegal, another \bibstyle command---line 227 of file albanese_dissertation.aux
+ : \bibstyle
+ :          {vancouver-elife.bst}
+I'm skipping whatever remains of this command
+Database file #1: albanese.bib
+Repeated entry---line 2289 of file albanese.bib
+ : @article{Volkamer2016-sj
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2657 of file albanese.bib
+ : @article{Volkamer2015-jx
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3169 of file albanese.bib
+ : @article{Manning2002-cw
+ :                        ,
+I'm skipping whatever remains of this entry
+""" immediately follows an entry type---line 3174 of file albanese.bib
+ :                  94080, USA. gerard-manning@sugen.com
+ :                                                      ",
+I'm skipping whatever remains of this entry
+Repeated entry---line 4131 of file albanese.bib
+ : @article{Aldeghi2017-ox
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4437 of file albanese.bib
+ : @article{Santos:Nat.Rev.DrugDiscov.:2016
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4486 of file albanese.bib
+ : @misc{sgc-kinome
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4494 of file albanese.bib
+ : @misc{fda-approved-kinase-inhibitors
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7008 of file albanese.bib
+ : @article{Chandarlapaty:CancerCell:2011
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7092 of file albanese.bib
+ : @article{Davis:Nat.Biotechnol.:2011
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7108 of file albanese.bib
+ : @article{Kramer:J.Med.Chem.:2012
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7125 of file albanese.bib
+ : @article{Shah:CancerCell:2002
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7175 of file albanese.bib
+ : @article{Chodera:Curr.Opin.Struct.Biol.:2011
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7209 of file albanese.bib
+ : @article{Maier:J.Chem.TheoryComput.:2015
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7291 of file albanese.bib
+ : @article{Santos:Nat.Rev.DrugDiscov.:2016
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7307 of file albanese.bib
+ : @article{fda-approved-kinase-inhibitors
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7328 of file albanese.bib
+ : @article{Housman:Cancers:2014
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7364 of file albanese.bib
+ : @article{Zehir:Nat.Med.:2017
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7380 of file albanese.bib
+ : @article{Holohan:Nat.Rev.Cancer:2013
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7461 of file albanese.bib
+ : @article{Levinson:PLoSBiol.:2006
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7479 of file albanese.bib
+ : @article{Pemovska:Nature:2015
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7700 of file albanese.bib
+ : @article{Gozgit3992
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7727 of file albanese.bib
+ : @article{Wang:J.Am.Chem.Soc.:2015
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7744 of file albanese.bib
+ : @article{Aldeghi:ChemSci:2016
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7760 of file albanese.bib
+ : @article{Zou:J.Am.Chem.Soc.:2016
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7794 of file albanese.bib
+ : @article{Juchum:DrugResist.Updat.:2015
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7811 of file albanese.bib
+ : @article{Song:ActaPharm.Sin.B:2015
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7829 of file albanese.bib
+ : @article{Knight:Nat.Rev.Cancer:2010
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7842 of file albanese.bib
+ : @article{Melnikov:NucleicAcidsRes.:2014
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7877 of file albanese.bib
+ : @article{Harder:J.Chem.TheoryComput.:2016
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7929 of file albanese.bib
+ : @article{Abel:Curr.Opin.Struct.Biol.:2017
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7992 of file albanese.bib
+ : @article{Ford:J.Chem.Inf.Model.:2017
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8045 of file albanese.bib
+ : @article{Weisberg:Nat.Rev.Cancer:2007
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8061 of file albanese.bib
+ : @article{Y.Lu:Curr.Med.Chem.:2011
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8077 of file albanese.bib
+ : @article{Lovering:ChemMedChem:2016
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8096 of file albanese.bib
+ : @book{Redig::2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8106 of file albanese.bib
+ : @article{Neel:NpjPrecis.Oncol.:2017
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8123 of file albanese.bib
+ : @article{Hyman:Cell:2017
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8140 of file albanese.bib
+ : @article{Pesesky:Front.Microbiol.:2016
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8181 of file albanese.bib
+ : @article{Gruber2006
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8219 of file albanese.bib
+ : @article{BROWN2009420
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8232 of file albanese.bib
+ : @article{mondal2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8245 of file albanese.bib
+ : @article{huang2015mechanisms
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8269 of file albanese.bib
+ : @article{Meyer2051
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8283 of file albanese.bib
+ : @article{Rani3821
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8297 of file albanese.bib
+ : @article{cappel2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8310 of file albanese.bib
+ : @article{Davare29092015
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8345 of file albanese.bib
+ : @article{VanAllen94
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8472 of file albanese.bib
+ : @article{Rapp:J.Chem.Inf.Model.:2011
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8641 of file albanese.bib
+ : @article{Huang:J.Comput.Chem.:2013
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8875 of file albanese.bib
+ : @article{fda-approved-kinase-inhibitors
+ :                                        ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+presort is already a type "wizard-defined" function name
+---line 1851 of file vancouver-elife.bst
+ : function {presort
+ :                  }
+`journal' is a missing field, not a string, for entry fda-approved-kinase-inhibitors
+while executing---line 1953 of file vancouver-elife.bst
+Warning--empty author and editor in sgc-kinome
+Warning--missing publisher in sgc-kinome
+You've used 101 entries,
+            3483 wiz_defined-function locations,
+            1396 strings with 41362 characters,
+and the built_in function-call counts, 393901 in all, are:
+= -- 49537
+> -- 2976
+< -- 15
++ -- 1697
+- -- 744
+* -- 36690
+:= -- 41631
+add.period$ -- 339
+call.type$ -- 101
+change.case$ -- 305
+chr.to.int$ -- 97
+cite$ -- 103
+duplicate$ -- 29967
+empty$ -- 37532
+format.name$ -- 961
+if$ -- 90585
+int.to.chr$ -- 5
+int.to.str$ -- 102
+missing$ -- 1541
+newline$ -- 547
+num.names$ -- 202
+pop$ -- 2621
+preamble$ -- 1
+purify$ -- 303
+quote$ -- 0
+skip$ -- 2086
+stack$ -- 0
+substring$ -- 86068
+swap$ -- 3721
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 604
+warning$ -- 2
+while$ -- 1426
+width$ -- 0
+write$ -- 1392
+(There were 54 error messages)

@@ -48,12 +48,6 @@
 \ProvidesClass{cornell}
 [2008/4/17 v2.9
   Cornell University thesis class]
-\RequirePackage[english]{babel}
-
-\RequirePackage{calc}
-\RequirePackage{etoolbox}
-\RequirePackage{regexpatch}
-\RequirePackage{ifxetex,ifluatex}
 \newif\ifphd
 \DeclareOption{phd}{\phdtrue}
 \DeclareOption{master}{\phdfalse}
@@ -233,27 +227,6 @@
 \renewcommand{\l@figure}{\@dottedtocline{1}{1.5em}{2.6em}}
 \let\l@table\l@figure
 
-\renewenvironment{thebibliography}[1]
-     {\chapter*{\bibname
-        \@mkboth{\uppercase{\bibname}}{\uppercase{\bibname}}}%
-      \list{\@biblabel{\arabic{enumiv}}}%
-           {\settowidth\labelwidth{\@biblabel{#1}}%
-            \leftmargin\labelwidth
-            \advance\leftmargin\labelsep
-    \itemsep=12pt
-            \@openbib@code
-            \usecounter{enumiv}%
-            \let\p@enumiv\@empty
-            \renewcommand\theenumiv{\arabic{enumiv}}}%
-      \sloppy\clubpenalty4000\widowpenalty4000%
-      \sfcode`\.=\@m\relax
-      \addcontentsline{toc}{chapter}{\bibname}
-      \listspacing{bib}}
-     {\def\@noitemerr
-       {\@latex@warning{Empty `thebibliography' environment}}%
-      \normalspacing
-      \endlist}
-
 \newcommand{\@titlesize}{\fontsize{18}{24}\selectfont}
 \newcommand{\@subtitlesize}{\fontsize{12}{24}\selectfont}
 \newcommand{\@authorsize}{\normalsize\doublespacing} % No Pharaoh he.
@@ -423,7 +396,6 @@
   \normalspacing
   \clearpage
 }
-
 \newcommand{\abbrlist}{%
   \listspacing{abbr}
   \prelim@contents{List of Abbreviations}
@@ -512,6 +484,7 @@
 
 %\RequirePackage{natbib} % author last names
 \RequirePackage[square,numbers,sort&compress]{natbib}
+\RequirePackage{xpatch}
 \renewcommand{\bibfont}{\small}
 % modifed from https://github.com/gbhutani/vancouver_authoryear_bibstyle/
 \IfFileExists{vancouver-elife.bst}
@@ -546,4 +519,20 @@
 {{\@citeb\@extra@b@citeb}\NAT@nmfmt{\NAT@date}}
 {}{\PackageWarning{eLife}{Failed to patch year format in citation}}
 
+
+
+\RequirePackage[colorlinks=true,allcolors=black,citecolor=eLifeMediumGrey,linkcolor=eLifeMediumGrey,urlcolor=eLifeLightBlue]{hyperref}
+\urlstyle{sf}
+
+\RequirePackage[small,labelfont=small,textfont=small]{caption}
+
+\renewcommand{\equationautorefname}{Eq.}
+\newcommand{\FIG}[1]{\autoref{fig:#1}}
+\newcommand{\TABLE}[1]{\autoref{tab:#1}}
+\newcommand{\EQ}[1]{\autoref{eq:#1}}
+\newcommand{\BOX}[1]{\autoref{box:#1}}
+\let\oldautoref\autoref
+\renewcommand{\autoref}[1]{\emph{\textbf{\oldautoref{#1}}}}
 \endinput
+%%
+%% End of file `cornell.cls'.
