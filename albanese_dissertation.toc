@@ -28,15 +28,17 @@
 \contentsline {section}{\numberline {2.4}Discussion and Conclusions}{26}{section.2.4}
 \contentsline {chapter}{\numberline {3}Understanding the functional impact of mTOR clinical kinase mutations using physical modeling}{31}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{31}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Section on mTOR biology and mutations}{31}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Section on MD simulations and Folding@Home}{31}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Methods}{31}{section.3.2}
-\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{32}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{33}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{35}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{35}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{36}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{37}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{42}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{42}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {3.1.1}mTOR forms the catalytic core of protein complexes that control a number of cellular processes}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}mTOR is the targeted by drugs with two distinct mechanisms of action}{33}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}{36}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Section on MD simulations and Folding@Home}{36}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Methods}{36}{section.3.2}
+\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{37}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{38}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{40}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{40}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{41}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{42}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{47}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{47}{subsection.4.1.7}

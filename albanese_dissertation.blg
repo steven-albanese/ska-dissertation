@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 227 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 282 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
@@ -220,45 +220,45 @@ presort is already a type "wizard-defined" function name
 while executing---line 1953 of file vancouver-elife.bst
 Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
-You've used 101 entries,
+You've used 130 entries,
             3483 wiz_defined-function locations,
-            1396 strings with 41362 characters,
-and the built_in function-call counts, 393901 in all, are:
-= -- 49537
-> -- 2976
-< -- 15
-+ -- 1697
-- -- 744
-* -- 36690
-:= -- 41631
-add.period$ -- 339
-call.type$ -- 101
-change.case$ -- 305
-chr.to.int$ -- 97
-cite$ -- 103
-duplicate$ -- 29967
-empty$ -- 37532
-format.name$ -- 961
-if$ -- 90585
-int.to.chr$ -- 5
-int.to.str$ -- 102
-missing$ -- 1541
-newline$ -- 547
-num.names$ -- 202
-pop$ -- 2621
+            1573 strings with 49072 characters,
+and the built_in function-call counts, 490221 in all, are:
+= -- 61807
+> -- 3784
+< -- 20
++ -- 2131
+- -- 946
+* -- 45480
+:= -- 51762
+add.period$ -- 427
+call.type$ -- 130
+change.case$ -- 392
+chr.to.int$ -- 125
+cite$ -- 132
+duplicate$ -- 38208
+empty$ -- 46527
+format.name$ -- 1231
+if$ -- 112808
+int.to.chr$ -- 6
+int.to.str$ -- 131
+missing$ -- 1973
+newline$ -- 693
+num.names$ -- 260
+pop$ -- 3339
 preamble$ -- 1
-purify$ -- 303
+purify$ -- 390
 quote$ -- 0
-skip$ -- 2086
+skip$ -- 2634
 stack$ -- 0
-substring$ -- 86068
-swap$ -- 3721
+substring$ -- 105719
+swap$ -- 4785
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 604
+type$ -- 778
 warning$ -- 2
-while$ -- 1426
+while$ -- 1829
 width$ -- 0
-write$ -- 1392
+write$ -- 1771
 (There were 54 error messages)

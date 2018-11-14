@@ -346,9 +346,45 @@ As corelation coefficient $\rho$ increases, $\sigma_{selectivity}$ decreases. Th
 \end{landscape}
 
 \chapter{Understanding the functional impact of mTOR clinical kinase mutations using physical modeling}
-\todo{This will include the mTOR and Abl resistance section}
+
 \section{Introduction}
-\subsection{Section on mTOR biology and mutations}
+\subsection{mTOR forms the catalytic core of protein complexes that control a number of cellular processes}
+mTOR (mammalian target of rapalog) is a serine-threonine kinase that controls a number of cellular processes~\citep{Laplante:2012fm,Saxton:2017cv} by integrating signaling from the MAPK and PI3K pathways~\citep{Mendoza2011-bj}. mTOR forms the catalytic core of heteromeric protein complexes, mTORC1 and mTORC2, that differ in the regulatory proteins that decorate the kinase. mTORC1 is defined by RAPTOR~\citep{Kim:2002vh,Hara:2002tn} and PRAS40~\citep{Yang:2017gu}, while mTORC2 is characterized by RICTOR~\citep{Sarbassov:2004kv}. Each complex contains a number of shared regulatory proteins, such as mLST8~\cite{BarPeled:2012gq} and DEPTOR~\citep{Peterson:2009fc}. mTOR itself is an atypical kinase, and includes a number of insertions that deviate from the canonical kinase fold. The C-terminal fragment crystal structure (Figure~\ref{fig:mtor-figure1})shows that the kinase domain is hugged by a FAT domain~\citep{Yang:2013gaa}, forming a C-shaped clamp around the kinase domain. The FAT domain forms a number of regulatory salt bridges that have been implicated in controlling the activity of the kinase~\cite{Yang:2013gaa}. The FKBP12-rapamycin-binding (FRB) domain hangs over the opening cleft to the active site~\cite{Yang:2013gaa} (Figure~\ref{fig:mtor-figure1}). Complex activity is hypothesized to be regulated via restricted access to the active site by architectural elements as well as rapalog-mediated recruitment of FKBP to the FRB domain~\citep{Aylett:2016gs}. 
+
+\begin{landscape}
+	\begin{figure}[p]
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/mtor-fig1.pdf}
+		\caption[mTOR is an atypical kinase with a number of regulatory domains]{
+			{\bf mTOR is an atypical kinase with a number of regulatory domains}
+			mTOR (PDBID: 4JSV) is shown as a cartoon diagram. The kinase domain (white) has a number of structural features highlighted, such as the activation loop (teal) as well as a network of regulatory $\alpha$ helices (red) in the active site. The FAT domain (black) clamps around the kinase domain and forms a number of salt bridge and hydrophobic contains with the kinase domain. The FRB domain (gold) hangs over the active site clef and is the site of rapalog binding and rapalog-mediate FBKBP recruitment	
+		}
+		\label{fig:mtor-figure1}
+	\end{figure}
+\end{landscape}
+
+mTORC1 controls a number of biological processes by integrating multiple upstream signals (Figure~\ref{fig:mtor-figure2}). Tuberous sclerosis complex 1/2 (TCS1/2) integrates growth factor signaling from the PI3K/AKT pathway~\citep{Inoki:2002jv,Manning:2002tp} and DNA damage from AMPK~\citep{Jones:2005kg}. TSC1/2 acts as GTPase activating protein (GAP) for RHEB~\citep{Inoki:2003je}, which binds to and activates mTORC1 at the lysosomal surface. mTORC1 localization is controlled by the second major signal it integrates: amino acid availability. Upon stimulation by amino acids, the Ragulator~\citep{BarPeled:2012fr} recruits inactive mTORC1 from the cytosol to the lysosomal surface~\citep{Kim:2008kb,Sancak:2010bu}, enabling interaction with RHEB. Once active, mTORC1 controls cell growth and protein synthesis by phosphorylating and activating S6K at T389 and inactivating 4EBP1 via a phosphorylation at S65~\citep{Hay:2004ir,Laplante:2012fm}. mTORC1 also activates SREBP1/2, which regulates lipid biosynthesis(Figure~\ref{fig:mtor-figure2}). mTORC1 activation inhibits autophagy through via ULK1. Recent work suggests that mTORC1 can also control the biophysical properties of the cytoplasm by regulating crowding~\citep{Delarue:2018ca}, impacting the rate of diffusion and expanding the already diverse array of essential processes that mTOR controls. 
+
+\subsection{mTOR is the targeted by drugs with two distinct mechanisms of action}
+Due to the central role mTOR plays in a wide array of biological processes, it has emerged as the target of extensive drug discovery programs. There are two distinct classes of inhibitors developed to target mTOR: ATP-competitive inhibitors and allosteric inhibitors~\citep{Ballou:2008ec,Lamming:2013kg}. Temsirolimus~\citep{Hudes:2007kp} and Evirolimus~\citep{Motzer:2008cn} are FDA-approved inhibitors~\citep{fda-approved-kinase-inhibitors} that are thought to inhibit mTOR through recruiting FKBP family members, such as FKBP12, to the FRB domain~\citep{Hausch:2013iu}. Evidence suggests FKBP12 recruitment may inhibit mTORC1 activity by inducing a conformational change that prevents S6K binding~\citep{Yip:2010bm}. Further incubation leads to destabilization and disassembly of the protein complex, which is consistent with the time-dependent nature of rapalog inhibition of mTORC1 mediated 4EBP1 phosphorylation~\citep{Yip:2010bm}. The rapalogs are potent inhibitors of mTORC1, while mTORC2 requires chronic rapalog treatment and is highly dependent on FKBP expression levels~\citep{Schreiber:2015fi}. 
+
+\begin{landscape}
+	\begin{figure}[p]
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/mtor-fig2.pdf}
+		\caption[mTORC1 integrates signaling from a number of inputs]{
+			{\bf mTORC1 integrates signaling from a number of inputs}
+			The signaling pathway of mTOR involves integrating signaling from the growth factors, amino acids, hypoxia, and DNA damage. Integrating such signals controls the localization and activity of mTORC1, which controls autophagy, cell growth, and macromolecule synthesis through phosphorylation of downstream targets. \bf{This Figure was reproduced from a grant submitted with James Hsieh as PI.}
+		}
+		\label{fig:mtor-figure2}
+	\end{figure}
+\end{landscape}
+
+
+
+\subsection{mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}
+
+
 \subsection{Section on MD simulations and Folding@Home}
 \section{Methods}
 
