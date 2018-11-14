@@ -1,4 +1,4 @@
-\begin{thebibliography}{130}
+\begin{thebibliography}{141}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -826,10 +826,22 @@
   necessary for its activation by amino acids.}
 \newblock Cell.  2010 Apr; 141(2):290--303.
 
+\bibitem[{Efeyan et~al.(2012)Efeyan, Alejo and Zoncu, Roberto and Sabatini,
+  David M}]{Efeyan:2012de}
+\textbf{\color{eLifeMediumGrey} Efeyan A}, Zoncu R, Sabatini DM.
+\newblock {Amino acids and mTORC1: from lysosomes to disease.}
+\newblock Trends in molecular medicine.  2012 Sep; 18(9):524--533.
+
 \bibitem[{Hay and Sonenberg(2004)Hay, Nissim and Sonenberg, Nahum}]{Hay:2004ir}
 \textbf{\color{eLifeMediumGrey} Hay N}, Sonenberg N.
 \newblock {Upstream and downstream of mTOR.}
 \newblock Genes {\&} development.  2004 Aug; 18(16):1926--1945.
+
+\bibitem[{Lamming and Sabatini(2013)Lamming, Dudley W and Sabatini, David
+  M}]{Lamming:2013dza}
+\textbf{\color{eLifeMediumGrey} Lamming DW}, Sabatini DM.
+\newblock {A Central role for mTOR in lipid homeostasis.}
+\newblock Cell metabolism.  2013 Oct; 18(4):465--469.
 
 \bibitem[{Delarue et~al.(2018)Delarue, M and Brittingham, G P and Pfeffer, S
   and Surovtsev, I V and Pinglay, S and Kennedy, K J and Schaffer, M and
@@ -907,6 +919,88 @@
 \newblock {Rapamycin-mediated mTORC2 inhibition is determined by the relative
   expression of FK506-binding proteins.}
 \newblock Aging cell.  2015 Apr; 14(2):265--273.
+
+\bibitem[{Parton et~al.(2016)Parton, Daniel L and Grinaway, Patrick B and
+  Hanson, Sonya M and Beauchamp, Kyle A and Chodera, John D}]{Parton:2016cc}
+\textbf{\color{eLifeMediumGrey} Parton DL}, Grinaway PB, Hanson SM, Beauchamp
+  KA, Chodera JD.
+\newblock {Ensembler: Enabling High-Throughput Molecular Simulations at the
+  Superfamily Scale.}
+\newblock PLoS computational biology.  2016 Jun; 12(6):e1004728.
+
+\bibitem[{Lindorff-Larsen et~al.(2010)Lindorff-Larsen, Kresten and Piana,
+  Stefano and Palmo, Kim and Maragakis, Paul and Klepeis, John L and Dror, Ron
+  O and Shaw, David E}]{LindorffLarsen:2010ei}
+\textbf{\color{eLifeMediumGrey} Lindorff-Larsen K}, Piana S, Palmo K, Maragakis
+  P, Klepeis JL, Dror RO, Shaw DE.
+\newblock {Improved side-chain torsion potentials for the Amber ff99SB protein
+  force field.}
+\newblock Proteins.  2010 Jun; 78(8):1950--1958.
+
+\bibitem[{{Jorgensen, William L} et~al.(1998){Jorgensen, William L} and
+  {Chandrasekhar, Jayaraman} and {Madura, Jeffry D} and {Impey, Roger W} and
+  {Klein, Michael L}}]{Jorgensen:1998fl}
+\textbf{\color{eLifeMediumGrey} {Jorgensen, William L}}, {Chandrasekhar,
+  Jayaraman}, {Madura, Jeffry D}, {Impey, Roger W}, {Klein, Michael L}.
+\newblock {Comparison of simple potential functions for simulating liquid
+  water}.
+\newblock The Journal of chemical physics.  1998 Aug; 79(2):926--935.
+
+\bibitem[{{Eastman, Peter} et~al.(2017){Eastman, Peter} and {Swails, Jason} and
+  {Chodera, John D} and {McGibbon, Robert T} and {Zhao, Yutong} and {Beauchamp,
+  Kyle A} and {Wang, Lee-Ping} and {Simmonett, Andrew C} and {Harrigan, Matthew
+  P} and {Stern, Chaya D} and {Wiewiora, Rafal P} and {Brooks, Bernard R} and
+  {Pande, Vijay S}}]{Eastman:2017kn}
+\textbf{\color{eLifeMediumGrey} {Eastman, Peter}}, {Swails, Jason}, {Chodera,
+  John D}, {McGibbon, Robert T}, {Zhao, Yutong}, {Beauchamp, Kyle A}, {Wang,
+  Lee-Ping}, {Simmonett, Andrew C}, {Harrigan, Matthew P}, {Stern, Chaya D},
+  {Wiewiora, Rafal P}, {Brooks, Bernard R}, {Pande, Vijay S}.
+\newblock {OpenMM 7: Rapid development of high performance algorithms for
+  molecular dynamics.}
+\newblock PLoS Computational Biology.  2017 Jul; 13(7):e1005659.
+
+\bibitem[{Eastman and Pande(2010)Eastman, Peter and Pande, Vijay
+  S}]{Eastman:2010hq}
+\textbf{\color{eLifeMediumGrey} Eastman P}, Pande VS.
+\newblock {CCMA: A Robust, Parallelizable Constraint Method for Molecular
+  Simulations.}
+\newblock Journal of chemical theory and computation.  2010 Feb; 6(2):434--437.
+
+\bibitem[{Miyamoto and Kollman(1992)Miyamoto, Shuichi and Kollman, Peter
+  A}]{Miyamoto:1992fx}
+\textbf{\color{eLifeMediumGrey} Miyamoto S}, Kollman PA.
+\newblock {Settle: An analytical version of the SHAKE and RATTLE algorithm for
+  rigid water models}.
+\newblock Journal of Computational Chemistry.  1992; 13(8):952--962.
+
+\bibitem[{{Shirts, M} and {Pande, V S}(2000)}]{Shirts:2000du}
+\textbf{\color{eLifeMediumGrey} {Shirts, M}}, {Pande, V S}.
+\newblock {COMPUTING: Screen Savers of the World Unite!}
+\newblock Science.  2000 Dec; 290(5498):1903--1904.
+
+\bibitem[{Eastman et~al.(2013)Eastman, Peter and Friedrichs, Mark S and
+  Chodera, John D and Radmer, Randall J and Bruns, Christopher M and Ku, Joy P
+  and Beauchamp, Kyle A and Lane, Thomas J and Wang, Lee-Ping and Shukla,
+  Diwakar and Tye, Tony and Houston, Mike and Stich, Timo and Klein, Christoph
+  and Shirts, Michael R and Pande, Vijay S}]{Eastman:2013bo}
+\textbf{\color{eLifeMediumGrey} Eastman P}, Friedrichs MS, Chodera JD, Radmer
+  RJ, Bruns CM, Ku JP, Beauchamp KA, Lane TJ, Wang LP, Shukla D, Tye T, Houston
+  M, Stich T, Klein C, Shirts MR, Pande VS.
+\newblock {OpenMM 4: A Reusable, Extensible, Hardware Independent Library for
+  High Performance Molecular Simulation.}
+\newblock Journal of Chemical Theory and Computation.  2013 Jan; 9(1):461--469.
+
+\bibitem[{{McGibbon, Robert T} et~al.(2015){McGibbon, Robert T} and {Beauchamp,
+  Kyle A} and {Harrigan, Matthew P} and {Klein, Christoph} and {Swails, Jason
+  M} and {Hern{\'a}ndez, Carlos X} and {Schwantes, Christian R} and {Wang,
+  Lee-Ping} and {Lane, Thomas J} and {Pande, Vijay S}}]{McGibbon:2015fv}
+\textbf{\color{eLifeMediumGrey} {McGibbon, Robert T}}, {Beauchamp, Kyle A},
+  {Harrigan, Matthew P}, {Klein, Christoph}, {Swails, Jason M}, {Hern{\'a}ndez,
+  Carlos X}, {Schwantes, Christian R}, {Wang, Lee-Ping}, {Lane, Thomas J},
+  {Pande, Vijay S}.
+\newblock {MDTraj: A Modern Open Library for the Analysis of Molecular Dynamics
+  Trajectories.}
+\newblock Biophysical journal.  2015 Oct; 109(8):1528--1532.
 
 \bibitem[{Shah et~al.(2002)Shah, Neil P. and Nicoll, John M. and Nagar, Bhushan
   and Gorre, Mercedes E. and Paquette, Ronald L. and Kuriyan, John and Sawyers,
