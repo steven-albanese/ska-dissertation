@@ -5,7 +5,7 @@
 \contentsline {section}{List of Tables}{x}{chapter*.2}
 \contentsline {section}{List of Figures}{xi}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Predicting the selectivity of small molecule kianse inhibitors}{2}{chapter.2}
+\contentsline {chapter}{\numberline {2}Predicting the selectivity of small molecule kinase inhibitors}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{2}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Selectivity is an important consideration in drug design}{2}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Physical modeling can compliment high throughput screens and machine learning to predict selectivity}{3}{subsection.2.1.2}
@@ -30,20 +30,20 @@
 \contentsline {section}{\numberline {3.1}Introduction}{31}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}mTOR forms the catalytic core of protein complexes that control a number of cellular processes}{31}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}mTOR is the targeted by inhibitors with two distinct mechanisms of action}{33}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}{36}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Section on MD simulations and Folding@Home}{42}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Methods}{42}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Molecular dynamics simulations}{42}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Contact Map Analysis}{44}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Mean Contact formation over time}{45}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Results}{45}{section.3.3}
-\contentsline {section}{\numberline {3.4}Conclusions}{45}{section.3.4}
-\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{46}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{46}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{47}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{49}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{49}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{50}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{51}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{56}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{56}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {3.1.3}mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}{37}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Section on MD simulations and Folding@Home}{43}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Methods}{43}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Molecular dynamics simulations}{43}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Contact Map Analysis}{45}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Mean Contact formation over time}{46}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Results}{46}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusions}{46}{section.3.4}
+\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{47}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{47}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{48}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{50}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{50}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{51}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{52}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{57}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{57}{subsection.4.1.7}

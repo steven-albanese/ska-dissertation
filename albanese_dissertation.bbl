@@ -1,4 +1,4 @@
-\begin{thebibliography}{150}
+\begin{thebibliography}{157}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -761,6 +761,18 @@
 \newblock {mTOR kinase structure, mechanism and regulation.}
 \newblock Nature.  2013 May; 497(7448):217--223.
 
+\bibitem[{Gaubitz et~al.(2015)Gaubitz, Christl and Oliveira, Taiana M and
+  Prouteau, Manoel and Leitner, Alexander and Karuppasamy, Manikandan and
+  Konstantinidou, Georgia and Rispal, Delphine and Eltschinger, Sandra and
+  Robinson, Graham C and Thore, St{\'e}phane and Aebersold, Ruedi and
+  Schaffitzel, Christiane and Loewith, Robbie}]{Gaubitz:2015gr}
+\textbf{\color{eLifeMediumGrey} Gaubitz C}, Oliveira TM, Prouteau M, Leitner A,
+  Karuppasamy M, Konstantinidou G, Rispal D, Eltschinger S, Robinson GC, Thore
+  S, Aebersold R, Schaffitzel C, Loewith R.
+\newblock {Molecular Basis of the Rapamycin Insensitivity of Target Of
+  Rapamycin Complex 2.}
+\newblock Molecular cell.  2015 Jun; 58(6):977--988.
+
 \bibitem[{Aylett et~al.(2016)Aylett, Christopher H S and Sauer, Evelyn and
   Imseng, Stefan and Boehringer, Daniel and Hall, Michael N and Ban, Nenad and
   Maier, Timm}]{Aylett:2016gs}
@@ -992,6 +1004,74 @@
   ATM- and DNA-PKCs-Mediated DNA Damage Responses}.
 \newblock Neoplasia.  2012 Jan; 14(1):34--IN8.
 
+\bibitem[{Pongas and Fojo(2016)Pongas, Georgios and Fojo, Tito}]{Pongas:2016jm}
+\textbf{\color{eLifeMediumGrey} Pongas G}, Fojo T.
+\newblock {BEZ235: When Promising Science Meets Clinical Reality.}
+\newblock The oncologist.  2016 Sep; 21(9):1033--1034.
+
+\bibitem[{Eichhorn et~al.(2008)Eichhorn, Pieter J A and Gili, Mag{\"u}i and
+  Scaltriti, Maurizio and Serra, Violeta and Guzman, Marta and Nijkamp, Wouter
+  and Beijersbergen, Roderick L and Valero, Vanesa and Seoane, Joan and
+  Bernards, Ren{\'e} and Baselga, Jos{\'e}}]{Eichhorn:2008ff}
+\textbf{\color{eLifeMediumGrey} Eichhorn PJA}, Gili M, Scaltriti M, Serra V,
+  Guzman M, Nijkamp W, Beijersbergen RL, Valero V, Seoane J, Bernards R,
+  Baselga J.
+\newblock {Phosphatidylinositol 3-kinase hyperactivation results in lapatinib
+  resistance that is reversed by the mTOR/phosphatidylinositol 3-kinase
+  inhibitor NVP-BEZ235.}
+\newblock Cancer research.  2008 Nov; 68(22):9221--9230.
+
+\bibitem[{Rodrik-Outmezguine et~al.(2011)Rodrik-Outmezguine, Vanessa S and
+  Chandarlapaty, Sarat and Pagano, Nen C and Poulikakos, Poulikos I and
+  Scaltriti, Maurizio and Moskatel, Elizabeth and Baselga, Jose and Guichard,
+  Sylvie and Rosen, Neal}]{RodrikOutmezguine:2011fb}
+\textbf{\color{eLifeMediumGrey} Rodrik-Outmezguine VS}, Chandarlapaty S, Pagano
+  NC, Poulikakos PI, Scaltriti M, Moskatel E, Baselga J, Guichard S, Rosen N.
+\newblock {mTOR kinase inhibition causes feedback-dependent biphasic regulation
+  of AKT signaling.}
+\newblock Cancer discovery.  2011 Aug; 1(3):248--259.
+
+\bibitem[{Fan et~al.(2006)Fan, Qi-Wen and Knight, Zachary A and Goldenberg,
+  David D and Yu, Wei and Mostov, Keith E and Stokoe, David and Shokat, Kevan M
+  and Weiss, William A}]{Fan:2006kw}
+\textbf{\color{eLifeMediumGrey} Fan QW}, Knight ZA, Goldenberg DD, Yu W, Mostov
+  KE, Stokoe D, Shokat KM, Weiss WA.
+\newblock {A dual PI3 kinase/mTOR inhibitor reveals emergent efficacy in
+  glioma.}
+\newblock Cancer Cell.  2006 May; 9(5):341--349.
+
+\bibitem[{Wagle et~al.(2014)Wagle, Nikhil and Grabiner, Brian C and Van Allen,
+  Eliezer M and Hodis, Eran and Jacobus, Susanna and Supko, Jeffrey G and
+  Stewart, Michelle and Choueiri, Toni K and Gandhi, Leena and Cleary, James M
+  and Elfiky, Aymen A and Taplin, Mary Ellen and Stack, Edward C and
+  Signoretti, Sabina and Loda, Massimo and Shapiro, Geoffrey I and Sabatini,
+  David M and Lander, Eric S and Gabriel, Stacey B and Kantoff, Philip W and
+  Garraway, Levi A and Rosenberg, Jonathan E}]{Wagle:2014ej}
+\textbf{\color{eLifeMediumGrey} Wagle N}, Grabiner BC, Van~Allen EM, Hodis E,
+  Jacobus S, Supko JG, Stewart M, Choueiri TK, Gandhi L, Cleary JM, Elfiky AA,
+  Taplin ME, Stack EC, Signoretti S, Loda M, Shapiro GI, Sabatini DM, Lander
+  ES, Gabriel SB, Kantoff PW, et~al.
+\newblock {Activating mTOR mutations in a patient with an extraordinary
+  response on a phase I trial of everolimus and pazopanib.}
+\newblock Cancer discovery.  2014 May; 4(5):546--553.
+
+\bibitem[{{Wagle, Nikhil} et~al.(2014){Wagle, Nikhil} and {Grabiner, Brian C}
+  and {Van Allen, Eliezer M} and {Amin-Mansour, Ali} and {Taylor-Weiner, Amaro}
+  and {Rosenberg, Mara} and {Gray, Nathanael} and {Barletta, Justine A} and
+  {Guo, Yanan} and {Swanson, Scott J} and {Ruan, Daniel T} and {Hanna, Glenn J}
+  and {Haddad, Robert I} and {Getz, Gad} and {Kwiatkowski, David J} and
+  {Carter, Scott L} and {Sabatini, David M} and {J{\"a}nne, Pasi A} and
+  {Garraway, Levi A} and {Lorch, Jochen H}}]{Wagle:2014be}
+\textbf{\color{eLifeMediumGrey} {Wagle, Nikhil}}, {Grabiner, Brian C}, {Van
+  Allen, Eliezer M}, {Amin-Mansour, Ali}, {Taylor-Weiner, Amaro}, {Rosenberg,
+  Mara}, {Gray, Nathanael}, {Barletta, Justine A}, {Guo, Yanan}, {Swanson,
+  Scott J}, {Ruan, Daniel T}, {Hanna, Glenn J}, {Haddad, Robert I}, {Getz,
+  Gad}, {Kwiatkowski, David J}, {Carter, Scott L}, {Sabatini, David M},
+  {J{\"a}nne, Pasi A}, {Garraway, Levi A}, {Lorch, Jochen H}.
+\newblock {Response and acquired resistance to everolimus in anaplastic thyroid
+  cancer.}
+\newblock The New England journal of medicine.  2014 Oct; 371(15):1426--1433.
+
 \bibitem[{Rodrik-Outmezguine et~al.(2016)Rodrik-Outmezguine, Vanessa S and
   Okaniwa, Masanori and Yao, Zhan and Novotny, Chris J and McWhirter, Claire
   and Banaji, Arpitha and Won, Helen and Wong, Wai and Berger, Mike and de
@@ -1004,10 +1084,17 @@
   inhibitor.}
 \newblock Nature.  2016 Jun; 534(7606):272--276.
 
-\bibitem[{Pongas and Fojo(2016)Pongas, Georgios and Fojo, Tito}]{Pongas:2016jm}
-\textbf{\color{eLifeMediumGrey} Pongas G}, Fojo T.
-\newblock {BEZ235: When Promising Science Meets Clinical Reality.}
-\newblock The oncologist.  2016 Sep; 21(9):1033--1034.
+\bibitem[{Fan et~al.(2017)Fan, QiWen and Aksoy, Ozlem and Wong, Robyn A and
+  Ilkhanizadeh, Shirin and Novotny, Chris J and Gustafson, William C and
+  Truong, Albert Yi-Que and Cayanan, Geraldine and Simonds, Erin F and
+  Haas-Kogan, Daphne and Phillips, Joanna J and Nicolaides, Theodore and
+  Okaniwa, Masanori and Shokat, Kevan M and Weiss, William A}]{Fan:2017fk}
+\textbf{\color{eLifeMediumGrey} Fan Q}, Aksoy O, Wong RA, Ilkhanizadeh S,
+  Novotny CJ, Gustafson WC, Truong AYQ, Cayanan G, Simonds EF, Haas-Kogan D,
+  Phillips JJ, Nicolaides T, Okaniwa M, Shokat KM, Weiss WA.
+\newblock {A Kinase Inhibitor Targeted to mTORC1 Drives Regression in
+  Glioblastoma.}
+\newblock Cancer Cell.  2017 Mar; 31(3):424--435.
 
 \bibitem[{Xu et~al.(2016)Xu, Jianing and Pham, Can G and Albanese, Steven K and
   Dong, Yiyu and Oyama, Toshinao and Lee, Chung-Han and Rodrik-Outmezguine,
