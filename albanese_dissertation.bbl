@@ -1,4 +1,4 @@
-\begin{thebibliography}{142}
+\begin{thebibliography}{150}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -920,6 +920,95 @@
   expression of FK506-binding proteins.}
 \newblock Aging cell.  2015 Apr; 14(2):265--273.
 
+\bibitem[{Slotkin et~al.(2015)Slotkin, Emily K and Patwardhan, Parag P and
+  Vasudeva, Shyamprasad D and de Stanchina, Elisa and Tap, William D and
+  Schwartz, Gary K}]{Slotkin:2015je}
+\textbf{\color{eLifeMediumGrey} Slotkin EK}, Patwardhan PP, Vasudeva SD,
+  de~Stanchina E, Tap WD, Schwartz GK.
+\newblock {MLN0128, an ATP-competitive mTOR kinase inhibitor with potent in
+  vitro and in vivo antitumor activity, as potential therapy for bone and
+  soft-tissue sarcoma.}
+\newblock Molecular cancer therapeutics.  2015 Feb; 14(2):395--406.
+
+\bibitem[{Hassan et~al.(2014)Hassan, Burhan and Akcakanat, Argun and Sangai,
+  Takafumi and Evans, Kurt W and Adkins, Farrell and Eterovic, Agda Karina and
+  Zhao, Hao and Chen, Ken and Chen, Huiqin and Do, Kim-Anh and Xie, Shelly M
+  and Holder, Ashley M and Naing, Aung and Mills, Gordon B and Meric-Bernstam,
+  Funda}]{Hassan:2014kl}
+\textbf{\color{eLifeMediumGrey} Hassan B}, Akcakanat A, Sangai T, Evans KW,
+  Adkins F, Eterovic AK, Zhao H, Chen K, Chen H, Do KA, Xie SM, Holder AM,
+  Naing A, Mills GB, Meric-Bernstam F.
+\newblock {Catalytic mTOR inhibitors can overcome intrinsic and acquired
+  resistance to allosteric mTOR inhibitors.}
+\newblock Oncotarget.  2014 Sep; 5(18):8544--8557.
+
+\bibitem[{Garc{\'\i}a-Garc{\'\i}a et~al.(2012)Garc{\'\i}a-Garc{\'\i}a, Celina
+  and Ibrahim, Yasir H and Serra, Violeta and Calvo, Maria Teresa and
+  Guzm{\'a}n, Marta and Grueso, Judit and Aura, Claudia and P{\'e}rez, Jos{\'e}
+  and Jessen, Katti and Liu, Yi and Rommel, Christian and Tabernero, Josep and
+  Baselga, Jos{\'e} and Scaltriti, Maurizio}]{GarciaGarcia:2012jc}
+\textbf{\color{eLifeMediumGrey} Garc{\'\i}a-Garc{\'\i}a C}, Ibrahim YH, Serra
+  V, Calvo MT, Guzm{\'a}n M, Grueso J, Aura C, P{\'e}rez J, Jessen K, Liu Y,
+  Rommel C, Tabernero J, Baselga J, Scaltriti M.
+\newblock {Dual mTORC1/2 and HER2 blockade results in antitumor activity in
+  preclinical models of breast cancer resistant to anti-HER2 therapy.}
+\newblock Clinical cancer research : an official journal of the American
+  Association for Cancer Research.  2012 May; 18(9):2603--2612.
+
+\bibitem[{Chresta et~al.(2010)Chresta, Christine M and Davies, Barry R and
+  Hickson, Ian and Harding, Tom and Cosulich, Sabina and Critchlow, Susan E and
+  Vincent, John P and Ellston, Rebecca and Jones, Darren and Sini, Patrizia and
+  James, Dominic and Howard, Zoe and Dudley, Phillippa and Hughes, Gareth and
+  Smith, Lisa and Maguire, Sharon and Hummersone, Marc and Malagu, Karine and
+  Menear, Keith and Jenkins, Richard and Jacobsen, Matt and Smith, Graeme C M
+  and Guichard, Sylvie and Pass, Martin}]{Chresta:2010ir}
+\textbf{\color{eLifeMediumGrey} Chresta CM}, Davies BR, Hickson I, Harding T,
+  Cosulich S, Critchlow SE, Vincent JP, Ellston R, Jones D, Sini P, James D,
+  Howard Z, Dudley P, Hughes G, Smith L, Maguire S, Hummersone M, Malagu K,
+  Menear K, Jenkins R, et~al.
+\newblock {AZD8055 is a potent, selective, and orally bioavailable
+  ATP-competitive mammalian target of rapamycin kinase inhibitor with in vitro
+  and in vivo antitumor activity.}
+\newblock Cancer research.  2010 Jan; 70(1):288--298.
+
+\bibitem[{Mallon et~al.(2011)Mallon, Robert and Feldberg, Larry R and Lucas,
+  Judy and Chaudhary, Inder and Dehnhardt, Christoph and Santos, Efren Delos
+  and Chen, Zecheng and dos Santos, Osvaldo and Ayral-Kaloustian, Semiramis and
+  Venkatesan, Aranapakam and Hollander, Irwin}]{Mallon:2011gn}
+\textbf{\color{eLifeMediumGrey} Mallon R}, Feldberg LR, Lucas J, Chaudhary I,
+  Dehnhardt C, Santos ED, Chen Z, dos Santos O, Ayral-Kaloustian S, Venkatesan
+  A, Hollander I.
+\newblock {Antitumor efficacy of PKI-587, a highly potent dual PI3K/mTOR kinase
+  inhibitor.}
+\newblock Clinical cancer research : an official journal of the American
+  Association for Cancer Research.  2011 May; 17(10):3193--3203.
+
+\bibitem[{Mukherjee et~al.(2012)Mukherjee, Bipasha and Tomimatsu, Nozomi and
+  Amancherla, Kaushik and Camacho, Cristel V and Pichamoorthy, Nandini and
+  Burma, Sandeep}]{Mukherjee:2012ki}
+\textbf{\color{eLifeMediumGrey} Mukherjee B}, Tomimatsu N, Amancherla K,
+  Camacho CV, Pichamoorthy N, Burma S.
+\newblock {The Dual PI3K/mTOR Inhibitor NVP-BEZ235 Is a Potent Inhibitor of
+  ATM- and DNA-PKCs-Mediated DNA Damage Responses}.
+\newblock Neoplasia.  2012 Jan; 14(1):34--IN8.
+
+\bibitem[{Rodrik-Outmezguine et~al.(2016)Rodrik-Outmezguine, Vanessa S and
+  Okaniwa, Masanori and Yao, Zhan and Novotny, Chris J and McWhirter, Claire
+  and Banaji, Arpitha and Won, Helen and Wong, Wai and Berger, Mike and de
+  Stanchina, Elisa and Barratt, Derek G and Cosulich, Sabina and Klinowska,
+  Teresa and Rosen, Neal and Shokat, Kevan M}]{RodrikOutmezguine:2016km}
+\textbf{\color{eLifeMediumGrey} Rodrik-Outmezguine VS}, Okaniwa M, Yao Z,
+  Novotny CJ, McWhirter C, Banaji A, Won H, Wong W, Berger M, de~Stanchina E,
+  Barratt DG, Cosulich S, Klinowska T, Rosen N, Shokat KM.
+\newblock {Overcoming mTOR resistance mutations with a new-generation mTOR
+  inhibitor.}
+\newblock Nature.  2016 Jun; 534(7606):272--276.
+
+\bibitem[{Pongas and Fojo(2016)Pongas, Georgios and Fojo, Tito}]{Pongas:2016jm}
+\textbf{\color{eLifeMediumGrey} Pongas G}, Fojo T.
+\newblock {BEZ235: When Promising Science Meets Clinical Reality.}
+\newblock The oncologist.  2016 Sep; 21(9):1033--1034.
+
 \bibitem[{Xu et~al.(2016)Xu, Jianing and Pham, Can G and Albanese, Steven K and
   Dong, Yiyu and Oyama, Toshinao and Lee, Chung-Han and Rodrik-Outmezguine,
   Vanessa and Yao, Zhan and Han, Song and Chen, David and Parton, Daniel L and
@@ -931,6 +1020,43 @@
 \newblock {Mechanistically distinct cancer-associated mTOR activation clusters
   predict sensitivity to rapamycin.}
 \newblock The Journal of clinical investigation.  2016 Sep; 126(9):3526--3540.
+
+\bibitem[{Zehir et~al.(2017)Zehir, Ahmet and Benayed, Ryma and Shah, Ronak H
+  and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and Srinivasan,
+  Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin, Sean M and
+  Hellmann, Matthew D and Barron, David A and Schram, Alison M and Hameed,
+  Meera and Dogan, Snjezana and Ross, Dara S and Hechtman, Jaclyn F and DeLair,
+  Deborah F and Yao, JinJuan and Mandelker, Diana L and Cheng, Donavan T and
+  Chandramohan, Raghu and Mohanty, Abhinita S and Ptashkin, Ryan N and
+  Jayakumaran, Gowtham and Prasad, Meera and Syed, Mustafa H and Rema, Anoop
+  Balakrishnan and Liu, Zhen Y and Nafa, Khedoudja and Borsu, Laetitia and
+  Sadowska, Justyna and Casanova, Jacklyn and Bacares, Ruben and Kiecka, Iwona
+  J and Razumova, Anna and Son, Julie B and Stewart, Lisa and Baldi, Tessara
+  and Mullaney, Kerry A and Al-Ahmadie, Hikmat and Vakiani, Efsevia and
+  Abeshouse, Adam A and Penson, Alexander V and Jonsson, Philip and Camacho,
+  Niedzica and Chang, Matthew T and Won, Helen H and Gross, Benjamin E and
+  Kundra, Ritika and Heins, Zachary J and Chen, Hsiao-Wei and Phillips, Sarah
+  and Zhang, Hongxin and Wang, Jiaojiao and Ochoa, Angelica and Wills, Jonathan
+  and Eubank, Michael and Thomas, Stacy B and Gardos, Stuart M and Reales,
+  Dalicia N and Galle, Jesse and Durany, Robert and Cambria, Roy and Abida,
+  Wassim and Cercek, Andrea and Feldman, Darren R and Gounder, Mrinal M and
+  Hakimi, A Ari and Harding, James J and Iyer, Gopa and Janjigian, Yelena Y and
+  Jordan, Emmet J and Kelly, Ciara M and Lowery, Maeve A and Morris, Luc G T
+  and Omuro, Antonio M and Raj, Nitya and Razavi, Pedram and Shoushtari,
+  Alexander N and Shukla, Neerav and Soumerai, Tara E and Varghese, Anna M and
+  Yaeger, Rona and Coleman, Jonathan and Bochner, Bernard and Riely, Gregory J
+  and Saltz, Leonard B and Scher, Howard I and Sabbatini, Paul J and Robson,
+  Mark E and Klimstra, David S and Taylor, Barry S and Baselga, Jose and
+  Schultz, Nikolaus and Hyman, David M and Arcila, Maria E and Solit, David B
+  and Ladanyi, Marc and Berger, Michael F}]{Zehir:Nat.Med.:2017}
+\textbf{\color{eLifeMediumGrey} Zehir A}, Benayed R, Shah RH, Syed A, Middha S,
+  Kim HR, Srinivasan P, Gao J, Chakravarty D, Devlin SM, Hellmann MD, Barron
+  DA, Schram AM, Hameed M, Dogan S, Ross DS, Hechtman JF, DeLair DF, Yao J,
+  Mandelker DL, et~al.
+\newblock Mutational Landscape of Metastatic Cancer Revealed from Prospective
+  Clinical Sequencing of 10,000 Patients.
+\newblock Nat Med.  2017 May; 23(6):703--713.
+\newblock \href{10.1038/nm.4333}{\doiprefix \detokenize{10.1038/nm.4333}}.
 
 \bibitem[{Parton et~al.(2016)Parton, Daniel L and Grinaway, Patrick B and
   Hanson, Sonya M and Beauchamp, Kyle A and Chodera, John D}]{Parton:2016cc}
@@ -1160,43 +1286,6 @@
 \newblock Cancers.  2014 Sep; 6(3):1769--1792.
 \newblock \href{10.3390/cancers6031769}{\doiprefix
   \detokenize{10.3390/cancers6031769}}.
-
-\bibitem[{Zehir et~al.(2017)Zehir, Ahmet and Benayed, Ryma and Shah, Ronak H
-  and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and Srinivasan,
-  Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin, Sean M and
-  Hellmann, Matthew D and Barron, David A and Schram, Alison M and Hameed,
-  Meera and Dogan, Snjezana and Ross, Dara S and Hechtman, Jaclyn F and DeLair,
-  Deborah F and Yao, JinJuan and Mandelker, Diana L and Cheng, Donavan T and
-  Chandramohan, Raghu and Mohanty, Abhinita S and Ptashkin, Ryan N and
-  Jayakumaran, Gowtham and Prasad, Meera and Syed, Mustafa H and Rema, Anoop
-  Balakrishnan and Liu, Zhen Y and Nafa, Khedoudja and Borsu, Laetitia and
-  Sadowska, Justyna and Casanova, Jacklyn and Bacares, Ruben and Kiecka, Iwona
-  J and Razumova, Anna and Son, Julie B and Stewart, Lisa and Baldi, Tessara
-  and Mullaney, Kerry A and Al-Ahmadie, Hikmat and Vakiani, Efsevia and
-  Abeshouse, Adam A and Penson, Alexander V and Jonsson, Philip and Camacho,
-  Niedzica and Chang, Matthew T and Won, Helen H and Gross, Benjamin E and
-  Kundra, Ritika and Heins, Zachary J and Chen, Hsiao-Wei and Phillips, Sarah
-  and Zhang, Hongxin and Wang, Jiaojiao and Ochoa, Angelica and Wills, Jonathan
-  and Eubank, Michael and Thomas, Stacy B and Gardos, Stuart M and Reales,
-  Dalicia N and Galle, Jesse and Durany, Robert and Cambria, Roy and Abida,
-  Wassim and Cercek, Andrea and Feldman, Darren R and Gounder, Mrinal M and
-  Hakimi, A Ari and Harding, James J and Iyer, Gopa and Janjigian, Yelena Y and
-  Jordan, Emmet J and Kelly, Ciara M and Lowery, Maeve A and Morris, Luc G T
-  and Omuro, Antonio M and Raj, Nitya and Razavi, Pedram and Shoushtari,
-  Alexander N and Shukla, Neerav and Soumerai, Tara E and Varghese, Anna M and
-  Yaeger, Rona and Coleman, Jonathan and Bochner, Bernard and Riely, Gregory J
-  and Saltz, Leonard B and Scher, Howard I and Sabbatini, Paul J and Robson,
-  Mark E and Klimstra, David S and Taylor, Barry S and Baselga, Jose and
-  Schultz, Nikolaus and Hyman, David M and Arcila, Maria E and Solit, David B
-  and Ladanyi, Marc and Berger, Michael F}]{Zehir:Nat.Med.:2017}
-\textbf{\color{eLifeMediumGrey} Zehir A}, Benayed R, Shah RH, Syed A, Middha S,
-  Kim HR, Srinivasan P, Gao J, Chakravarty D, Devlin SM, Hellmann MD, Barron
-  DA, Schram AM, Hameed M, Dogan S, Ross DS, Hechtman JF, DeLair DF, Yao J,
-  Mandelker DL, et~al.
-\newblock Mutational Landscape of Metastatic Cancer Revealed from Prospective
-  Clinical Sequencing of 10,000 Patients.
-\newblock Nat Med.  2017 May; 23(6):703--713.
-\newblock \href{10.1038/nm.4333}{\doiprefix \detokenize{10.1038/nm.4333}}.
 
 \bibitem[{Redig and J{\"a}nne(2015)Redig, Amanda J. and J{\"a}nne, Pasi
   A.}]{Redig::2015}

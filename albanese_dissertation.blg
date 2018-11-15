@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 308 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 325 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
@@ -211,7 +211,10 @@ Repeated entry---line 8875 of file albanese.bib
  : @article{fda-approved-kinase-inhibitors
  :                                        ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Xu:2016fwu"
+Repeated entry---line 9391 of file albanese.bib
+ : @article{RodrikOutmezguine:2016km
+ :                                  ,
+I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 presort is already a type "wizard-defined" function name
 ---line 1851 of file vancouver-elife.bst
@@ -221,45 +224,45 @@ presort is already a type "wizard-defined" function name
 while executing---line 1953 of file vancouver-elife.bst
 Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
-You've used 142 entries,
+You've used 150 entries,
             3483 wiz_defined-function locations,
-            1653 strings with 52417 characters,
-and the built_in function-call counts, 534971 in all, are:
-= -- 67683
-> -- 4112
-< -- 24
-+ -- 2307
-- -- 1028
-* -- 49533
-:= -- 56368
-add.period$ -- 463
-call.type$ -- 142
-change.case$ -- 428
-chr.to.int$ -- 137
-cite$ -- 144
-duplicate$ -- 42386
-empty$ -- 50669
-format.name$ -- 1345
-if$ -- 123222
+            1699 strings with 55670 characters,
+and the built_in function-call counts, 575976 in all, are:
+= -- 72934
+> -- 4472
+< -- 25
++ -- 2495
+- -- 1118
+* -- 53333
+:= -- 60610
+add.period$ -- 487
+call.type$ -- 150
+change.case$ -- 452
+chr.to.int$ -- 145
+cite$ -- 152
+duplicate$ -- 45724
+empty$ -- 54523
+format.name$ -- 1453
+if$ -- 132728
 int.to.chr$ -- 6
-int.to.str$ -- 143
-missing$ -- 2151
-newline$ -- 753
-num.names$ -- 284
-pop$ -- 3632
+int.to.str$ -- 151
+missing$ -- 2305
+newline$ -- 793
+num.names$ -- 300
+pop$ -- 3877
 preamble$ -- 1
-purify$ -- 426
+purify$ -- 450
 quote$ -- 0
-skip$ -- 2861
+skip$ -- 3066
 stack$ -- 0
-substring$ -- 114724
-swap$ -- 5227
+substring$ -- 123564
+swap$ -- 5592
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 850
+type$ -- 898
 warning$ -- 2
-while$ -- 1993
+while$ -- 2139
 width$ -- 0
-write$ -- 1927
-(There were 54 error messages)
+write$ -- 2031
+(There were 55 error messages)
