@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 300 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 308 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
@@ -221,45 +221,45 @@ presort is already a type "wizard-defined" function name
 while executing---line 1953 of file vancouver-elife.bst
 Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
-You've used 141 entries,
+You've used 142 entries,
             3483 wiz_defined-function locations,
-            1647 strings with 52008 characters,
-and the built_in function-call counts, 529146 in all, are:
-= -- 66944
-> -- 4052
+            1653 strings with 52417 characters,
+and the built_in function-call counts, 534971 in all, are:
+= -- 67683
+> -- 4112
 < -- 24
-+ -- 2276
-- -- 1013
-* -- 48994
-:= -- 55766
-add.period$ -- 460
-call.type$ -- 141
-change.case$ -- 425
-chr.to.int$ -- 136
-cite$ -- 143
-duplicate$ -- 41927
-empty$ -- 50122
-format.name$ -- 1328
-if$ -- 121871
++ -- 2307
+- -- 1028
+* -- 49533
+:= -- 56368
+add.period$ -- 463
+call.type$ -- 142
+change.case$ -- 428
+chr.to.int$ -- 137
+cite$ -- 144
+duplicate$ -- 42386
+empty$ -- 50669
+format.name$ -- 1345
+if$ -- 123222
 int.to.chr$ -- 6
-int.to.str$ -- 142
-missing$ -- 2128
-newline$ -- 748
-num.names$ -- 282
-pop$ -- 3591
+int.to.str$ -- 143
+missing$ -- 2151
+newline$ -- 753
+num.names$ -- 284
+pop$ -- 3632
 preamble$ -- 1
-purify$ -- 423
+purify$ -- 426
 quote$ -- 0
-skip$ -- 2834
+skip$ -- 2861
 stack$ -- 0
-substring$ -- 113464
-swap$ -- 5174
+substring$ -- 114724
+swap$ -- 5227
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 844
+type$ -- 850
 warning$ -- 2
-while$ -- 1971
+while$ -- 1993
 width$ -- 0
-write$ -- 1914
+write$ -- 1927
 (There were 54 error messages)

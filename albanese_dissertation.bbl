@@ -1,4 +1,4 @@
-\begin{thebibliography}{141}
+\begin{thebibliography}{142}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -919,6 +919,18 @@
 \newblock {Rapamycin-mediated mTORC2 inhibition is determined by the relative
   expression of FK506-binding proteins.}
 \newblock Aging cell.  2015 Apr; 14(2):265--273.
+
+\bibitem[{Xu et~al.(2016)Xu, Jianing and Pham, Can G and Albanese, Steven K and
+  Dong, Yiyu and Oyama, Toshinao and Lee, Chung-Han and Rodrik-Outmezguine,
+  Vanessa and Yao, Zhan and Han, Song and Chen, David and Parton, Daniel L and
+  Chodera, John D and Rosen, Neal and Cheng, Emily H and Hsieh, James
+  J}]{Xu:2016fw}
+\textbf{\color{eLifeMediumGrey} Xu J}, Pham CG, Albanese SK, Dong Y, Oyama T,
+  Lee CH, Rodrik-Outmezguine V, Yao Z, Han S, Chen D, Parton DL, Chodera JD,
+  Rosen N, Cheng EH, Hsieh JJ.
+\newblock {Mechanistically distinct cancer-associated mTOR activation clusters
+  predict sensitivity to rapamycin.}
+\newblock The Journal of clinical investigation.  2016 Sep; 126(9):3526--3540.
 
 \bibitem[{Parton et~al.(2016)Parton, Daniel L and Grinaway, Patrick B and
   Hanson, Sonya M and Beauchamp, Kyle A and Chodera, John D}]{Parton:2016cc}
