@@ -1,4 +1,4 @@
-\begin{thebibliography}{157}
+\begin{thebibliography}{160}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -1095,6 +1095,28 @@
 \newblock {A Kinase Inhibitor Targeted to mTORC1 Drives Regression in
   Glioblastoma.}
 \newblock Cancer Cell.  2017 Mar; 31(3):424--435.
+
+\bibitem[{Guertin and Sabatini(2007)Guertin, David A and Sabatini, David
+  M}]{Guertin:2007dw}
+\textbf{\color{eLifeMediumGrey} Guertin DA}, Sabatini DM.
+\newblock {Defining the role of mTOR in cancer.}
+\newblock Cancer Cell.  2007 Jul; 12(1):9--22.
+
+\bibitem[{Grabiner et~al.(2014)Grabiner, Brian C and Nardi, Valentina and
+  Birsoy, K{\i}vanc and Possemato, Richard and Shen, Kuang and Sinha, Sumi and
+  Jordan, Alexander and Beck, Andrew H and Sabatini, David M}]{Grabiner:2014be}
+\textbf{\color{eLifeMediumGrey} Grabiner BC}, Nardi V, Birsoy K, Possemato R,
+  Shen K, Sinha S, Jordan A, Beck AH, Sabatini DM.
+\newblock {A diverse array of cancer-associated MTOR mutations are
+  hyperactivating and can predict rapamycin sensitivity.}
+\newblock Cancer discovery.  2014 May; 4(5):554--563.
+
+\bibitem[{{Cancer Genome Atlas Research
+  Network}(2013)}]{CancerGenomeAtlasResearchNetwork:2013ib}
+\textbf{\color{eLifeMediumGrey} {Cancer Genome Atlas Research Network}}.
+\newblock {Comprehensive molecular characterization of clear cell renal cell
+  carcinoma.}
+\newblock Nature.  2013 Jul; 499(7456):43--49.
 
 \bibitem[{Xu et~al.(2016)Xu, Jianing and Pham, Can G and Albanese, Steven K and
   Dong, Yiyu and Oyama, Toshinao and Lee, Chung-Han and Rodrik-Outmezguine,

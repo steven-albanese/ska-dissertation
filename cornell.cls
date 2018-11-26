@@ -248,7 +248,10 @@
     \realsinglespacing
     \begin{center}%
       \hrule height 0.5in width 0pt % force vertical space at top
-      \@titlesize \expandafter\uppercase\expandafter{\@title}
+      \@titlesize \expandafter\uppercase\expandafter{\@title} \\
+        \@authorsize
+      by \\
+      \@author \\
     \end{center}
     \vfill
     \begin{center}
@@ -262,11 +265,18 @@
     \end{center}
     \vfill
     \begin{center}
-      \@authorsize
-      by \\
-      \@author \\
-      \@conferralmonth\ \@conferralyear
+    \@authorsize
+    	New York, NY \\
+          \@conferralmonth\ \@conferralyear
     \end{center}
+    \vfill
+    \@authorsize
+    \realsinglespacing
+	\noindent\begin{tabular}{ll}
+	\makebox[3in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+	John D. Chodera, PhD & Date\\
+	Dissertation Mentor  & \\
+	\end{tabular}                                       
     \vspace{0.25in}
   \end{titlepage}
 }

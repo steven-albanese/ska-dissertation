@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 NOV 2018 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  26 NOV 2018 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1865,7 +1865,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 153.
 
 [10] [11] [12] [13]
-<figures/figure1.png, id=578, 1437.37pt x 1046.91125pt>
+<figures/figure1.png, id=579, 1437.37pt x 1046.91125pt>
 File: figures/figure1.png Graphic file (type png)
 <use figures/figure1.png>
 Package pdftex.def Info: figures/figure1.png  used on input line 222.
@@ -1878,7 +1878,7 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 
 
 ] [16]
-<figures/figure2.png, id=603, 1927.2pt x 1084.05pt>
+<figures/figure2.png, id=604, 1927.2pt x 1084.05pt>
 File: figures/figure2.png Graphic file (type png)
 <use figures/figure2.png>
 Package pdftex.def Info: figures/figure2.png  used on input line 237.
@@ -1893,7 +1893,7 @@ LaTeX Warning: Float too large for page by 21.989pt on input line 244.
 
 
 ] [19]
-<figures/figure3.png, id=637, 1882.03125pt x 1052.93375pt>
+<figures/figure3.png, id=638, 1882.03125pt x 1052.93375pt>
 File: figures/figure3.png Graphic file (type png)
 <use figures/figure3.png>
 Package pdftex.def Info: figures/figure3.png  used on input line 255.
@@ -1906,7 +1906,7 @@ LaTeX Warning: Float too large for page by 20.01877pt on input line 263.
 
 
 ]
-<figures/figure4.png, id=651, 1496.59125pt x 1247.66125pt>
+<figures/figure4.png, id=652, 1496.59125pt x 1247.66125pt>
 File: figures/figure4.png Graphic file (type png)
 <use figures/figure4.png>
 Package pdftex.def Info: figures/figure4.png  used on input line 273.
@@ -1919,7 +1919,7 @@ LaTeX Warning: Float too large for page by 28.32059pt on input line 279.
 
 
 ] [24]
-<figures/figure5.png, id=686, 1365.1pt x 1148.29pt>
+<figures/figure5.png, id=687, 1365.1pt x 1148.29pt>
 File: figures/figure5.png Graphic file (type png)
 <use figures/figure5.png>
 Package pdftex.def Info: figures/figure5.png  used on input line 292.
@@ -1932,20 +1932,20 @@ LaTeX Warning: Float too large for page by 39.11397pt on input line 299.
 
 
 ] [27]
-<figures/supp_figure1.png, id=706, 1843.88875pt x 672.5125pt>
+<figures/supp_figure1.png, id=707, 1843.88875pt x 672.5125pt>
 File: figures/supp_figure1.png Graphic file (type png)
 <use figures/supp_figure1.png>
 Package pdftex.def Info: figures/supp_figure1.png  used on input line 314.
 (pdftex.def)             Requested size: 650.43001pt x 237.21974pt.
  [28 <./figures/supp_figure1.png>]
-<figures/supp_2.png, id=719, 1836.8625pt x 643.40375pt>
+<figures/supp_2.png, id=720, 1836.8625pt x 643.40375pt>
 File: figures/supp_2.png Graphic file (type png)
 <use figures/supp_2.png>
 Package pdftex.def Info: figures/supp_2.png  used on input line 327.
 (pdftex.def)             Requested size: 650.43001pt x 227.82578pt.
 
 [29 <./figures/supp_2.png>]
-<figures/supp_figure3.pdf, id=725, 650.43pt x 433.62pt>
+<figures/supp_figure3.pdf, id=726, 650.43pt x 433.62pt>
 File: figures/supp_figure3.pdf Graphic file (type pdf)
 <use figures/supp_figure3.pdf>
 Package pdftex.def Info: figures/supp_figure3.pdf  used on input line 339.
@@ -1961,7 +1961,7 @@ Chapter 3.
 
 
 ]
-<figures/mtor-fig1.pdf, id=821, 667.49374pt x 451.6875pt>
+<figures/mtor-fig1.pdf, id=822, 667.49374pt x 451.6875pt>
 File: figures/mtor-fig1.pdf Graphic file (type pdf)
 <use figures/mtor-fig1.pdf>
 Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 357.
@@ -1970,53 +1970,63 @@ Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 357.
 
 
 ] [34] [35]
-<figures/mtor-fig2.pdf, id=918, 529.13303pt x 375.0574pt>
+<figures/mtor-fig2.pdf, id=919, 529.13303pt x 375.0574pt>
 File: figures/mtor-fig2.pdf Graphic file (type pdf)
 <use figures/mtor-fig2.pdf>
 Package pdftex.def Info: figures/mtor-fig2.pdf  used on input line 377.
 (pdftex.def)             Requested size: 520.34598pt x 368.82994pt.
- [36 <./figures/mtor-fig2.pdf>] [37
+ [36 <./figures/mtor-fig2.pdf>]
+Underfull \hbox (badness 1389) in paragraph at lines 387--388
+\OT1/ppl/m/n/12 mTOR path-way al-ter-ations have been ob-served in a wide ar-ra
+y of can-cer
+ []
+
+[37
 
 
 ]
-<figures/mtor-fig3.png, id=944, 1010.77625pt x 371.3875pt>
+<figures/mtor-fig3.png, id=955, 1010.77625pt x 371.3875pt>
 File: figures/mtor-fig3.png Graphic file (type png)
 <use figures/mtor-fig3.png>
-Package pdftex.def Info: figures/mtor-fig3.png  used on input line 391.
+Package pdftex.def Info: figures/mtor-fig3.png  used on input line 392.
 (pdftex.def)             Requested size: 650.43001pt x 238.99057pt.
- [38 <./figures/mtor-fig3.png>]
-<figures/mtor-fig4.pdf, id=954, 1510.64375pt x 736.7525pt>
+ [38 <./figures/mtor-fig3.png>] [39
+
+
+]
+<figures/mtor-fig4.pdf, id=969, 1510.64375pt x 736.7525pt>
 File: figures/mtor-fig4.pdf Graphic file (type pdf)
 <use figures/mtor-fig4.pdf>
-Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 404.
+Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 409.
 (pdftex.def)             Requested size: 650.43001pt x 317.21335pt.
- [39 <./figures/mtor-fig4.pdf>]
-<figures/mtor-fig5.pdf, id=971, 1815.78375pt x 660.4675pt>
+ [40 <./figures/mtor-fig4.pdf>]
+<figures/mtor-fig5.pdf, id=986, 1815.78375pt x 660.4675pt>
 File: figures/mtor-fig5.pdf Graphic file (type pdf)
 <use figures/mtor-fig5.pdf>
-Package pdftex.def Info: figures/mtor-fig5.pdf  used on input line 416.
+Package pdftex.def Info: figures/mtor-fig5.pdf  used on input line 421.
 (pdftex.def)             Requested size: 650.43001pt x 236.589pt.
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
- [40 <./figures/mtor-fig5.pdf>]
-<figures/mtor-fig6.pdf, id=986, 1498.59875pt x 844.15375pt>
+
+[41 <./figures/mtor-fig5.pdf>]
+<figures/mtor-fig6.pdf, id=1001, 1498.59875pt x 844.15375pt>
 File: figures/mtor-fig6.pdf Graphic file (type pdf)
 <use figures/mtor-fig6.pdf>
-Package pdftex.def Info: figures/mtor-fig6.pdf  used on input line 428.
+Package pdftex.def Info: figures/mtor-fig6.pdf  used on input line 433.
 (pdftex.def)             Requested size: 650.43001pt x 366.37955pt.
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 
 
-LaTeX Warning: Float too large for page by 22.50919pt on input line 434.
+LaTeX Warning: Float too large for page by 22.50919pt on input line 439.
 
-[41 <./figures/mtor-fig6.pdf>]
-<figures/mtor-fig7.pdf, id=1001, 1805.74625pt x 707.64375pt>
+[42 <./figures/mtor-fig6.pdf>]
+<figures/mtor-fig7.pdf, id=1016, 1805.74625pt x 707.64375pt>
 File: figures/mtor-fig7.pdf Graphic file (type pdf)
 <use figures/mtor-fig7.pdf>
-Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 440.
+Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 445.
 (pdftex.def)             Requested size: 650.43001pt x 254.89192pt.
- [42 <./figures/mtor-fig7.pdf>] [43
+ [43 <./figures/mtor-fig7.pdf>] [44
 
 
 
@@ -2025,26 +2035,24 @@ Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 440.
 
 
 
+] [45]
 
+LaTeX Warning: Command \r invalid in math mode on input line 467.
 
-] [44]
-
-LaTeX Warning: Command \r invalid in math mode on input line 466.
-
-[45] [46]
+[46] [47]
 Chapter 4.
-[47
+[48
 
 ]
 
-LaTeX Warning: Reference `abl-figure-1' on page 48 undefined on input line 492.
+LaTeX Warning: Reference `abl-figure-1' on page 49 undefined on input line 497.
 
 
-[48]
-<figures/abl-figure-1.pdf, id=1098, 963.6pt x 542.025pt>
+[49]
+<figures/abl-figure-1.pdf, id=1113, 963.6pt x 542.025pt>
 File: figures/abl-figure-1.pdf Graphic file (type pdf)
 <use figures/abl-figure-1.pdf>
-Package pdftex.def Info: figures/abl-figure-1.pdf  used on input line 501.
+Package pdftex.def Info: figures/abl-figure-1.pdf  used on input line 506.
 (pdftex.def)             Requested size: 585.38303pt x 329.28665pt.
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
@@ -2054,68 +2062,68 @@ Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 
 
-LaTeX Warning: Float too large for page by 65.16595pt on input line 515.
+LaTeX Warning: Float too large for page by 65.16595pt on input line 520.
 
-[49 <./figures/abl-figure-1.pdf>] [50
+[50 <./figures/abl-figure-1.pdf>] [51
 
 
-] [51]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 546.
-
+] [52]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 546.
+(hyperref)                removing `math shift' on input line 551.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 546.
+(hyperref)                removing `\Delta' on input line 551.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 546.
+(hyperref)                removing `math shift' on input line 551.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 546.
+(hyperref)                removing `math shift' on input line 551.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 546.
+(hyperref)                removing `subscript' on input line 551.
 
-[52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 590--590
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 551.
+
+[53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
 []|\OT1/ppl/m/it/12 Dock to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--590
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
 []|\OT1/ppl/m/it/12 Dock to
  []
 
-[54]
+[55]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 604.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 609.
 
 
-LaTeX Warning: Reference `abl-figure-2' on page 55 undefined on input line 606.
+LaTeX Warning: Reference `abl-figure-2' on page 56 undefined on input line 611.
 
 
 
-LaTeX Warning: Reference `fig:figure-si-1' on page 55 undefined on input line 6
-07.
+LaTeX Warning: Reference `fig:figure-si-1' on page 56 undefined on input line 6
+12.
 
-[55
+[56
 
 
 ]
-<figures/abl-figure-2.pdf, id=1234, 1156.32pt x 397.485pt>
+<figures/abl-figure-2.pdf, id=1250, 1156.32pt x 397.485pt>
 File: figures/abl-figure-2.pdf Graphic file (type pdf)
 <use figures/abl-figure-2.pdf>
-Package pdftex.def Info: figures/abl-figure-2.pdf  used on input line 617.
+Package pdftex.def Info: figures/abl-figure-2.pdf  used on input line 622.
 (pdftex.def)             Requested size: 617.90651pt x 212.40067pt.
- [56 <./figures/abl-figure-2.pdf>] (./albanese_dissertation.bbl [57
+ [57 <./figures/abl-figure-2.pdf>] (./albanese_dissertation.bbl [58
 
 
 ]
@@ -2123,16 +2131,16 @@ LaTeX Font Info:    Try loading font information for OT1+phv on input line 9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-) [58
+) [59
 
-] [59]
-[60] [61]
+] [60]
+[61] [62]
 Underfull \hbox (badness 1320) in paragraph at lines 354--359
 \OT1/ppl/m/n/10.95 is-tic Model Per-for-mance.  Drug Dis-cov To-day. 2009; 14(7
 ):420 -- 427.  [][]doi:
  []
 
-[62] [63] [64]
+[63] [64] [65]
 Underfull \hbox (badness 3954) in paragraph at lines 569--578
 [][]\OT1/ppl/b/n/10.95 Blake JF[]\OT1/ppl/m/n/10.95 , Burkard M, Chan J, Chen H
 , Chou KJ, Diaz D, Dud-ley DA,
@@ -2156,45 +2164,45 @@ Underfull \hbox (badness 4927) in paragraph at lines 569--578
 )-4-(2-((1-methyl-1H-
  []
 
-[65] [66] [67] [68] [69] [70]
+[66] [67] [68] [69] [70] [71]
 Underfull \hbox (badness 1314) in paragraph at lines 1016--1023
 \OT1/ppl/m/n/10.95 ber-gen RL, Valero V, Seoane J, Bernards R, Baselga J.  Phos
 -phatidyli-nos-i-tol
  []
 
-[71] [72] [73] [74] [75] [76]
-Underfull \hbox (badness 1762) in paragraph at lines 1489--1494
+[72] [73] [74] [75] [76] [77]
+Underfull \hbox (badness 1762) in paragraph at lines 1511--1516
 [][]\OT1/ppl/b/n/10.95 Mondal J[]\OT1/ppl/m/n/10.95 , Ti-wary P, Berne BJ.  How
  a Ki-nase In-hibitor With-stands Gate-
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 1489--1494
+Underfull \hbox (badness 1048) in paragraph at lines 1511--1516
 \OT1/ppl/m/n/10.95 keeper Residue Mu-ta-tions.  J Am Chem Soc. 2016; 138(13):46
 08--4615.  [][]doi:
  []
 
-[77]) [78]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 642.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 642.
+[78]) [79]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 647.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 647.
  (./albanese_dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 642.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 642.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 647.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 647.
 Package rerunfilecheck Info: File `albanese_dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 1D2B2CA0EF734D1ECB046FEC50D2E1FA;4822.
+(rerunfilecheck)             Checksum: 730AA3CB7AAB6034D809FE3F54BF5376;4857.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31177 strings out of 492649
- 617411 string characters out of 6129622
- 697935 words of memory out of 5000000
- 34245 multiletter control sequences out of 15000+600000
+ 31190 strings out of 492649
+ 617777 string characters out of 6129622
+ 698527 words of memory out of 5000000
+ 34254 multiletter control sequences out of 15000+600000
  593096 words of font info for 163 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,80p,10465b,1167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,13n,80p,10465b,1171s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/
@@ -2207,10 +2215,10 @@ atino/uplbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/
 uplr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a
 .pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on albanese_dissertation.pdf (89 pages, 7374283 bytes).
+Output written on albanese_dissertation.pdf (90 pages, 7376674 bytes).
 PDF statistics:
- 1596 PDF objects out of 1728 (max. 8388607)
- 1327 compressed objects within 14 object streams
- 333 named destinations out of 1000 (max. 500000)
+ 1612 PDF objects out of 1728 (max. 8388607)
+ 1342 compressed objects within 14 object streams
+ 337 named destinations out of 1000 (max. 500000)
  490 words of extra memory for PDF output out of 10000 (max. 10000000)
 
