@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 340 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 363 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 10120 items from 5000.
+Reallocated field_info (elt_size=4) to 10472 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -229,45 +229,46 @@ presort is already a type "wizard-defined" function name
 while executing---line 1953 of file vancouver-elife.bst
 Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
-You've used 160 entries,
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You've used 171 entries,
             3483 wiz_defined-function locations,
-            1754 strings with 59371 characters,
-and the built_in function-call counts, 627126 in all, are:
-= -- 79499
-> -- 4908
-< -- 27
-+ -- 2723
-- -- 1227
-* -- 58069
-:= -- 65895
-add.period$ -- 517
-call.type$ -- 160
-change.case$ -- 482
-chr.to.int$ -- 155
-cite$ -- 162
-duplicate$ -- 49896
-empty$ -- 59337
-format.name$ -- 1583
-if$ -- 144595
-int.to.chr$ -- 6
-int.to.str$ -- 161
-missing$ -- 2494
-newline$ -- 843
-num.names$ -- 320
-pop$ -- 4180
+            1817 strings with 63028 characters,
+and the built_in function-call counts, 668971 in all, are:
+= -- 84854
+> -- 5244
+< -- 30
++ -- 2903
+- -- 1311
+* -- 61909
+:= -- 70265
+add.period$ -- 550
+call.type$ -- 171
+change.case$ -- 515
+chr.to.int$ -- 165
+cite$ -- 173
+duplicate$ -- 53433
+empty$ -- 63263
+format.name$ -- 1692
+if$ -- 154274
+int.to.chr$ -- 7
+int.to.str$ -- 172
+missing$ -- 2666
+newline$ -- 898
+num.names$ -- 342
+pop$ -- 4447
 preamble$ -- 1
-purify$ -- 480
+purify$ -- 513
 quote$ -- 0
-skip$ -- 3315
+skip$ -- 3548
 stack$ -- 0
-substring$ -- 134611
-swap$ -- 6041
+substring$ -- 143352
+swap$ -- 6466
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 958
+type$ -- 1024
 warning$ -- 2
-while$ -- 2318
+while$ -- 2477
 width$ -- 0
-write$ -- 2161
+write$ -- 2304
 (There were 56 error messages)

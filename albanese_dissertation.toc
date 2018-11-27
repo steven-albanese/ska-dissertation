@@ -36,14 +36,18 @@
 \contentsline {subsection}{\numberline {3.2.1}Molecular dynamics simulations}{44}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Contact Map Analysis}{46}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Mean Contact formation over time}{46}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Results}{47}{section.3.3}
-\contentsline {section}{\numberline {3.4}Conclusions}{47}{section.3.4}
-\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{48}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{48}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{49}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{51}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{51}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{52}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{53}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{58}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{58}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {3.2.4}Alchemical free energy calculations}{47}{subsection.3.2.4}
+\contentsline {subsubsection}{Structure and Ligand Preparation}{47}{section*.27}
+\contentsline {subsubsection}{Docking}{48}{section*.28}
+\contentsline {subsubsection}{Protein mutation FEP+}{48}{section*.29}
+\contentsline {section}{\numberline {3.3}Results}{49}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusions}{49}{section.3.4}
+\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{50}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{50}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{51}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{53}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{53}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{54}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{55}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{60}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{60}{subsection.4.1.7}

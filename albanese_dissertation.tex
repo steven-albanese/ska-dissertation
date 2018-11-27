@@ -400,7 +400,7 @@ mTOR pathway alterations have been observed in a wide array of cancer types~\cit
 \end{landscape}
 
 \subsection{Using physical modeling to understand the functional impact of mTOR mutations}
-To begin to understand the impact of these missense mutations at an atomistic level, it was necessary to undertake a computational approach. In all, there were 45 single mutations and 190 double mutations, far more than could be crystallized individually~\citep{Xu:2016fw}. Molecular Dynamics simulations have been used previously. 
+To begin to understand the impact of these missense mutations at an atomistic level, we performed massively parallel molecular dynamics~\citep{Salsbury:2010ij} using the computing resource Folding@Home~\citep{Shirts:2000du}. Molecular Dynamics simulations have been used previously to understand the mechanism of oncogenic and resistance mutations on the structure and activation of EGFR~\citep{Shan:2012bs,Sutto:2013gy}. They have also been applied to understanding missense mutations in p53~\citep{Demir:2011bc}, CLIC2~\citep{Witham:2011co}, opsin~\citep{Tsukamoto:2013gr}, and a host of oncogenes and tumor suppressors\citep{Stehr:2011ga}. Using the previously solved crystal structure~\citep{Yang:2013gaa}, we built models for 45 single, and 190 double mutations, far more than could be crystallized individually~\citep{Xu:2016fw}. We analyzed the simulations for changes in contact formation, as well as changes in order parameters for activation mined from other kinase studies and previous work on mTOR biochemistry. We also piloted alchemical free energy calculations~\citep{Chodera:Curr.Opin.Struct.Biol.:2011} on a number clinically observed mutants, to compute physical testable properties such as change in affinity for ATP-competitive inhibitors and ATP itself. In doing so, we identify promising candidates for resistance mutations to an ATP competitive inhibitor, and lay the ground work for future studies on the application of these methods to studying the functional impact of mutations on inhibitor binding. Taken together, this work forms the beginning of a comprehensive analysis of the impact of these mutations on structure and small molecule binding, which has implications for the treatment of patients with these mutations. 
 
 
 \begin{landscape}
@@ -475,6 +475,20 @@ The fractional contact formation was calculated for 20 replicate 500ns trajector
 \end{equation}
 
 Where $\sigma$ in Equation~\ref{eq14} is the standard deviation, $X_i$ fractional contact for a frame $i$, $\mu$ is the mean fractional contact for a 20ns window, and n is the total number of frames in that sliding window. 
+
+\subsection{Alchemical free energy calculations}
+\subsubsection{Structure and Ligand Preparation}
+Structures for mTOR (4JSP~\citep{Yang:2013gaa} (ATP) and 4JSX~\citep{Yang:2013gaa} (AZD8055)) were downloaded from the PDB~\citep{Berman2002-hg}.
+Models were prepared from chain A of  each structure using Schr{\"o}dinger's PrepWizard (2016-1)~\citep{Sastry2013-ax}. All other chains were deleted. PrepWizard was used to add in hydrogens at pH 7.4 for both protein residues and the cocrystallized ligand. The protonation state of the cocrystallized ligand was assigned the lowest energy state using Epik at pH $7.4\pm2$. Hydrogen bonding was optimized using PROPKA at pH $7.4\pm2$. Each of the structures was minimized using OPLS3~\citep{Harder:J.Chem.TheoryComput.:2016} and an RMSD convergence cutoff of 0.3$\AA$. The missing loops, due to their large size, were not modeled in, and were capped by PrepWizard. 
+
+ATP and AZD8055 were prepared for docking using Schr{\"o}dinger's LigPrep (2016-1). 3D structures were generated using OPL3, and ionization state determined by Epik at pH $7.4\pm2$. All other settings were left on default. The lowest Epik state penalty state was selected for each ligand. 
+
+\subsubsection{Docking}
+ATP and AZD8055 were docked into 4JSP and 4JSX, respectively, using Schr{\"o}dinger's GLIDE (2016-1)~\citep{Friesner:2004hm,Halgren:2004dr,Friesner:2006cp}. The receptor grid was generated centered on the cocrystallized ligand using the default settings of the Receptor Grid Generation panel. None of the rotatable groups were allowed to rotate to improve computational efficiency. The ligands were docked into these receptor grids using the extra precision (XP) protocol. Ligand sampling was set to flexible, allowing for nitrogen inversions and sampling of different ring conformations. Epik state penalties were added to the docking score, although only one input for each ligand was used. A post docking minimization was performed on the top 5 poses for each ligand. The docking protocol was set to write out only the best pose for each ligand, on the basis of the docking score after minimization. 
+
+\subsubsection{Protein mutation FEP+}
+Protein mutation FEP+~\citep{Wang2015-cn,Hauser:2018vz,Abel:2017jt} was used to calculate $\Delta \Delta G_{mutation}$ for both ATP and AZD8055 structures for each mutation. The models generated above were parameterized using the default OPLS3 forcefield~\citep{Harder2016-zn} that shipped with Maestro 2016-1. SPC parameters were used for water. The FEP+ panel offers an automated workflow with only requires an input structure and specified mutations. The protocol carried out as described in reference~\cite{Hauser:2018vz}, with only single replicates performed. The reported uncertainties in each $\Delta \Delta G_{mutation}$ are the BAR uncertainty estimates. 
+
 
 \section{Results}
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{160}
+\begin{thebibliography}{171}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -473,14 +473,15 @@
   challenges.
 \newblock Curr Opin Struct Biol.  2011 Apr; 21(2):150--160.
 
-\bibitem[{Wang et~al.(2015)Wang, Lingle and Wu, Yujie and Deng, Yuqing and Kim,
-  Byungchan and Pierce, Levi and Krilov, Goran and Lupyan, Dmitry and Robinson,
-  Shaughnessy and Dahlgren, Markus K. and Greenwood, Jeremy and Romero, Donna
-  L. and Masse, Craig and Knight, Jennifer L. and Steinbrecher, Thomas and
-  Beuming, Thijs and Damm, Wolfgang and Harder, Ed and Sherman, Woody and
-  Brewer, Mark and Wester, Ron and Murcko, Mark and Frye, Leah and Farid, Ramy
-  and Lin, Teng and Mobley, David L. and Jorgensen, William L. and Berne, Bruce
-  J. and Friesner, Richard A. and Abel, Robert}]{Wang:J.Am.Chem.Soc.:2015}
+\bibitem[{Wang et~al.(2015{\natexlab{a}})Wang, Lingle and Wu, Yujie and Deng,
+  Yuqing and Kim, Byungchan and Pierce, Levi and Krilov, Goran and Lupyan,
+  Dmitry and Robinson, Shaughnessy and Dahlgren, Markus K. and Greenwood,
+  Jeremy and Romero, Donna L. and Masse, Craig and Knight, Jennifer L. and
+  Steinbrecher, Thomas and Beuming, Thijs and Damm, Wolfgang and Harder, Ed and
+  Sherman, Woody and Brewer, Mark and Wester, Ron and Murcko, Mark and Frye,
+  Leah and Farid, Ramy and Lin, Teng and Mobley, David L. and Jorgensen,
+  William L. and Berne, Bruce J. and Friesner, Richard A. and Abel,
+  Robert}]{Wang:J.Am.Chem.Soc.:2015}
 \textbf{\color{eLifeMediumGrey} Wang L}, Wu Y, Deng Y, Kim B, Pierce L, Krilov
   G, Lupyan D, Robinson S, Dahlgren MK, Greenwood J, Romero DL, Masse C, Knight
   JL, Steinbrecher T, Beuming T, Damm W, Harder E, Sherman W, Brewer M, Wester
@@ -1130,6 +1131,79 @@
   predict sensitivity to rapamycin.}
 \newblock The Journal of clinical investigation.  2016 Sep; 126(9):3526--3540.
 
+\bibitem[{Salsbury(2010)Salsbury, Freddie R}]{Salsbury:2010ij}
+\textbf{\color{eLifeMediumGrey} Salsbury FR}.
+\newblock {Molecular dynamics simulations of protein dynamics and their
+  relevance to drug discovery.}
+\newblock Current opinion in pharmacology.  2010 Dec; 10(6):738--744.
+
+\bibitem[{{Shirts, M} and {Pande, V S}(2000)}]{Shirts:2000du}
+\textbf{\color{eLifeMediumGrey} {Shirts, M}}, {Pande, V S}.
+\newblock {COMPUTING: Screen Savers of the World Unite!}
+\newblock Science.  2000 Dec; 290(5498):1903--1904.
+
+\bibitem[{Shan et~al.(2012)Shan, Yibing and Eastwood, Michael P and Zhang,
+  Xuewu and Kim, Eric T and Arkhipov, Anton and Dror, Ron O and Jumper, John
+  and Kuriyan, John and Shaw, David E}]{Shan:2012bs}
+\textbf{\color{eLifeMediumGrey} Shan Y}, Eastwood MP, Zhang X, Kim ET, Arkhipov
+  A, Dror RO, Jumper J, Kuriyan J, Shaw DE.
+\newblock {Oncogenic mutations counteract intrinsic disorder in the EGFR kinase
+  and promote receptor dimerization.}
+\newblock Cell.  2012 May; 149(4):860--870.
+
+\bibitem[{Sutto and Gervasio(2013)Sutto, Ludovico and Gervasio, Francesco
+  Luigi}]{Sutto:2013gy}
+\textbf{\color{eLifeMediumGrey} Sutto L}, Gervasio FL.
+\newblock {Effects of oncogenic mutations on the conformational free-energy
+  landscape of EGFR kinase.}
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America.  2013 Jun; 110(26):10616--10621.
+
+\bibitem[{Demir et~al.(2011)Demir, {\"O}zlem and Baronio, Roberta and Salehi,
+  Faezeh and Wassman, Christopher D and Hall, Linda and Hatfield, G Wesley and
+  Chamberlin, Richard and Kaiser, Peter and Lathrop, Richard H and Amaro,
+  Rommie E}]{Demir:2011bc}
+\textbf{\color{eLifeMediumGrey} Demir {\"O}}, Baronio R, Salehi F, Wassman CD,
+  Hall L, Hatfield GW, Chamberlin R, Kaiser P, Lathrop RH, Amaro RE.
+\newblock {Ensemble-based computational approach discriminates functional
+  activity of p53 cancer and rescue mutants.}
+\newblock PLoS Computational Biology.  2011 Oct; 7(10):e1002238.
+
+\bibitem[{Witham et~al.(2011)Witham, Shawn and Takano, Kyoko and Schwartz,
+  Charles and Alexov, Emil}]{Witham:2011co}
+\textbf{\color{eLifeMediumGrey} Witham S}, Takano K, Schwartz C, Alexov E.
+\newblock {A missense mutation in CLIC2 associated with intellectual disability
+  is predicted by in silico modeling to affect protein stability and dynamics.}
+\newblock Proteins.  2011 Aug; 79(8):2444--2454.
+
+\bibitem[{Tsukamoto and Farrens(2013)Tsukamoto, Hisao and Farrens, David
+  L}]{Tsukamoto:2013gr}
+\textbf{\color{eLifeMediumGrey} Tsukamoto H}, Farrens DL.
+\newblock {A constitutively activating mutation alters the dynamics and
+  energetics of a key conformational change in a ligand-free G protein-coupled
+  receptor.}
+\newblock The Journal of biological chemistry.  2013 Sep; 288(39):28207--28216.
+
+\bibitem[{Stehr et~al.(2011)Stehr, Henning and Jang, Seon-Hi J and Duarte,
+  Jos{\'e} M and Wierling, Christoph and Lehrach, Hans and Lappe, Michael and
+  Lange, Bodo M H}]{Stehr:2011ga}
+\textbf{\color{eLifeMediumGrey} Stehr H}, Jang SHJ, Duarte JM, Wierling C,
+  Lehrach H, Lappe M, Lange BMH.
+\newblock {The structural impact of cancer-associated missense mutations in
+  oncogenes and tumor suppressors.}
+\newblock Molecular cancer.  2011 May; 10(1):54.
+
+\bibitem[{Chodera et~al.(2011{\natexlab{b}})Chodera, John D and Mobley, David L
+  and Shirts, Michael R and Dixon, Richard W and Branson, Kim and Pande, Vijay
+  S}]{Chodera:Curr.Opin.Struct.Biol.:2011}
+\textbf{\color{eLifeMediumGrey} Chodera JD}, Mobley DL, Shirts MR, Dixon RW,
+  Branson K, Pande VS.
+\newblock Alchemical Free Energy Methods for Drug Discovery: Progress and
+  Challenges.
+\newblock Curr Opin Struct Biol.  2011 Apr; 21(2):150--160.
+\newblock \href{10.1016/j.sbi.2011.01.011}{\doiprefix
+  \detokenize{10.1016/j.sbi.2011.01.011}}.
+
 \bibitem[{Zehir et~al.(2017)Zehir, Ahmet and Benayed, Ryma and Shah, Ronak H
   and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and Srinivasan,
   Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin, Sean M and
@@ -1220,11 +1294,6 @@
   rigid water models}.
 \newblock Journal of Computational Chemistry.  1992; 13(8):952--962.
 
-\bibitem[{{Shirts, M} and {Pande, V S}(2000)}]{Shirts:2000du}
-\textbf{\color{eLifeMediumGrey} {Shirts, M}}, {Pande, V S}.
-\newblock {COMPUTING: Screen Savers of the World Unite!}
-\newblock Science.  2000 Dec; 290(5498):1903--1904.
-
 \bibitem[{Eastman et~al.(2013)Eastman, Peter and Friedrichs, Mark S and
   Chodera, John D and Radmer, Randall J and Bruns, Christopher M and Ku, Joy P
   and Beauchamp, Kyle A and Lane, Thomas J and Wang, Lee-Ping and Shukla,
@@ -1248,6 +1317,52 @@
 \newblock {MDTraj: A Modern Open Library for the Analysis of Molecular Dynamics
   Trajectories.}
 \newblock Biophysical journal.  2015 Oct; 109(8):1528--1532.
+
+\bibitem[{Friesner et~al.(2004)Friesner, Richard A and Banks, Jay L and Murphy,
+  Robert B and Halgren, Thomas A and Klicic, Jasna J and Mainz, Daniel T and
+  Repasky, Matthew P and Knoll, Eric H and Shelley, Mee and Perry, Jason K and
+  Shaw, David E and Francis, Perry and Shenkin, Peter S}]{Friesner:2004hm}
+\textbf{\color{eLifeMediumGrey} Friesner RA}, Banks JL, Murphy RB, Halgren TA,
+  Klicic JJ, Mainz DT, Repasky MP, Knoll EH, Shelley M, Perry JK, Shaw DE,
+  Francis P, Shenkin PS.
+\newblock {Glide: a new approach for rapid, accurate docking and scoring. 1.
+  Method and assessment of docking accuracy.}
+\newblock Journal of medicinal chemistry.  2004 Mar; 47(7):1739--1749.
+
+\bibitem[{Halgren et~al.(2004)Halgren, Thomas A and Murphy, Robert B and
+  Friesner, Richard A and Beard, Hege S and Frye, Leah L and Pollard, W Thomas
+  and Banks, Jay L}]{Halgren:2004dr}
+\textbf{\color{eLifeMediumGrey} Halgren TA}, Murphy RB, Friesner RA, Beard HS,
+  Frye LL, Pollard WT, Banks JL.
+\newblock {Glide: a new approach for rapid, accurate docking and scoring. 2.
+  Enrichment factors in database screening.}
+\newblock Journal of medicinal chemistry.  2004 Mar; 47(7):1750--1759.
+
+\bibitem[{Friesner et~al.(2006)Friesner, Richard A and Murphy, Robert B and
+  Repasky, Matthew P and Frye, Leah L and Greenwood, Jeremy R and Halgren,
+  Thomas A and Sanschagrin, Paul C and Mainz, Daniel T}]{Friesner:2006cp}
+\textbf{\color{eLifeMediumGrey} Friesner RA}, Murphy RB, Repasky MP, Frye LL,
+  Greenwood JR, Halgren TA, Sanschagrin PC, Mainz DT.
+\newblock {Extra precision glide: docking and scoring incorporating a model of
+  hydrophobic enclosure for protein-ligand complexes.}
+\newblock Journal of medicinal chemistry.  2006 Oct; 49(21):6177--6196.
+
+\bibitem[{Wang et~al.(2015{\natexlab{b}})Wang, Lingle and Wu, Yujie and Deng,
+  Yuqing and Kim, Byungchan and Pierce, Levi and Krilov, Goran and Lupyan,
+  Dmitry and Robinson, Shaughnessy and Dahlgren, Markus K and Greenwood, Jeremy
+  and Romero, Donna L and Masse, Craig and Knight, Jennifer L and Steinbrecher,
+  Thomas and Beuming, Thijs and Damm, Wolfgang and Harder, Ed and Sherman,
+  Woody and Brewer, Mark and Wester, Ron and Murcko, Mark and Frye, Leah and
+  Farid, Ramy and Lin, Teng and Mobley, David L and Jorgensen, William L and
+  Berne, Bruce J and Friesner, Richard A and Abel, Robert}]{Wang2015-cn}
+\textbf{\color{eLifeMediumGrey} Wang L}, Wu Y, Deng Y, Kim B, Pierce L, Krilov
+  G, Lupyan D, Robinson S, Dahlgren MK, Greenwood J, Romero DL, Masse C, Knight
+  JL, Steinbrecher T, Beuming T, Damm W, Harder E, Sherman W, Brewer M, Wester
+  R, et~al.
+\newblock Accurate and Reliable Prediction of Relative Ligand Binding Potency
+  in Prospective Drug Discovery by Way of a Modern {Free-Energy} Calculation
+  Protocol and Force Field.
+\newblock J Am Chem Soc.  2015 Feb; 137(7):2695--2703.
 
 \bibitem[{Shah et~al.(2002)Shah, Neil P. and Nicoll, John M. and Nagar, Bhushan
   and Gorre, Mercedes E. and Paquette, Ronald L. and Kuriyan, John and Sawyers,
@@ -1433,17 +1548,6 @@
 \newblock Nucleic Acids Res.  2014 Aug; 42(14):e112--e112.
 \newblock \href{10.1093/nar/gku511}{\doiprefix
   \detokenize{10.1093/nar/gku511}}.
-
-\bibitem[{Chodera et~al.(2011{\natexlab{b}})Chodera, John D and Mobley, David L
-  and Shirts, Michael R and Dixon, Richard W and Branson, Kim and Pande, Vijay
-  S}]{Chodera:Curr.Opin.Struct.Biol.:2011}
-\textbf{\color{eLifeMediumGrey} Chodera JD}, Mobley DL, Shirts MR, Dixon RW,
-  Branson K, Pande VS.
-\newblock Alchemical Free Energy Methods for Drug Discovery: Progress and
-  Challenges.
-\newblock Curr Opin Struct Biol.  2011 Apr; 21(2):150--160.
-\newblock \href{10.1016/j.sbi.2011.01.011}{\doiprefix
-  \detokenize{10.1016/j.sbi.2011.01.011}}.
 
 \bibitem[{Aldeghi et~al.(2016)Aldeghi, Matteo and Heifetz, Alexander and
   Bodkin, Michael J. and Knapp, Stefan and Biggin, Philip
