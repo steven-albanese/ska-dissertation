@@ -531,7 +531,7 @@
 
 
 
-\RequirePackage[colorlinks=true,allcolors=black,citecolor=eLifeMediumGrey,linkcolor=eLifeMediumGrey,urlcolor=eLifeLightBlue]{hyperref}
+\RequirePackage[colorlinks=true,allcolors=black,citecolor=eLifeLightBlue,linkcolor=eLifeLightBlue,urlcolor=eLifeLightBlue]{hyperref}
 \urlstyle{sf}
 
 \RequirePackage[small,labelfont=small,textfont=small]{caption}
