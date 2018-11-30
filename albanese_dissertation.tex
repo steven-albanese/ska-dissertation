@@ -493,22 +493,9 @@ Despite the promise of being able to identify structural rearrangements in an au
 	\end{figure}
 \end{landscape}
 
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=1.0\linewidth]{figures/mtor-fig8.pdf}
-		\caption[Double mutant may shift the populations of kinase conformation on a common activation order paramter]{
-			{\bf Double mutant may shift the populations of kinase conformation on a common activation order paramter}
-			{\bf Right} Fractional contact formation analysis for 20 500ns trajectories, analyzed in 20ns sliding window chunks. Contacts cutoff at 4Å for closest heavy atom.  Plotted is the mean $\pm$ SEM. The dashed lines represent the proportion roughly populated in the WT simulations. {\bf Left} Illustration of the bond formed between K2187 and D2195 (red) or D2195 and R2430 (blue). ATP is shown in spheres. The kinase domain (white) is shown with the activation loop (teal) and the $\alpha$ helices (red). The FRB domain is shown in gold. 
-		}
-		\label{fig:mtor-figure8}
-	\end{figure}
-\end{landscape}
-
-
 
 \subsection{Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}
-Another hypothesis for how the missense mutations may be hyperactivating looked at the role the FAT domain, which clamps around the kinase domain, plays in regulating the activity of mTOR. In previous work, point mutations that disrupted the formation of the salt bridge between E2419 and R1905 (Figure~\ref{fig:mtor-figure6}, red) activated TOR signaling in yeast and mammalian cell lines~\citep{Urano:2007er}. From this observation, we hypothesized that stable contacts formed between the kinase domain and FAT domain have a negative regulatory role on the activity of mTOR, and that disruption of these bonds through some allosteric mechanism would allow an oncogenic mutant to activate mTOR. Another set of contacts, Gln1941 to Gln2200 (Figure~\ref{fig:mtor-figure6}, blue) is conserved across many mTOR orthologs~\citep{Yang:2013gaa}, suggesitng a potential regulatory role. We also looked at several other salt bridges in the vicinity of these contacts: E1147 and K2218 (cyan), Q1425 and R2322 (magenta), and E1427 and R2322 (yellow). Shown in Figure~\ref{fig:mtor-figure6} is a representative selection of mutations from the kinase domain, demonstrating that none of the salt bridges showed a prominent change from the wild type to mutant simulations. Of note, R2505P appears to have a disruption int he formation of the Gln1941 and Gln2200,  E1147 and K2218, and E2419 and R1905 contacts, indicating that this may be a possible mechanism of activation for this mutant. However, this is difficult to say with certainty without functional experimental data or additional computation to confirm this result. 
+Another hypothesis for how the missense mutations may be hyperactivating looked at the role the FAT domain, which clamps around the kinase domain, plays in regulating the activity of mTOR. In previous work, point mutations that disrupted the formation of the salt bridge between E2419 and R1905 (Figure~\ref{fig:mtor-figure6}, red) activated TOR signaling in yeast and mammalian cell lines~\citep{Urano:2007er}. From this observation, we hypothesized that stable contacts formed between the kinase domain and FAT domain have a negative regulatory role on the activity of mTOR, and that disruption of these bonds through some allosteric mechanism would allow an oncogenic mutant to activate mTOR. Another set of contacts, Gln1941 to Gln2200 (Figure~\ref{fig:mtor-figure6}, blue) is conserved across many mTOR orthologs~\citep{Yang:2013gaa}, suggesitng a potential regulatory role. We also looked at several other salt bridges in the vicinity of these contacts: E1147 and K2218 (cyan), Q1425 and R2322 (magenta), and E1427 and R2322 (yellow). Shown in Figure~\ref{fig:mtor-figure6} is a representative selection of mutations from the kinase domain, demonstrating that none of the salt bridges showed a prominent change from the wild type to mutant simulations. Of note, R2505P appears to have a disruption int he formation of the Q1941 and Q2200,  E1147 and K2218, and E2419 and R1905 contacts, indicating that this may be a possible mechanism of activation for this mutant. However, this is difficult to say with certainty without functional experimental data or additional computation to confirm this result. 
 
 \begin{landscape}
 	\begin{figure}[p]
@@ -522,18 +509,8 @@ Another hypothesis for how the missense mutations may be hyperactivating looked 
 	\end{figure}
 \end{landscape}
 
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=1.0\linewidth]{figures/mtor-fig9.pdf}
-		\caption[Missense mutations in the FAT domain may disrupt interactions between the kinase and FAT domains]{
-			{\bf Missense mutations in the FAT domain may disrupt interactions between the kinase and FAT domains}
-			{\bf Left} Fractional contact formation analysis for 10 500ns trajectories, analyzed in 20ns sliding window chunks. Contacts cutoff at 4Å for closest heavy atom.  Plotted is the mean $\pm$ SEM. The dashed lines represent the proportion roughly populated in the WT simulations. {\bf Right} Illustration of the distances being plotted between E2419 and R1905 (red), Q1941 and 2200 (blue). The kinase domain (white) interacts with the FAT domain (black) through salt bridges and hydrogen bonds formed by the highlighted residues (magenta) 
-		}
-		\label{fig:mtor-figure9}
-	\end{figure}
-\end{landscape}
+\subsection{Free energy calculations show promise in predicting impact of mutations on small molecule and ATP affinity}
+The preceding work on trying to understand the functional impact of mutations using traditional molecular dynamics highlights one of the key challenges of the application of physical modeling to this question: the need to compute meaningful, physically testable quantities. Alchemical free energy calculations have been previously used to predict the impact of mutations on protein-protein binding~\citep{clark2017free} and protein thermostabilities~\citep{steinbrecher2017predicting}. Based on this work, we set out to see if free energy calculations could be used to identify clinically observed mutations that might cause resistance to an ATP-competitive inhibitor. Here, we propose a model of resistance mutants that cause a decrease in affinity for an ATP-competitive inhibitor while maintaining a basic level of ATP affinity (Figure~\ref{fig:mtor-figure7}, left panels). An increase in ATP affinity could be a mechanism of resistance by making it more difficult for ATP-competitive inhibitors to out-compete ATP, as well as a mechanism of activation. To explore the impact of mutations on affinity for these compounds, we built models of mTOR bound to ATP (Figure~\ref{fig:mtor-figure7}, top left) and AZD8055 (Figure~\ref{fig:mtor-figure7}, bottom left). Using protein mutation FEP+~\citep{Hauser:2018vz,steinbrecher2017predicting}, we ran preliminary calculations for a small panel of mutations from the MSKCC-IMPACT assay~\citep{Zehir:Nat.Med.:2017}. Three showed greater than 1-log unit, or 1.4 kcal/mol, decrease in affinity for AZD8055 (Figure~\ref{fig:mtor-figure7}, blue bars). W2239C, a missense mutation observed in a patient with cervical squamous cell carcinoma that occured together with a known activating mutation S2215F~\citep{Cerami:2012eu,Gao:2013kd},  showed the greatest decrease in affinity (shown as a positive $\Delta \Delta G_{mutation}$ in Figure~\ref{fig:mtor-figure7}). While we were not able to confirm via prediction that ATP-affinity is not maintained, this result suggests that treatment with an ATP-competitive inhibitor targeting mTOR may be less effective than expected. M2345V and Y2225C are also both predicted to decrease the affinity for AZD8055. M2345V was observed in a cell line from a patient with cancer of unknown primary tissue and co-occurred with a TSC2 E75K mutation, which is likely to be loss of function~\citep{Barretina:2012fp}. Y2225C was observed in a patient with tubular stomach adenocarcinoma, who also had a slight copy number gain in both MTOR and DEPTOR~\citep{CancerGenomeAtlasResearchNetwork:2017fh}. All three of these mutations are exceedingly rare and occur in tumors with relatively high mutation burden. These preliminary results suggest that free energy calculations can potentially aid in understanding or teasing apart the functional impact of rare mutations in complex tumors.
 
 \begin{landscape}
 	\begin{figure}[p]
@@ -548,10 +525,10 @@ Another hypothesis for how the missense mutations may be hyperactivating looked 
 \end{landscape}
 
 
-
 \section{Conclusions}
 
-\chapter{Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}
+
+\chapter{Predicting the impact of clinically-observed mutations using physical modeling and biophysical experiments}
 \section{Introduction}
 Targeted kinase inhibitors are a major therapeutic class in the treatment of cancer.
 A total of 44 selective small molecule kinase inhibitors have now been approved by the FDA~\citep{fda-approved-kinase-inhibitors}, including 34 approved to treat cancer, and perhaps 50\% of all current drugs in development target kinases~\citep{Santos:Nat.Rev.DrugDiscov.:2016}.

@@ -45,9 +45,10 @@
 \contentsline {section}{\numberline {3.3}Results}{47}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Missense mutations perturb the structure of mTOR kinase domain}{47}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Missense mutations do not appear to shift the formation of an active kinase domain}{50}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}{53}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}{52}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Free energy calculations show promise in predicting impact of mutations on small molecule and ATP affinity}{54}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Conclusions}{57}{section.3.4}
-\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed Abl inhibitors using physical modeling and biophysical experiments}{58}{chapter.4}
+\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed mutations using physical modeling and biophysical experiments}{58}{chapter.4}
 \contentsline {section}{\numberline {4.1}Introduction}{58}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{59}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{61}{subsection.4.1.2}
