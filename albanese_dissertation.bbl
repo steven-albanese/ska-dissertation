@@ -1,4 +1,4 @@
-\begin{thebibliography}{176}
+\begin{thebibliography}{179}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -1479,6 +1479,27 @@
   Alabama}, {University of Michigan}, et~al.
 \newblock {Integrated genomic characterization of oesophageal carcinoma.}
 \newblock Nature.  2017 Jan; 541(7636):169--175.
+
+\bibitem[{Stuttfeld et~al.(2018)Stuttfeld, Edward and Aylett, Christopher Hs
+  and Imseng, Stefan and Boehringer, Daniel and Scaiola, Alain and Sauer,
+  Evelyn and Hall, Michael N and Maier, Timm and Ban, Nenad}]{Stuttfeld:2018kg}
+\textbf{\color{eLifeMediumGrey} Stuttfeld E}, Aylett CH, Imseng S, Boehringer
+  D, Scaiola A, Sauer E, Hall MN, Maier T, Ban N.
+\newblock {Architecture of the human mTORC2 core complex.}
+\newblock eLife.  2018 Feb; 7:48.
+
+\bibitem[{Yuan and Guan(2016)Yuan, Hai-Xin and Guan, Kun-Liang}]{Yuan:2016ef}
+\textbf{\color{eLifeMediumGrey} Yuan HX}, Guan KL.
+\newblock {Structural insights of mTOR complex 1.}
+\newblock Cell research.  2016 Mar; 26(3):267--268.
+
+\bibitem[{Yang et~al.(2016)Yang, Huirong and Wang, Jia and Liu, Mengjie and
+  Chen, Xizi and Huang, Min and Tan, Dan and Dong, Meng-Qiu and Wong, Catherine
+  C L and Wang, Jiawei and Xu, Yanhui and Wang, Hong-Wei}]{Yang:2016kk}
+\textbf{\color{eLifeMediumGrey} Yang H}, Wang J, Liu M, Chen X, Huang M, Tan D,
+  Dong MQ, Wong CCL, Wang J, Xu Y, Wang HW.
+\newblock {4.4 {\AA} Resolution Cryo-EM structure of human mTOR Complex 1.}
+\newblock Protein {\&} cell.  2016 Dec; 7(12):878--887.
 
 \bibitem[{Shah et~al.(2002)Shah, Neil P. and Nicoll, John M. and Nagar, Bhushan
   and Gorre, Mercedes E. and Paquette, Ronald L. and Kuriyan, John and Sawyers,
