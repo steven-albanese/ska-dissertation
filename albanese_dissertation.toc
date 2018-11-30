@@ -48,12 +48,12 @@
 \contentsline {subsection}{\numberline {3.3.3}Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}{52}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}Free energy calculations show promise in predicting impact of mutations on small molecule and ATP affinity}{54}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Conclusions}{57}{section.3.4}
-\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed mutations using physical modeling and biophysical experiments}{58}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{58}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{59}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{61}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{61}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{62}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{63}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{68}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{68}{subsection.4.1.7}
+\contentsline {chapter}{\numberline {4}Predicting the impact of clinically-observed mutations using physical modeling and biophysical experiments}{59}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{59}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{60}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Alchemical free-energy methods can predict inhibitor binding affinities}{62}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Alchemical approaches can predict the impact of protein mutations on free energy}{62}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{63}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{64}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Summary of experimental data that is available and what needs to be done to make better information available}{69}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Open-source YANK/Amber forcefield stuff}{69}{subsection.4.1.7}
