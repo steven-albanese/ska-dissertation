@@ -1,7 +1,255 @@
-\begin{thebibliography}{179}
+\begin{thebibliography}{205}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
+
+\bibitem[{Siegel et~al.(2018)Siegel, Rebecca L and Miller, Kimberly D and
+  Jemal, Ahmedin}]{Siegel:2018cq}
+\textbf{\color{eLifeMediumGrey} Siegel RL}, Miller KD, Jemal A.
+\newblock {Cancer statistics, 2018.}
+\newblock CA: a cancer journal for clinicians.  2018 Jan; 68(1):7--30.
+
+\bibitem[{Cohen and Tcherpakov(2010{\natexlab{a}})Cohen, Philip and Tcherpakov,
+  Marianna}]{Cohen:2010fs}
+\textbf{\color{eLifeMediumGrey} Cohen P}, Tcherpakov M.
+\newblock {Will the ubiquitin system furnish as many drug targets as protein
+  kinases?}
+\newblock Cell.  2010 Nov; 143(5):686--693.
+
+\bibitem[{{Robert Roskoski Jr}(2017)}]{fda-approved-kinase-inhibitors}
+\textbf{\color{eLifeMediumGrey} {Robert Roskoski Jr}}.
+\newblock {{USFDA}} Approved Protein Kinase Inhibitors.
+\newblock .  2017; \urlprefix\url{http://www.brimr.org/PKI/PKIs.htm}, updated 3
+  May 2017.
+
+\bibitem[{{Paul, Steven M} et~al.(2010){Paul, Steven M} and {Mytelka, Daniel S}
+  and {Dunwiddie, Christopher T} and {Persinger, Charles C} and {Munos, Bernard
+  H} and {Lindborg, Stacy R} and {Schacht, Aaron L}}]{Paul:2010ff}
+\textbf{\color{eLifeMediumGrey} {Paul, Steven M}}, {Mytelka, Daniel S},
+  {Dunwiddie, Christopher T}, {Persinger, Charles C}, {Munos, Bernard H},
+  {Lindborg, Stacy R}, {Schacht, Aaron L}.
+\newblock {How to improve R{\&}D productivity: the pharmaceutical industry's
+  grand challenge.}
+\newblock Nature reviews Drug discovery.  2010 Mar; 9(3):203--214.
+
+\bibitem[{Sanchez-Vega et~al.(2018)Sanchez-Vega, Francisco and Hechtman, Jaclyn
+  F and Castel, Pau and Ku, Geoffrey Y and Tuvy, Yaelle and Won, Helen and
+  Fong, Christoper J and Bouvier, Nancy and Nanjangud, Gouri J and Soong,
+  Joanne and Vakiani, Efsevia and Schattner, Mark and Kelsen, David P and
+  Lefkowitz, Robert A and Brown, Karen and Lacouture, Mario E and Capanu,
+  Marinela and Mattar, Marissa and Qeriqi, Besnik and Cecchi, Fabiola and Tian,
+  Yuan and Hembrough, Todd and Nagy, Rebecca J and Lanman, Richard B and
+  Larson, Steven M and Pandit-Taskar, Neeta and Schoder, Heiko and
+  Iacobuzio-Donahue, Christine A and Ilson, David H and Weber, Wolfgang A and
+  Berger, Michael F and de Stanchina, Elisa and Taylor, Barry S and Lewis,
+  Jason S and Solit, David B and Carrasquillo, Jorge A and Scaltriti, Maurizio
+  and Schultz, Nikolaus and Janjigian, Yelena Y}]{SanchezVega:2018jg}
+\textbf{\color{eLifeMediumGrey} Sanchez-Vega F}, Hechtman JF, Castel P, Ku GY,
+  Tuvy Y, Won H, Fong CJ, Bouvier N, Nanjangud GJ, Soong J, Vakiani E,
+  Schattner M, Kelsen DP, Lefkowitz RA, Brown K, Lacouture ME, Capanu M, Mattar
+  M, Qeriqi B, Cecchi F, et~al.
+\newblock {EGFR and MET Amplifications Determine Response to HER2 Inhibition in
+  ERBB2-Amplified Esophagogastric Cancer.}
+\newblock Cancer discovery.  2018 Nov; .
+
+\bibitem[{Pao et~al.(2005)Pao, William and Miller, Vincent A and Politi,
+  Katerina A and Riely, Gregory J and Somwar, Romel and Zakowski, Maureen F nd
+  Kris, Mark G and Varmus, Harold}]{Pao:2005dp}
+\textbf{\color{eLifeMediumGrey} Pao W}, Miller VA, Politi KA, Riely GJ, Somwar
+  R, Zakowski MG Maureen F nd~Kris, Varmus H.
+\newblock {Acquired resistance of lung adenocarcinomas to gefitinib or
+  erlotinib is associated with a second mutation in the EGFR kinase domain.}
+\newblock PLoS medicine.  2005 Mar; 2(3):e73.
+
+\bibitem[{Knight et~al.(2010{\natexlab{a}})Knight, Zachary A. and Lin, Henry
+  and Shokat, Kevan M.}]{Knight:Nat.Rev.Cancer:2010}
+\textbf{\color{eLifeMediumGrey} Knight ZA}, Lin H, Shokat KM.
+\newblock Targeting the Cancer Kinome through Polypharmacology.
+\newblock Nat Rev Cancer.  2010; 10(2):130.
+
+\bibitem[{Chandarlapaty et~al.(2011{\natexlab{a}})Chandarlapaty, Sarat and
+  Sawai, Ayana and Scaltriti, Maurizio and Rodrik-Outmezguine, Vanessa and
+  Grbovic-Huezo, Olivera and Serra, Violeta and Majumder, Pradip K. and
+  Baselga, Jose and Rosen, Neal}]{Chandarlapaty:CancerCell:2011}
+\textbf{\color{eLifeMediumGrey} Chandarlapaty S}, Sawai A, Scaltriti M,
+  Rodrik-Outmezguine V, Grbovic-Huezo O, Serra V, Majumder PK, Baselga J, Rosen
+  N.
+\newblock {{AKT Inhibition Relieves Feedback Suppression}} of {{Receptor
+  Tyrosine Kinase Expression}} and {{Activity}}.
+\newblock Cancer Cell.  2011 Jan; 19(1):58--71.
+\newblock \href{10.1016/j.ccr.2010.10.031}{\doiprefix
+  \detokenize{10.1016/j.ccr.2010.10.031}}.
+
+\bibitem[{Rudmann(2013)Rudmann, Daniel G}]{Rudmann2013-hi}
+\textbf{\color{eLifeMediumGrey} Rudmann DG}.
+\newblock On-target and off-target-based toxicologic effects.
+\newblock Toxicol Pathol.  2013 Feb; 41(2):310--314.
+
+\bibitem[{Liu and Kurzrock(2014)Liu, Sariah and Kurzrock, Razelle}]{Liu2014-yi}
+\textbf{\color{eLifeMediumGrey} Liu S}, Kurzrock R.
+\newblock Toxicity of targeted therapy: Implications for response and impact of
+  genetic polymorphisms.
+\newblock Cancer Treat Rev.  2014 Aug; 40(7):883--891.
+
+\bibitem[{Manning et~al.(2002{\natexlab{a}})Manning, G and Whyte, D B and
+  Martinez, R and Hunter, T and Sudarsanam, S}]{Manning2002-cw}
+\textbf{\color{eLifeMediumGrey} Manning G}, Whyte DB, Martinez R, Hunter T,
+  Sudarsanam S.
+\newblock The Protein Kinase Complement of the Human Genome.
+\newblock Science.  2002 Dec; 298(5600):1912--1934.
+
+\bibitem[{Cowan-Jacob et~al.(2007)Cowan-Jacob, S W and Fendrich, G and
+  Floersheimer, A and Furet, P and Liebetanz, J and Rummel, G and Rheinberger,
+  P and Centeleghe, M and Fabbro, D and Manley, P W and
+  {IUCr}}]{Cowan-Jacob2007-rn}
+\textbf{\color{eLifeMediumGrey} Cowan-Jacob SW}, Fendrich G, Floersheimer A,
+  Furet P, Liebetanz J, Rummel G, Rheinberger P, Centeleghe M, Fabbro D, Manley
+  PW, {IUCr}.
+\newblock Structural biology contributions to the discovery of drugs to treat
+  chronic myelogenous leukaemia.
+\newblock Acta Crystallogr D Biol Crystallogr.  2007 Jan; 63(1):80--93.
+
+\bibitem[{Seeliger et~al.(2007)Seeliger, Markus A and Nagar, Bhushan and Frank,
+  Filipp and Cao, Xiaoxian and Henderson, M Nidanie and Kuriyan,
+  John}]{Seeliger2007-jn}
+\textbf{\color{eLifeMediumGrey} Seeliger MA}, Nagar B, Frank F, Cao X,
+  Henderson MN, Kuriyan J.
+\newblock c-Src Binds to the Cancer Drug Imatinib with an Inactive {Abl/c-Kit}
+  Conformation and a Distributed Thermodynamic Penalty.
+\newblock Structure.  2007 Mar; 15(3):299--311.
+
+\bibitem[{Huse and Kuriyan(2002)Huse, M and Kuriyan, J}]{Huse2002-ml}
+\textbf{\color{eLifeMediumGrey} Huse M}, Kuriyan J.
+\newblock The conformational plasticity of protein kinases.
+\newblock Cell.  2002 Jan; 109(3):275--282.
+
+\bibitem[{Harrison(2003)Harrison, Stephen C}]{Harrison2003-ct}
+\textbf{\color{eLifeMediumGrey} Harrison SC}.
+\newblock Variation on an Src-like theme.
+\newblock Cell.  2003 Mar; 112(6):737--740.
+
+\bibitem[{Nagar et~al.(2003)Nagar, Bhushan and Hantschel, Oliver and Young,
+  Matthew A and Scheffzek, Klaus and Veach, Darren and Bornmann, William and
+  Clarkson, Bayard and Superti-Furga, Giulio and Kuriyan, John}]{Nagar:2003tu}
+\textbf{\color{eLifeMediumGrey} Nagar B}, Hantschel O, Young MA, Scheffzek K,
+  Veach D, Bornmann W, Clarkson B, Superti-Furga G, Kuriyan J.
+\newblock {Structural basis for the autoinhibition of c-Abl tyrosine kinase.}
+\newblock Cell.  2003 Mar; 112(6):859--871.
+
+\bibitem[{Davis et~al.(2011{\natexlab{a}})Davis, Mindy I and Hunt, Jeremy P and
+  Herrgard, Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel
+  and Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
+  P}]{Davis:Nat.Biotechnol.:2011}
+\textbf{\color{eLifeMediumGrey} Davis MI}, Hunt JP, Herrgard S, Ciceri P,
+  Wodicka LM, Pallares G, Hocker M, Treiber DK, Zarrinkar PP.
+\newblock Comprehensive Analysis of Kinase Inhibitor Selectivity.
+\newblock Nat Biotechnol.  2011 Oct; 29(11):1046--1051.
+\newblock \href{10.1038/nbt.1990}{\doiprefix \detokenize{10.1038/nbt.1990}}.
+
+\bibitem[{Apsel et~al.(2008)Apsel, Beth and Blair, Jimmy A and Gonzalez,
+  Beatriz and Nazif, Tamim M and Feldman, Morri E and Aizenstein, Brian and
+  Hoffman, Randy and Williams, Roger L and Shokat, Kevan M and Knight, Zachary
+  A}]{Apsel2008-it}
+\textbf{\color{eLifeMediumGrey} Apsel B}, Blair JA, Gonzalez B, Nazif TM,
+  Feldman ME, Aizenstein B, Hoffman R, Williams RL, Shokat KM, Knight ZA.
+\newblock Targeted polypharmacology: discovery of dual inhibitors of tyrosine
+  and phosphoinositide kinases.
+\newblock Nat Chem Biol.  2008 Nov; 4(11):691--699.
+
+\bibitem[{Hopkins et~al.(2006)Hopkins, Andrew L and Mason, Jonathan S and
+  Overington, John P}]{Hopkins2006-qu}
+\textbf{\color{eLifeMediumGrey} Hopkins AL}, Mason JS, Overington JP.
+\newblock Can we rationally design promiscuous drugs?
+\newblock Curr Opin Struct Biol.  2006 Feb; 16(1):127--136.
+
+\bibitem[{Hopkins(2008)Hopkins, Andrew L}]{Hopkins2008-ij}
+\textbf{\color{eLifeMediumGrey} Hopkins AL}.
+\newblock Network pharmacology: the next paradigm in drug discovery.
+\newblock Nat Chem Biol.  2008 Nov; 4(11):682--690.
+
+\bibitem[{Zhang et~al.(2009)Zhang, Jianming and Yang, Priscilla L and Gray,
+  Nathanael S}]{Zhang2009-il}
+\textbf{\color{eLifeMediumGrey} Zhang J}, Yang PL, Gray NS.
+\newblock Targeting cancer with small molecule kinase inhibitors.
+\newblock Nat Rev Cancer.  2009 Jan; 9(1):28--39.
+
+\bibitem[{Huggins et~al.(2012)Huggins, David J and Sherman, Woody and Tidor,
+  Bruce}]{Huggins2012-hr}
+\textbf{\color{eLifeMediumGrey} Huggins DJ}, Sherman W, Tidor B.
+\newblock Rational approaches to improving selectivity in drug design.
+\newblock J Med Chem.  2012 Feb; 55(4):1424--1444.
+
+\bibitem[{Mendoza et~al.(2011)Mendoza, Michelle C and Er, E Emrah and Blenis,
+  John}]{Mendoza2011-bj}
+\textbf{\color{eLifeMediumGrey} Mendoza MC}, Er EE, Blenis J.
+\newblock The {Ras-ERK} and {PI3K-mTOR} pathways: cross-talk and compensation.
+\newblock Trends Biochem Sci.  2011 Jun; 36(6):320--328.
+
+\bibitem[{Tricker et~al.(2015)Tricker, Erin M and Xu, Chunxiao and Uddin,
+  Sharmeen and Capelletti, Marzia and Ercan, Dalia and Ogino, Atsuko and
+  Pratilas, Christine A and Rosen, Neal and Gray, Nathanael S and Wong,
+  Kwok-Kin and J{\"a}nne, Pasi A}]{Tricker2015-xx}
+\textbf{\color{eLifeMediumGrey} Tricker EM}, Xu C, Uddin S, Capelletti M, Ercan
+  D, Ogino A, Pratilas CA, Rosen N, Gray NS, Wong KK, J{\"a}nne PA.
+\newblock Combined {EGFR/MEK} Inhibition Prevents the Emergence of Resistance
+  in {EGFR-Mutant} Lung Cancer.
+\newblock Cancer Discov.  2015 Sep; 5(9):960--971.
+
+\bibitem[{Chandarlapaty et~al.(2011{\natexlab{b}})Chandarlapaty, Sarat and
+  Sawai, Ayana and Scaltriti, Maurizio and Rodrik-Outmezguine, Vanessa and
+  Grbovic-Huezo, Olivera and Serra, Violeta and Majumder, Pradip K and Baselga,
+  Jos{\'e} and Rosen, Neal}]{Chandarlapaty2011-cq}
+\textbf{\color{eLifeMediumGrey} Chandarlapaty S}, Sawai A, Scaltriti M,
+  Rodrik-Outmezguine V, Grbovic-Huezo O, Serra V, Majumder PK, Baselga J, Rosen
+  N.
+\newblock {AKT} Inhibition Relieves Feedback Suppression of Receptor Tyrosine
+  Kinase Expression and Activity.
+\newblock Cancer Cell.  2011 Jan; 19(1):58--71.
+
+\bibitem[{Bailey et~al.(2014)Bailey, Sean T and Zhou, Bing and Damrauer,
+  Jeffrey S and Krishnan, Bhavani and Wilson, Harper L and Smith, Aleisha M and
+  Li, Mingqing and Yeh, Jen Jen and Kim, William Y}]{Bailey2014-pd}
+\textbf{\color{eLifeMediumGrey} Bailey ST}, Zhou B, Damrauer JS, Krishnan B,
+  Wilson HL, Smith AM, Li M, Yeh JJ, Kim WY.
+\newblock {mTOR} Inhibition Induces Compensatory, Therapeutically Targetable
+  {MEK} Activation in Renal Cell Carcinoma.
+\newblock PLoS One.  2014 Sep; 9(9):e104413.
+
+\bibitem[{Littlefield et~al.(2014)Littlefield, Peter and Moasser, Mark~M. and
+  Jura, Natalia}]{Littlefield:Chem.Biol.:2014}
+\textbf{\color{eLifeMediumGrey} Littlefield P}, Moasser MM, Jura N.
+\newblock {{RETRACTED}}: {{An ATP}}-{{Competitive Inhibitor Modulates}} the
+  {{Allosteric Function}} of the {{HER3 Pseudokinase}}.
+\newblock Chem Biol.  2014 Apr; 21(4):453--458.
+\newblock \href{10.1016/j.chembiol.2014.02.011}{\doiprefix
+  \detokenize{10.1016/j.chembiol.2014.02.011}}.
+
+\bibitem[{{Yun, Cai-Hong} et~al.(2007){Yun, Cai-Hong} and {Boggon, Titus J} and
+  {Li, Yiqun} and {Woo, Michele S} and {Greulich, Heidi} and {Meyerson,
+  Matthew} and {Eck, Michael J}}]{Yun:2007jz}
+\textbf{\color{eLifeMediumGrey} {Yun, Cai-Hong}}, {Boggon, Titus J}, {Li,
+  Yiqun}, {Woo, Michele S}, {Greulich, Heidi}, {Meyerson, Matthew}, {Eck,
+  Michael J}.
+\newblock {Structures of lung cancer-derived EGFR mutants and inhibitor
+  complexes: mechanism of activation and insights into differential inhibitor
+  sensitivity.}
+\newblock Cancer Cell.  2007 Mar; 11(3):217--227.
+
+\bibitem[{Gajiwala et~al.(2013)Gajiwala, Ketan S and Feng, Junli and Ferre,
+  RoseAnn and Ryan, Kevin and Brodsky, Oleg and Weinrich, Scott and Kath, John
+  C and Al Stewart}]{Gajiwala:2013bn}
+\textbf{\color{eLifeMediumGrey} Gajiwala KS}, Feng J, Ferre R, Ryan K, Brodsky
+  O, Weinrich S, Kath JC, Stewart A.
+\newblock {Insights into the Aberrant Activity of Mutant EGFR Kinase Domain and
+  Drug Recognition}.
+\newblock Structure.  2013; 21(2):209--219.
+
+\bibitem[{Song et~al.(2015)Song, Zilan and Wang, Meining and Zhang,
+  Ao}]{Song:2015gu}
+\textbf{\color{eLifeMediumGrey} Song Z}, Wang M, Zhang A.
+\newblock {Alectinib: a novel second generation anaplastic lymphoma kinase
+  (ALK) inhibitor for overcoming clinically-acquired resistance}.
+\newblock Acta Pharmaceutica Sinica B.  2015 Jan; 5(1):34--37.
 
 \bibitem[{Chodera et~al.(2011{\natexlab{a}})Chodera, John D and Mobley, David L
   and Shirts, Michael R and Dixon, Richard W and Branson, Kim and Pande, Vijay
@@ -72,12 +320,11 @@
   molecular design and predictive scoring.
 \newblock Curr Opin Struct Biol.  2017 Apr; 43(Supplement C):38--44.
 
-\bibitem[{Lovering et~al.(2016{\natexlab{a}})Lovering, Frank and Aevazelis,
-  Cristina and Chang, Jeanne and Dehnhardt, Christoph and Fitz, Lori and Han,
-  Seungil and Janz, Kristin and Lee, Julie and Kaila, Neelu and McDonald,
-  Joseph and Moore, William and Moretto, Alessandro and Papaioannou, Nikolaos
-  and Richard, David and Ryan, Mark S and Wan, Zhao-Kui and Thorarensen,
-  Atli}]{Lovering:2016fg}
+\bibitem[{Lovering et~al.(2016)Lovering, Frank and Aevazelis, Cristina and
+  Chang, Jeanne and Dehnhardt, Christoph and Fitz, Lori and Han, Seungil and
+  Janz, Kristin and Lee, Julie and Kaila, Neelu and McDonald, Joseph and Moore,
+  William and Moretto, Alessandro and Papaioannou, Nikolaos and Richard, David
+  and Ryan, Mark S and Wan, Zhao-Kui and Thorarensen, Atli}]{Lovering:2016fg}
 \textbf{\color{eLifeMediumGrey} Lovering F}, Aevazelis C, Chang J, Dehnhardt C,
   Fitz L, Han S, Janz K, Lee J, Kaila N, McDonald J, Moore W, Moretto A,
   Papaioannou N, Richard D, Ryan MS, Wan ZK, Thorarensen A.
@@ -139,18 +386,6 @@
 \newblock {Advancing Drug Discovery through Enhanced Free Energy Calculations.}
 \newblock Accounts of chemical research.  2017 Jul; 50(7):1625--1632.
 
-\bibitem[{Zhang et~al.(2009)Zhang, Jianming and Yang, Priscilla L and Gray,
-  Nathanael S}]{Zhang2009-il}
-\textbf{\color{eLifeMediumGrey} Zhang J}, Yang PL, Gray NS.
-\newblock Targeting cancer with small molecule kinase inhibitors.
-\newblock Nat Rev Cancer.  2009 Jan; 9(1):28--39.
-
-\bibitem[{Huggins et~al.(2012)Huggins, David J and Sherman, Woody and Tidor,
-  Bruce}]{Huggins2012-hr}
-\textbf{\color{eLifeMediumGrey} Huggins DJ}, Sherman W, Tidor B.
-\newblock Rational approaches to improving selectivity in drug design.
-\newblock J Med Chem.  2012 Feb; 55(4):1424--1444.
-
 \bibitem[{Fan et~al.(2007)Fan, Qi-Wen and Cheng, Christine K and Nicolaides,
   Theodore P and Hackett, Christopher S and Knight, Zachary A and Shokat, Kevan
   M and Weiss, William A}]{Fan2007-hm}
@@ -159,38 +394,6 @@
 \newblock A dual phosphoinositide-3-kinase {alpha/mTOR} inhibitor cooperates
   with blockade of epidermal growth factor receptor in {PTEN-mutant} glioma.
 \newblock Cancer Res.  2007 Sep; 67(17):7960--7965.
-
-\bibitem[{Apsel et~al.(2008)Apsel, Beth and Blair, Jimmy A and Gonzalez,
-  Beatriz and Nazif, Tamim M and Feldman, Morri E and Aizenstein, Brian and
-  Hoffman, Randy and Williams, Roger L and Shokat, Kevan M and Knight, Zachary
-  A}]{Apsel2008-it}
-\textbf{\color{eLifeMediumGrey} Apsel B}, Blair JA, Gonzalez B, Nazif TM,
-  Feldman ME, Aizenstein B, Hoffman R, Williams RL, Shokat KM, Knight ZA.
-\newblock Targeted polypharmacology: discovery of dual inhibitors of tyrosine
-  and phosphoinositide kinases.
-\newblock Nat Chem Biol.  2008 Nov; 4(11):691--699.
-
-\bibitem[{Knight et~al.(2010)Knight, Zachary A. and Lin, Henry and Shokat,
-  Kevan M.}]{Knight:Nat.Rev.Cancer:2010}
-\textbf{\color{eLifeMediumGrey} Knight ZA}, Lin H, Shokat KM.
-\newblock Targeting the Cancer Kinome through Polypharmacology.
-\newblock Nat Rev Cancer.  2010; 10(2):130.
-
-\bibitem[{Hopkins et~al.(2006)Hopkins, Andrew L and Mason, Jonathan S and
-  Overington, John P}]{Hopkins2006-qu}
-\textbf{\color{eLifeMediumGrey} Hopkins AL}, Mason JS, Overington JP.
-\newblock Can we rationally design promiscuous drugs?
-\newblock Curr Opin Struct Biol.  2006 Feb; 16(1):127--136.
-
-\bibitem[{Hopkins(2008)Hopkins, Andrew L}]{Hopkins2008-ij}
-\textbf{\color{eLifeMediumGrey} Hopkins AL}.
-\newblock Network pharmacology: the next paradigm in drug discovery.
-\newblock Nat Chem Biol.  2008 Nov; 4(11):682--690.
-
-\bibitem[{Rudmann(2013)Rudmann, Daniel G}]{Rudmann2013-hi}
-\textbf{\color{eLifeMediumGrey} Rudmann DG}.
-\newblock On-target and off-target-based toxicologic effects.
-\newblock Toxicol Pathol.  2013 Feb; 41(2):310--314.
 
 \bibitem[{Kijima et~al.(2011)Kijima, Takashi and Shimizu, Tomohito and Nonen,
   Shinpei and Furukawa, Mitsugi and Otani, Yasushi and Minami, Toshiyuki and
@@ -203,50 +406,6 @@
 \newblock Safe and successful treatment with erlotinib after gefitinib-induced
   hepatotoxicity: difference in metabolism as a possible mechanism.
 \newblock J Clin Oncol.  2011 Jul; 29(19):e588--90.
-
-\bibitem[{Liu and Kurzrock(2014)Liu, Sariah and Kurzrock, Razelle}]{Liu2014-yi}
-\textbf{\color{eLifeMediumGrey} Liu S}, Kurzrock R.
-\newblock Toxicity of targeted therapy: Implications for response and impact of
-  genetic polymorphisms.
-\newblock Cancer Treat Rev.  2014 Aug; 40(7):883--891.
-
-\bibitem[{Mendoza et~al.(2011)Mendoza, Michelle C and Er, E Emrah and Blenis,
-  John}]{Mendoza2011-bj}
-\textbf{\color{eLifeMediumGrey} Mendoza MC}, Er EE, Blenis J.
-\newblock The {Ras-ERK} and {PI3K-mTOR} pathways: cross-talk and compensation.
-\newblock Trends Biochem Sci.  2011 Jun; 36(6):320--328.
-
-\bibitem[{Tricker et~al.(2015)Tricker, Erin M and Xu, Chunxiao and Uddin,
-  Sharmeen and Capelletti, Marzia and Ercan, Dalia and Ogino, Atsuko and
-  Pratilas, Christine A and Rosen, Neal and Gray, Nathanael S and Wong,
-  Kwok-Kin and J{\"a}nne, Pasi A}]{Tricker2015-xx}
-\textbf{\color{eLifeMediumGrey} Tricker EM}, Xu C, Uddin S, Capelletti M, Ercan
-  D, Ogino A, Pratilas CA, Rosen N, Gray NS, Wong KK, J{\"a}nne PA.
-\newblock Combined {EGFR/MEK} Inhibition Prevents the Emergence of Resistance
-  in {EGFR-Mutant} Lung Cancer.
-\newblock Cancer Discov.  2015 Sep; 5(9):960--971.
-
-\bibitem[{Bailey et~al.(2014)Bailey, Sean T and Zhou, Bing and Damrauer,
-  Jeffrey S and Krishnan, Bhavani and Wilson, Harper L and Smith, Aleisha M and
-  Li, Mingqing and Yeh, Jen Jen and Kim, William Y}]{Bailey2014-pd}
-\textbf{\color{eLifeMediumGrey} Bailey ST}, Zhou B, Damrauer JS, Krishnan B,
-  Wilson HL, Smith AM, Li M, Yeh JJ, Kim WY.
-\newblock {mTOR} Inhibition Induces Compensatory, Therapeutically Targetable
-  {MEK} Activation in Renal Cell Carcinoma.
-\newblock PLoS One.  2014 Sep; 9(9):e104413.
-
-\bibitem[{Chandarlapaty et~al.(2011)Chandarlapaty, Sarat and Sawai, Ayana and
-  Scaltriti, Maurizio and Rodrik-Outmezguine, Vanessa and Grbovic-Huezo,
-  Olivera and Serra, Violeta and Majumder, Pradip K. and Baselga, Jose and
-  Rosen, Neal}]{Chandarlapaty:CancerCell:2011}
-\textbf{\color{eLifeMediumGrey} Chandarlapaty S}, Sawai A, Scaltriti M,
-  Rodrik-Outmezguine V, Grbovic-Huezo O, Serra V, Majumder PK, Baselga J, Rosen
-  N.
-\newblock {{AKT Inhibition Relieves Feedback Suppression}} of {{Receptor
-  Tyrosine Kinase Expression}} and {{Activity}}.
-\newblock Cancer Cell.  2011 Jan; 19(1):58--71.
-\newblock \href{10.1016/j.ccr.2010.10.031}{\doiprefix
-  \detokenize{10.1016/j.ccr.2010.10.031}}.
 
 \bibitem[{Pao et~al.(2004)Pao, William and Miller, Vincent and Zakowski,
   Maureen and Doherty, Jennifer and Politi, Katerina and Sarkaria, Inderpal and
@@ -313,12 +472,6 @@
   Calculations.
 \newblock J Am Chem Soc.  2017 Jan; 139(2):946--957.
 
-\bibitem[{{Robert Roskoski Jr}(2017)}]{fda-approved-kinase-inhibitors}
-\textbf{\color{eLifeMediumGrey} {Robert Roskoski Jr}}.
-\newblock {{USFDA}} Approved Protein Kinase Inhibitors.
-\newblock .  2017; \urlprefix\url{http://www.brimr.org/PKI/PKIs.htm}, updated 3
-  May 2017.
-
 \bibitem[{Santos et~al.(2016)Santos, Rita and Ursu, Oleg and Gaulton, Anna and
   Bento, A. Patr?cia and Donadi, Ramesh S. and Bologa, Cristian G. and
   Karlsson, Anneli and Al-Lazikani, Bissan and Hersey, Anne and Oprea, Tudor I.
@@ -330,8 +483,8 @@
 \newblock \href{10.1038/nrd.2016.230}{\doiprefix
   \detokenize{10.1038/nrd.2016.230}}.
 
-\bibitem[{Volkamer et~al.(2015)Volkamer, Andrea and Eid, Sameh and Turk, Samo
-  and Jaeger, Sabrina and Rippmann, Friedrich and Fulle,
+\bibitem[{Volkamer et~al.(2015{\natexlab{a}})Volkamer, Andrea and Eid, Sameh
+  and Turk, Samo and Jaeger, Sabrina and Rippmann, Friedrich and Fulle,
   Simone}]{Volkamer2015-jx}
 \textbf{\color{eLifeMediumGrey} Volkamer A}, Eid S, Turk S, Jaeger S, Rippmann
   F, Fulle S.
@@ -339,48 +492,11 @@
   (yet) untapped protein kinases for drug discovery.
 \newblock J Chem Inf Model.  2015 Mar; 55(3):538--549.
 
-\bibitem[{Manning et~al.(2002{\natexlab{a}})Manning, G and Whyte, D B and
-  Martinez, R and Hunter, T and Sudarsanam, S}]{Manning2002-cw}
-\textbf{\color{eLifeMediumGrey} Manning G}, Whyte DB, Martinez R, Hunter T,
-  Sudarsanam S.
-\newblock The Protein Kinase Complement of the Human Genome.
-\newblock Science.  2002 Dec; 298(5600):1912--1934.
-
-\bibitem[{Wu et~al.(2015)Wu, Peng and Nielsen, Thomas E and Clausen, Mads
-  H}]{Wu2015-oq}
+\bibitem[{Wu et~al.(2015{\natexlab{a}})Wu, Peng and Nielsen, Thomas E and
+  Clausen, Mads H}]{Wu2015-oq}
 \textbf{\color{eLifeMediumGrey} Wu P}, Nielsen TE, Clausen MH.
 \newblock {FDA-approved} small-molecule kinase inhibitors.
 \newblock Trends Pharmacol Sci.  2015 Jul; 36(7):422--439.
-
-\bibitem[{Cowan-Jacob et~al.(2007)Cowan-Jacob, S W and Fendrich, G and
-  Floersheimer, A and Furet, P and Liebetanz, J and Rummel, G and Rheinberger,
-  P and Centeleghe, M and Fabbro, D and Manley, P W and
-  {IUCr}}]{Cowan-Jacob2007-rn}
-\textbf{\color{eLifeMediumGrey} Cowan-Jacob SW}, Fendrich G, Floersheimer A,
-  Furet P, Liebetanz J, Rummel G, Rheinberger P, Centeleghe M, Fabbro D, Manley
-  PW, {IUCr}.
-\newblock Structural biology contributions to the discovery of drugs to treat
-  chronic myelogenous leukaemia.
-\newblock Acta Crystallogr D Biol Crystallogr.  2007 Jan; 63(1):80--93.
-
-\bibitem[{Seeliger et~al.(2007)Seeliger, Markus A and Nagar, Bhushan and Frank,
-  Filipp and Cao, Xiaoxian and Henderson, M Nidanie and Kuriyan,
-  John}]{Seeliger2007-jn}
-\textbf{\color{eLifeMediumGrey} Seeliger MA}, Nagar B, Frank F, Cao X,
-  Henderson MN, Kuriyan J.
-\newblock c-Src Binds to the Cancer Drug Imatinib with an Inactive {Abl/c-Kit}
-  Conformation and a Distributed Thermodynamic Penalty.
-\newblock Structure.  2007 Mar; 15(3):299--311.
-
-\bibitem[{Huse and Kuriyan(2002)Huse, M and Kuriyan, J}]{Huse2002-ml}
-\textbf{\color{eLifeMediumGrey} Huse M}, Kuriyan J.
-\newblock The conformational plasticity of protein kinases.
-\newblock Cell.  2002 Jan; 109(3):275--282.
-
-\bibitem[{Harrison(2003)Harrison, Stephen C}]{Harrison2003-ct}
-\textbf{\color{eLifeMediumGrey} Harrison SC}.
-\newblock Variation on an Src-like theme.
-\newblock Cell.  2003 Mar; 112(6):737--740.
 
 \bibitem[{Volkamer et~al.(2016)Volkamer, Andrea and Eid, Sameh and Turk, Samo
   and Rippmann, Friedrich and Fulle, Simone}]{Volkamer2016-sj}
@@ -409,16 +525,6 @@
 \newblock Comprehensive assay of kinase catalytic activity reveals features of
   kinase inhibitor selectivity.
 \newblock Nat Biotechnol.  2011 Nov; 29(11):1039--1045.
-
-\bibitem[{Davis et~al.(2011)Davis, Mindy I and Hunt, Jeremy P and Herrgard,
-  Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel and
-  Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
-  P}]{Davis:Nat.Biotechnol.:2011}
-\textbf{\color{eLifeMediumGrey} Davis MI}, Hunt JP, Herrgard S, Ciceri P,
-  Wodicka LM, Pallares G, Hocker M, Treiber DK, Zarrinkar PP.
-\newblock Comprehensive Analysis of Kinase Inhibitor Selectivity.
-\newblock Nat Biotechnol.  2011 Oct; 29(11):1046--1051.
-\newblock \href{10.1038/nbt.1990}{\doiprefix \detokenize{10.1038/nbt.1990}}.
 
 \bibitem[{Klaeger et~al.(2017)Klaeger, Susan and Heinzlmeir, Stephanie and
   Wilhelm, Mathias and Polzer, Harald and Vick, Binje and Koenig, Paul-Albert
@@ -1336,13 +1442,13 @@
   Calculations.
 \newblock Journal of molecular biology.  2017; 429(7):948--963.
 
-\bibitem[{Zehir et~al.(2017)Zehir, Ahmet and Benayed, Ryma and Shah, Ronak H
-  and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and Srinivasan,
-  Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin, Sean M and
-  Hellmann, Matthew D and Barron, David A and Schram, Alison M and Hameed,
-  Meera and Dogan, Snjezana and Ross, Dara S and Hechtman, Jaclyn F and DeLair,
-  Deborah F and Yao, JinJuan and Mandelker, Diana L and Cheng, Donavan T and
-  Chandramohan, Raghu and Mohanty, Abhinita S and Ptashkin, Ryan N and
+\bibitem[{Zehir et~al.(2017{\natexlab{a}})Zehir, Ahmet and Benayed, Ryma and
+  Shah, Ronak H and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and
+  Srinivasan, Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin,
+  Sean M and Hellmann, Matthew D and Barron, David A and Schram, Alison M and
+  Hameed, Meera and Dogan, Snjezana and Ross, Dara S and Hechtman, Jaclyn F and
+  DeLair, Deborah F and Yao, JinJuan and Mandelker, Diana L and Cheng, Donavan
+  T and Chandramohan, Raghu and Mohanty, Abhinita S and Ptashkin, Ryan N and
   Jayakumaran, Gowtham and Prasad, Meera and Syed, Mustafa H and Rema, Anoop
   Balakrishnan and Liu, Zhen Y and Nafa, Khedoudja and Borsu, Laetitia and
   Sadowska, Justyna and Casanova, Jacklyn and Bacares, Ruben and Kiecka, Iwona
@@ -1373,11 +1479,11 @@
 \newblock Nat Med.  2017 May; 23(6):703--713.
 \newblock \href{10.1038/nm.4333}{\doiprefix \detokenize{10.1038/nm.4333}}.
 
-\bibitem[{Cerami et~al.(2012)Cerami, Ethan and Gao, Jianjiong and Dogrusoz,
-  Ugur and Gross, Benjamin E and Sumer, Selcuk Onur and Aksoy, B{\"u}lent Arman
-  and Jacobsen, Anders and Byrne, Caitlin J and Heuer, Michael L and Larsson,
-  Erik and Antipin, Yevgeniy and Reva, Boris and Goldberg, Arthur P and Sander,
-  Chris and Schultz, Nikolaus}]{Cerami:2012eu}
+\bibitem[{Cerami et~al.(2012{\natexlab{a}})Cerami, Ethan and Gao, Jianjiong and
+  Dogrusoz, Ugur and Gross, Benjamin E and Sumer, Selcuk Onur and Aksoy,
+  B{\"u}lent Arman and Jacobsen, Anders and Byrne, Caitlin J and Heuer, Michael
+  L and Larsson, Erik and Antipin, Yevgeniy and Reva, Boris and Goldberg,
+  Arthur P and Sander, Chris and Schultz, Nikolaus}]{Cerami:2012eu}
 \textbf{\color{eLifeMediumGrey} Cerami E}, Gao J, Dogrusoz U, Gross BE, Sumer
   SO, Aksoy BA, Jacobsen A, Byrne CJ, Heuer ML, Larsson E, Antipin Y, Reva B,
   Goldberg AP, Sander C, Schultz N.
@@ -1501,322 +1607,462 @@
 \newblock {4.4 {\AA} Resolution Cryo-EM structure of human mTOR Complex 1.}
 \newblock Protein {\&} cell.  2016 Dec; 7(12):878--887.
 
-\bibitem[{Shah et~al.(2002)Shah, Neil P. and Nicoll, John M. and Nagar, Bhushan
-  and Gorre, Mercedes E. and Paquette, Ronald L. and Kuriyan, John and Sawyers,
-  Charles L.}]{Shah:CancerCell:2002}
-\textbf{\color{eLifeMediumGrey} Shah NP}, Nicoll JM, Nagar B, Gorre ME,
-  Paquette RL, Kuriyan J, Sawyers CL.
-\newblock Multiple {{BCR}}-{{ABL}} Kinase Domain Mutations Confer Polyclonal
-  Resistance to the Tyrosine Kinase Inhibitor Imatinib ({{STI571}}) in Chronic
-  Phase and Blast Crisis Chronic Myeloid Leukemia.
-\newblock Cancer Cell.  2002 Aug; 2(2):117--125.
+\bibitem[{Manning et~al.(2002{\natexlab{c}})G. Manning and D. B. Whyte and R.
+  Martinez and T. Hunter and S. Sudarsanam}]{manning:science:2002:kinome}
+\textbf{\color{eLifeMediumGrey} Manning G}, Whyte DB, Martinez R, Hunter T,
+  Sudarsanam S.
+\newblock The protein kinase complement of the human genome.
+\newblock Science.  2002; 298:1912--1934.
 
-\bibitem[{Buczek et~al.(2014)Magdalena Buczek and Bernard Escudier and Ewa
-  Bartnik and Cezary Szczylik and Anna Czarnecka}]{BUCZEK201431}
-\textbf{\color{eLifeMediumGrey} Buczek M}, Escudier B, Bartnik E, Szczylik C,
-  Czarnecka A.
-\newblock Resistance to tyrosine kinase inhibitors in clear cell renal cell
-  carcinoma: From the patient's bed to molecular mechanisms.
-\newblock Biochimica et Biophysica Acta (BBA) - Reviews on Cancer.  2014;
-  1845(1):31 -- 41.
+\bibitem[{Hunter and Manning(2015)Hunter, Tony and Manning,
+  Gerard}]{Hunter:ReceptorTyrosineKinases:StructureFunctionsandRoleinHumanDisease:2015}
+\textbf{\color{eLifeMediumGrey} Hunter T}, Manning G.
+\newblock The {{Eukaryotic Protein Kinase Superfamily}} and the {{Emergence}}
+  of {{Receptor Tyrosine Kinases}}.
+\newblock In: Wheeler DL, Yarden Y, editors. \emph{Receptor {{Tyrosine
+  Kinases}}: {{Structure}}, {{Functions}} and {{Role}} in {{Human Disease}}}
+  New York, NY: {Springer New York}; 2015.p. 1--15.
+
+\bibitem[{Knight et~al.(2010{\natexlab{b}})Knight, Zachary A. and Lin, Henry
+  and Shokat, Kevan M.}]{knight_targeting_2010}
+\textbf{\color{eLifeMediumGrey} Knight ZA}, Lin H, Shokat KM.
+\newblock Targeting the cancer kinome through polypharmacology.
+\newblock Nature Reviews Cancer.  2010 Feb; 10(2):130--137.
 \newblock
-  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0304419X13000437},
-  \href{https://doi.org/10.1016/j.bbcan.2013.10.001}{\doiprefix
-  \detokenize{https://doi.org/10.1016/j.bbcan.2013.10.001}}.
+  \urlprefix\url{http://www.nature.com.proxy.library.cornell.edu/nrc/journal/v10/n2/full/nrc2787.html},
+  \href{10.1038/nrc2787}{\doiprefix \detokenize{10.1038/nrc2787}}.
 
-\bibitem[{Huang and Fu(2015)Huang, Lihua and Fu, Liwu}]{huang2015mechanisms}
-\textbf{\color{eLifeMediumGrey} Huang L}, Fu L.
-\newblock Mechanisms of Resistance to {{EGFR}} Tyrosine Kinase Inhibitors.
-\newblock Acta Pharm Sin B.  2015; 5(5):390--401.
+\bibitem[{{American Cancer Society}(2015)}]{acs-cancer-facts-2015}
+\textbf{\color{eLifeMediumGrey} {American Cancer Society}}, {Cancer Facts \&
+  Figures 2015}.
+\newblock American Cancer Society; 2015.
 
-\bibitem[{Meyer and Levine(2014)Meyer, Sara C. and Levine, Ross L.}]{Meyer2051}
-\textbf{\color{eLifeMediumGrey} Meyer SC}, Levine RL.
-\newblock Molecular {{Pathways}}: {{Molecular Basis}} for {{Sensitivity}} and
-  {{Resistance}} to {{JAK Kinase Inhibitors}}.
-\newblock Clin Cancer Res.  2014; 20(8):2051--2059.
-\newblock \href{10.1158/1078-0432.CCR-13-0279}{\doiprefix
-  \detokenize{10.1158/1078-0432.CCR-13-0279}}.
-
-\bibitem[{Davare et~al.(2015)Davare, Monika A. and Vellore, Nadeem A. and
-  Wagner, Jacob P. and Eide, Christopher A. and Goodman, James R. and Drilon,
-  Alexander and Deininger, Michael W. and O?Hare, Thomas and Druker, Brian
-  J.}]{Davare29092015}
-\textbf{\color{eLifeMediumGrey} Davare MA}, Vellore NA, Wagner JP, Eide CA,
-  Goodman JR, Drilon A, Deininger MW, O?Hare T, Druker BJ.
-\newblock Structural Insight into Selectivity and Resistance Profiles of
-  {{ROS1}} Tyrosine Kinase Inhibitors.
-\newblock Proc Natl Acad Sci.  2015; 112(39):E5381--E5390.
-\newblock \href{10.1073/pnas.1515281112}{\doiprefix
-  \detokenize{10.1073/pnas.1515281112}}.
-
-\bibitem[{Van~Allen et~al.(2014)Van Allen, Eliezer M. and Wagle, Nikhil and
-  Sucker, Antje and Treacy, Daniel J. and Johannessen, Cory M. and Goetz, Eva
-  M. and Place, Chelsea S. and Taylor-Weiner, Amaro and Whittaker, Steven and
-  Kryukov, Gregory V. and Hodis, Eran and Rosenberg, Mara and McKenna, Aaron
-  and Cibulskis, Kristian and Farlow, Deborah and Zimmer, Lisa and Hillen, Uwe
-  and Gutzmer, Ralf and Goldinger, Simone M. and Ugurel, Selma and Gogas, Helen
-  J. and Egberts, Friederike and Berking, Carola and Trefzer, Uwe and Loquai,
-  Carmen and Weide, Benjamin and Hassel, Jessica C. and Gabriel, Stacey B. and
-  Carter, Scott L. and Getz, Gad and Garraway, Levi A. and Schadendorf,
-  Dirk}]{VanAllen94}
-\textbf{\color{eLifeMediumGrey} Van~Allen EM}, Wagle N, Sucker A, Treacy DJ,
-  Johannessen CM, Goetz EM, Place CS, Taylor-Weiner A, Whittaker S, Kryukov GV,
-  Hodis E, Rosenberg M, McKenna A, Cibulskis K, Farlow D, Zimmer L, Hillen U,
-  Gutzmer R, Goldinger SM, Ugurel S, et~al.
-\newblock The {{Genetic Landscape}} of {{Clinical Resistance}} to {{RAF
-  Inhibition}} in {{Metastatic Melanoma}}.
-\newblock Cancer Discov.  2014; 4(1):94--109.
-\newblock \href{10.1158/2159-8290.CD-13-0617}{\doiprefix
-  \detokenize{10.1158/2159-8290.CD-13-0617}}.
-
-\bibitem[{Rani et~al.(2014)Rani, Sweta and Corcoran, Claire and Shiels, Liam
-  and Germano, Serena and Breslin, Susan and Madden, Stephen and McDermott,
-  Martina S. and Browne, Brigid C. and OtextquoterightDonovan, Norma and Crown,
-  John and Gogarty, Martina and Byrne, Annette T. and OtextquoterightDriscoll,
-  Lorraine}]{Rani3821}
-\textbf{\color{eLifeMediumGrey} Rani S}, Corcoran C, Shiels L, Germano S,
-  Breslin S, Madden S, McDermott MS, Browne BC, OtextquoterightDonovan N, Crown
-  J, Gogarty M, Byrne AT, OtextquoterightDriscoll L.
-\newblock Neuromedin {{U}}: {{A Candidate Biomarker}} and {{Therapeutic
-  Target}} to {{Predict}} and {{Overcome Resistance}} to {{HER}}-{{Tyrosine
-  Kinase Inhibitors}}.
-\newblock Cancer Res.  2014; 74(14):3821--3833.
-\newblock \href{10.1158/0008-5472.CAN-13-2053}{\doiprefix
-  \detokenize{10.1158/0008-5472.CAN-13-2053}}.
-
-\bibitem[{Holohan et~al.(2013)Holohan, Caitriona and Van Schaeybroeck, Sandra
-  and Longley, Daniel B. and Johnston, Patrick
-  G.}]{Holohan:Nat.Rev.Cancer:2013}
-\textbf{\color{eLifeMediumGrey} Holohan C}, Van~Schaeybroeck S, Longley DB,
-  Johnston PG.
-\newblock Cancer Drug Resistance: An Evolving Paradigm.
-\newblock Nat Rev Cancer.  2013 Sep; 13(10):714--726.
-\newblock \href{10.1038/nrc3599}{\doiprefix \detokenize{10.1038/nrc3599}}.
-
-\bibitem[{Weisberg et~al.(2007)Weisberg, Ellen and Manley, Paul W. and
-  Cowan-Jacob, Sandra W. and Hochhaus, Andreas and Griffin, James
-  D.}]{Weisberg:Nat.Rev.Cancer:2007}
-\textbf{\color{eLifeMediumGrey} Weisberg E}, Manley PW, Cowan-Jacob SW,
-  Hochhaus A, Griffin JD.
-\newblock Second Generation Inhibitors of {{BCR}}-{{ABL}} for the Treatment of
-  Imatinib-Resistant Chronic Myeloid Leukaemia.
-\newblock Nat Rev Cancer.  2007 May; 7(5):345--356.
-\newblock \href{10.1038/nrc2126}{\doiprefix \detokenize{10.1038/nrc2126}}.
-
-\bibitem[{Y.~Lu et~al.(2011)Y. Lu, X. and Cai, Q. and Ding,
-  K.}]{Y.Lu:Curr.Med.Chem.:2011}
-\textbf{\color{eLifeMediumGrey} Y~Lu X}, Cai Q, Ding K.
-\newblock Recent {{Developments}} in the {{Third Generation Inhibitors}} of
-  {{Bcr}}-{{Abl}} for {{Overriding T315I Mutation}}.
-\newblock Curr Med Chem.  2011 May; 18(14):2146--2157.
-\newblock \href{10.2174/092986711795656135}{\doiprefix
-  \detokenize{10.2174/092986711795656135}}.
-
-\bibitem[{Song et~al.(2015)Song, Zilan and Wang, Meining and Zhang,
-  Ao}]{Song:ActaPharm.Sin.B:2015}
-\textbf{\color{eLifeMediumGrey} Song Z}, Wang M, Zhang A.
-\newblock Alectinib: A Novel Second Generation Anaplastic Lymphoma Kinase
-  ({{ALK}}) Inhibitor for Overcoming Clinically-Acquired Resistance.
-\newblock Acta Pharm Sin B.  2015 Jan; 5(1):34--37.
-\newblock \href{10.1016/j.apsb.2014.12.007}{\doiprefix
-  \detokenize{10.1016/j.apsb.2014.12.007}}.
-
-\bibitem[{Neel and Bivona(2017)Neel, Dana S. and Bivona, Trever
-  G.}]{Neel:NpjPrecis.Oncol.:2017}
-\textbf{\color{eLifeMediumGrey} Neel DS}, Bivona TG.
-\newblock Resistance Is Futile: Overcoming Resistance to Targeted Therapies in
-  Lung Adenocarcinoma.
-\newblock Npj Precis Oncol.  2017 Dec; 1(1).
-\newblock \href{10.1038/s41698-017-0007-0}{\doiprefix
-  \detokenize{10.1038/s41698-017-0007-0}}.
-
-\bibitem[{Gruber et~al.(2006)Gruber, Franz and Hjorth-Hansen, Henrik and
-  Mikkola, Ingvild and Stenke, L and TA, Johansen}]{Gruber2006}
-\textbf{\color{eLifeMediumGrey} Gruber F}, Hjorth-Hansen H, Mikkola I, Stenke
-  L, TA J.
-\newblock A Novel {{BCR}}-{{ABL}} Splice Isoform Is Associated with the
-  {{L248V}} Mutation in {{CML}} Patients with Acquired Resistance to Imatinib.
-\newblock Leuk Off J Leuk Soc Am Leuk Res Fund UK.  2006 Dec; 20:2057--60.
-
-\bibitem[{Housman et~al.(2014)Housman, Genevieve and Byler, Shannon and
-  Heerboth, Sarah and Lapinska, Karolina and Longacre, Mckenna and Snyder,
-  Nicole and Sarkar, Sibaji}]{Housman:Cancers:2014}
-\textbf{\color{eLifeMediumGrey} Housman G}, Byler S, Heerboth S, Lapinska K,
-  Longacre M, Snyder N, Sarkar S.
-\newblock Drug {{Resistance}} in {{Cancer}}: {{An Overview}}.
-\newblock Cancers.  2014 Sep; 6(3):1769--1792.
-\newblock \href{10.3390/cancers6031769}{\doiprefix
-  \detokenize{10.3390/cancers6031769}}.
-
-\bibitem[{Redig and J{\"a}nne(2015)Redig, Amanda J. and J{\"a}nne, Pasi
-  A.}]{Redig::2015}
-\textbf{\color{eLifeMediumGrey} Redig AJ}, J{\"a}nne PA.
-\newblock Basket Trials and the Evolution of Clinical Trial Design in an Era of
-  Genomic Medicine.
-\newblock {American Society of Clinical Oncology}; 2015.
-
-\bibitem[{Hyman et~al.(2017)Hyman, David M. and Taylor, Barry S. and Baselga,
-  Jos{\'e}}]{Hyman:Cell:2017}
-\textbf{\color{eLifeMediumGrey} Hyman DM}, Taylor BS, Baselga J.
-\newblock Implementing {{Genome}}-{{Driven Oncology}}.
-\newblock Cell.  2017 Feb; 168(4):584--599.
-\newblock \href{10.1016/j.cell.2016.12.015}{\doiprefix
-  \detokenize{10.1016/j.cell.2016.12.015}}.
-
-\bibitem[{Pesesky et~al.(2016)Pesesky, Mitchell W. and Hussain, Tahir and
-  Wallace, Meghan and Patel, Sanket and Andleeb, Saadia and Burnham, Carey-Ann
-  D. and Dantas, Gautam}]{Pesesky:Front.Microbiol.:2016}
-\textbf{\color{eLifeMediumGrey} Pesesky MW}, Hussain T, Wallace M, Patel S,
-  Andleeb S, Burnham CAD, Dantas G.
-\newblock Evaluation of {{Machine Learning}} and {{Rules}}-{{Based Approaches}}
-  for {{Predicting Antimicrobial Resistance Profiles}} in {{Gram}}-Negative
-  {{Bacilli}} from {{Whole Genome Sequence Data}}.
-\newblock Front Microbiol.  2016 Nov; 7.
-\newblock \href{10.3389/fmicb.2016.01887}{\doiprefix
-  \detokenize{10.3389/fmicb.2016.01887}}.
-
-\bibitem[{Melnikov et~al.(2014)Melnikov, Alexandre and Rogov, Peter and Wang,
-  Li and Gnirke, Andreas and Mikkelsen, Tarjei
-  S.}]{Melnikov:NucleicAcidsRes.:2014}
-\textbf{\color{eLifeMediumGrey} Melnikov A}, Rogov P, Wang L, Gnirke A,
-  Mikkelsen TS.
-\newblock Comprehensive Mutational Scanning of a Kinase {\emph{in Vivo}}
-  Reveals Substrate-Dependent Fitness Landscapes.
-\newblock Nucleic Acids Res.  2014 Aug; 42(14):e112--e112.
-\newblock \href{10.1093/nar/gku511}{\doiprefix
-  \detokenize{10.1093/nar/gku511}}.
-
-\bibitem[{Abel et~al.(2017{\natexlab{c}})Abel, Robert and Mondal, Sayan and
-  Masse, Craig and Greenwood, Jeremy and Harriman, Geraldine and Ashwell, Mark
-  A and Bhat, Sathesh and Wester, Ronald and Frye, Leah and Kapeller, Rosana
-  and others}]{abel2017accelerating}
-\textbf{\color{eLifeMediumGrey} Abel R}, Mondal S, Masse C, Greenwood J,
-  Harriman G, Ashwell MA, Bhat S, Wester R, Frye L, Kapeller R, et~al.
-\newblock Accelerating drug discovery through tight integration of expert
-  molecular design and predictive scoring.
-\newblock Current opinion in structural biology.  2017; 43:38--44.
-
-\bibitem[{Aldeghi et~al.(2016)Aldeghi, Matteo and Heifetz, Alexander and
-  Bodkin, Michael J. and Knapp, Stefan and Biggin, Philip
-  C.}]{Aldeghi:ChemSci:2016}
-\textbf{\color{eLifeMediumGrey} Aldeghi M}, Heifetz A, Bodkin MJ, Knapp S,
-  Biggin PC.
-\newblock Accurate Calculation of the Absolute Free Energy of Binding for Drug
-  Molecules.
-\newblock Chem Sci.  2016; 7(1):207--218.
-\newblock \href{10.1039/C5SC02678D}{\doiprefix
-  \detokenize{10.1039/C5SC02678D}}.
-
-\bibitem[{Cappel et~al.(2016)Cappel, Daniel and Hall, Michelle Lynn and
-  Lenselink, Eelke B. and Beuming, Thijs and Qi, Jun and Bradner, James and
-  Sherman, Woody}]{cappel2016}
-\textbf{\color{eLifeMediumGrey} Cappel D}, Hall ML, Lenselink EB, Beuming T, Qi
-  J, Bradner J, Sherman W.
-\newblock Relative {{Binding Free Energy Calculations Applied}} to {{Protein
-  Homology Models}}.
-\newblock J Chem Inf Model.  2016; 56(12):2388--2400.
-\newblock \href{10.1021/acs.jcim.6b00362}{\doiprefix
-  \detokenize{10.1021/acs.jcim.6b00362}}.
-
-\bibitem[{Ford and Babaoglu(2017)Ford, Melissa Coates and Babaoglu,
-  Kerim}]{Ford:J.Chem.Inf.Model.:2017}
-\textbf{\color{eLifeMediumGrey} Ford MC}, Babaoglu K.
-\newblock Examining the {{Feasibility}} of {{Using Free Energy Perturbation}}
-  ({{FEP}}+) in {{Predicting Protein Stability}}.
-\newblock J Chem Inf Model.  2017 Jun; 57(6):1276--1285.
-\newblock \href{10.1021/acs.jcim.7b00002}{\doiprefix
-  \detokenize{10.1021/acs.jcim.7b00002}}.
-
-\bibitem[{Zou et~al.(2016)Zou, Junjie and Song, Benben and Simmerling, Carlos
-  and Raleigh, Daniel}]{Zou:J.Am.Chem.Soc.:2016}
-\textbf{\color{eLifeMediumGrey} Zou J}, Song B, Simmerling C, Raleigh D.
-\newblock Experimental and {{Computational Analysis}} of {{Protein
-  Stabilization}} by {{Gly}}-to- {\textsc{d}} -{{Ala Substitution}}: {{A
-  Convolution}} of {{Native State}} and {{Unfolded State Effects}}.
-\newblock J Am Chem Soc.  2016 Dec; 138(48):15682--15689.
-\newblock \href{10.1021/jacs.6b09511}{\doiprefix
-  \detokenize{10.1021/jacs.6b09511}}.
-
-\bibitem[{Mondal et~al.(2016)Mondal, Jagannath and Tiwary, Pratyush and Berne,
-  B. J.}]{mondal2016}
-\textbf{\color{eLifeMediumGrey} Mondal J}, Tiwary P, Berne BJ.
-\newblock How a {{Kinase Inhibitor Withstands Gatekeeper Residue Mutations}}.
-\newblock J Am Chem Soc.  2016; 138(13):4608--4615.
-\newblock \href{10.1021/jacs.6b01232}{\doiprefix
-  \detokenize{10.1021/jacs.6b01232}}.
-
-\bibitem[{Lovering et~al.(2016{\natexlab{b}})Lovering, Frank and Aevazelis,
-  Cristina and Chang, Jeanne and Dehnhardt, Christoph and Fitz, Lori and Han,
-  Seungil and Janz, Kristin and Lee, Julie and Kaila, Neelu and McDonald,
-  Joseph and Moore, William and Moretto, Alessandro and Papaioannou, Nikolaos
-  and Richard, David and Ryan, Mark S. and Wan, Zhao-Kui and Thorarensen,
-  Atli}]{Lovering:ChemMedChem:2016}
-\textbf{\color{eLifeMediumGrey} Lovering F}, Aevazelis C, Chang J, Dehnhardt C,
-  Fitz L, Han S, Janz K, Lee J, Kaila N, McDonald J, Moore W, Moretto A,
-  Papaioannou N, Richard D, Ryan MS, Wan ZK, Thorarensen A.
-\newblock Imidazotriazines: {{Spleen Tyrosine Kinase}} ({{Syk}}) {{Inhibitors
-  Identified}} by {{Free}}-{{Energy Perturbation}} ({{FEP}}).
-\newblock ChemMedChem.  2016 Jan; 11(2):217--233.
-\newblock \href{10.1002/cmdc.201500333}{\doiprefix
-  \detokenize{10.1002/cmdc.201500333}}.
-
-\bibitem[{Rapp et~al.(2011)Rapp, Chaya and Kalyanaraman, Chakrapani and
-  Schiffmiller, Aviva and Schoenbrun, Esther Leah and Jacobson, Matthew
-  P.}]{Rapp:J.Chem.Inf.Model.:2011}
-\textbf{\color{eLifeMediumGrey} Rapp C}, Kalyanaraman C, Schiffmiller A,
-  Schoenbrun EL, Jacobson MP.
-\newblock A {{Molecular Mechanics Approach}} to {{Modeling
-  Protein}}\textendash{}{{Ligand Interactions}}: {{Relative Binding
-  Affinities}} in {{Congeneric Series}}.
-\newblock J Chem Inf Model.  2011 Sep; 51(9):2082--2089.
-\newblock \href{10.1021/ci200033n}{\doiprefix \detokenize{10.1021/ci200033n}}.
-
-\bibitem[{Pemovska et~al.(2015)Pemovska, Tea and Johnson, Eric and Kontro, Mika
-  and Repasky, Gretchen A. and Chen, Jeffrey and Wells, Peter and Cronin,
-  Ciar{\'a}n N. and McTigue, Michele and Kallioniemi, Olli and Porkka, Kimmo
-  and Murray, Brion W. and Wennerberg, Krister}]{Pemovska:Nature:2015}
-\textbf{\color{eLifeMediumGrey} Pemovska T}, Johnson E, Kontro M, Repasky GA,
-  Chen J, Wells P, Cronin CN, McTigue M, Kallioniemi O, Porkka K, Murray BW,
-  Wennerberg K.
-\newblock Axitinib Effectively Inhibits {{BCR}}-{{ABL1}}({{T315I}}) with a
-  Distinct Binding Conformation.
-\newblock Nature.  2015 Feb; 519(7541):102--105.
-\newblock \href{10.1038/nature14119}{\doiprefix
-  \detokenize{10.1038/nature14119}}.
-
-\bibitem[{Schrock et~al.(2013)Schrock, Alexa and Chen, Tzu-Hsiu and Clackson,
-  Tim and Rivera, Victor M.}]{Gozgit3992}
-\textbf{\color{eLifeMediumGrey} Schrock A}, Chen TH, Clackson T, Rivera VM.
-\newblock Comprehensive {{Analysis Of The In Vitro Potency Of Ponatinib}}, and
-  {{All Other Approved BCR}}-{{ABL Tyrosine Kinase Inhibitors}} ({{TKIs}}),
-  {{Against}} a {{Panel Of Single}} and {{Compound BCR}}-{{ABL Mutants}}.
-\newblock Blood.  2013; 122(21):3992--3992.
-
-\bibitem[{Soverini et~al.(2006)Soverini, Simona and Colarossi, Sabrina and
-  Gnani, Alessandra and Rosti, Gianantonio and Castagnetti, Fausto and Poerio,
-  Angela and Iacobucci, Ilaria and Amabile, Marilina and Abruzzese, Elisabetta
-  and Orlandi, Ester and Radaelli, Franca and Ciccone, Fabrizio and Tiribelli,
-  Mario and di Lorenzo, Roberto and Caracciolo, Clementina and Izzo, Barbara
-  and Pane, Fabrizio and Saglio, Giuseppe and Baccarani, Michele and
-  Martinelli, Giovanni}]{Soverini7374}
-\textbf{\color{eLifeMediumGrey} Soverini S}, Colarossi S, Gnani A, Rosti G,
-  Castagnetti F, Poerio A, Iacobucci I, Amabile M, Abruzzese E, Orlandi E,
-  Radaelli F, Ciccone F, Tiribelli M, di~Lorenzo R, Caracciolo C, Izzo B, Pane
-  F, Saglio G, Baccarani M, Martinelli G.
-\newblock Contribution of ABL Kinase Domain Mutations to Imatinib Resistance in
-  Different Subsets of Philadelphia-Positive Patients: By the GIMEMA Working
-  Party on Chronic Myeloid Leukemia.
-\newblock Clinical Cancer Research.  2006; 12(24):7374--7379.
+\bibitem[{Cohen and Tcherpakov(2010{\natexlab{b}})Cohen, Philip and Tcherpakov,
+  Marianna}]{cohen_will_2010}
+\textbf{\color{eLifeMediumGrey} Cohen P}, Tcherpakov M.
+\newblock Will the {Ubiquitin} {System} {Furnish} as {Many} {Drug} {Targets} as
+  {Protein} {Kinases}?
+\newblock Cell.  2010 Nov; 143(5):686--693.
 \newblock
-  \urlprefix\url{http://clincancerres.aacrjournals.org/content/12/24/7374},
-  \href{10.1158/1078-0432.CCR-06-1516}{\doiprefix
-  \detokenize{10.1158/1078-0432.CCR-06-1516}}.
+  \urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0092867410012961},
+  \href{10.1016/j.cell.2010.11.016}{\doiprefix
+  \detokenize{10.1016/j.cell.2010.11.016}}.
 
-\bibitem[{O'Hare et~al.(2007)O'Hare, Thomas and Eide, Christopher A and
-  Deininger, Michael WN}]{o2007bcr}
-\textbf{\color{eLifeMediumGrey} O'Hare T}, Eide CA, Deininger MW.
-\newblock Bcr-Abl kinase domain mutations, drug resistance, and the road to a
-  cure for chronic myeloid leukemia.
-\newblock Blood.  2007; 110(7):2242--2249.
+\bibitem[{Stegmeier et~al.(2010)F. Stegmeier and M. Warmuth and W. R. Sellers
+  and M. Dorsch}]{stegmeier:clpt:2010:imatinib-lessons}
+\textbf{\color{eLifeMediumGrey} Stegmeier F}, Warmuth M, Sellers WR, Dorsch M.
+\newblock Targeted cancer therapies in the twenty-first century: Lessons from
+  imatinib.
+\newblock Clin Pharm \& Therap.  2010; 87:543--552.
+\newblock \href{10.1038/clpt.2009.297}{\doiprefix
+  \detokenize{10.1038/clpt.2009.297}}.
+
+\bibitem[{Wu et~al.(2015{\natexlab{b}})Wu, Peng and Nielsen, Thomas E. and
+  Clausen, Mads H.}]{wu_fda-approved_2015}
+\textbf{\color{eLifeMediumGrey} Wu P}, Nielsen TE, Clausen MH.
+\newblock {FDA}-approved small-molecule kinase inhibitors.
+\newblock Trends in Pharmacological Sciences.  2015 Jul; 36(7):422--439.
+\newblock
+  \urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0165614715000772},
+  \href{10.1016/j.tips.2015.04.005}{\doiprefix
+  \detokenize{10.1016/j.tips.2015.04.005}}.
+
+\bibitem[{Volkamer et~al.(2015{\natexlab{b}})Volkamer, Andrea and Eid, Sameh
+  and Turk, Samo and Jaeger, Sabrina and Rippmann, Friedrich and Fulle,
+  Simone}]{doi:10.1021/ci500624s}
+\textbf{\color{eLifeMediumGrey} Volkamer A}, Eid S, Turk S, Jaeger S, Rippmann
+  F, Fulle S.
+\newblock Pocketome of Human Kinases: Prioritizing the ATP Binding Sites of
+  (Yet) Untapped Protein Kinases for Drug Discovery.
+\newblock Journal of Chemical Information and Modeling.  2015; 55(3):538--549.
+\newblock \urlprefix\url{http://dx.doi.org/10.1021/ci500624s},
+  \href{10.1021/ci500624s}{\doiprefix \detokenize{10.1021/ci500624s}}, pMID:
+  25557645.
+
+\bibitem[{Chandarlapaty et~al.(2011{\natexlab{c}})Chandarlapaty, Sarat and
+  Sawai, Ayana and Scaltriti, Maurizio and Rodrik-Outmezguine, Vanessa and
+  Grbovic-Huezo, Olivera and Serra, Violeta and Majumder, Pradip K. and
+  Baselga, Jose and Rosen, Neal}]{chandarlapaty_akt_2011}
+\textbf{\color{eLifeMediumGrey} Chandarlapaty S}, Sawai A, Scaltriti M,
+  Rodrik-Outmezguine V, Grbovic-Huezo O, Serra V, Majumder PK, Baselga J, Rosen
+  N.
+\newblock {AKT} {Inhibition} {Relieves} {Feedback} {Suppression} of {Receptor}
+  {Tyrosine} {Kinase} {Expression} and {Activity}.
+\newblock Cancer Cell.  2011 Jan; 19(1):58--71.
+\newblock
+  \urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1535610810004332},
+  \href{10.1016/j.ccr.2010.10.031}{\doiprefix
+  \detokenize{10.1016/j.ccr.2010.10.031}}.
+
+\bibitem[{Jia et~al.(2016)Jia, Yong and Yun, Cai-Hong and Park, Eunyoung and
+  Ercan, Dalia and Manuia, Mari and Juarez, Jose and Xu, Chunxiao and Rhee,
+  Kevin and Chen, Ting and Zhang, Haikuo and Palakurthi, Sangeetha and Jang,
+  Jaebong and Lelais, Gerald and DiDonato, Michael and Bursulaya, Badry and
+  Michellys, Pierre-Yves and Epple, Robert and Marsilje, Thomas H and McNeill,
+  Matthew and Lu, Wenshuo and Harris, Jennifer and Bender, Steven and Wong,
+  Kwok-Kin and J{\"a}nne, Pasi A and Eck, Michael J}]{Jia:2016di}
+\textbf{\color{eLifeMediumGrey} Jia Y}, Yun CH, Park E, Ercan D, Manuia M,
+  Juarez J, Xu C, Rhee K, Chen T, Zhang H, Palakurthi S, Jang J, Lelais G,
+  DiDonato M, Bursulaya B, Michellys PY, Epple R, Marsilje TH, McNeill M, Lu W,
+  et~al.
+\newblock {Overcoming EGFR(T790M) and EGFR(C797S) resistance with
+  mutant-selective allosteric inhibitors}.
+\newblock Nature.  2016 Jun; 534(7605):129--132.
+
+\bibitem[{Politi et~al.(2015)Politi, Katerina and Ayeni, Deborah and Lynch,
+  Thomas}]{Politi:2015fg}
+\textbf{\color{eLifeMediumGrey} Politi K}, Ayeni D, Lynch T.
+\newblock {The Next Wave of EGFR Tyrosine Kinase Inhibitors Enter the Clinic.}
+\newblock Cancer Cell.  2015 Jun; 27(6):751--753.
+
+\bibitem[{Karaman et~al.(2008)Mazen W. Karaman and Sanna Herrgard and Daniel K.
+  Treiber and Paul Gallant and Corey E. Atteridge and Brian T. Campbell and
+  Katrina W. Chan and Pietro Ciceri and Mindy I. Davis and Philip T. Edeen and
+  Raffaella Faraoni and Mark Floyd and Jeremy P. Hunt and Daniel J. Lockhart
+  and Zdravko V. Milanov and Michael J. Morrison and Gabriel Pallares and
+  Hitesh K. Patel and Stephanie Pritchard and Lisa M. Wodicka and Patrick P.
+  Zarrinkar}]{karaman:nature-biotech:2008:kinase-selectivity-map}
+\textbf{\color{eLifeMediumGrey} Karaman MW}, Herrgard S, Treiber DK, Gallant P,
+  Atteridge CE, Campbell BT, Chan KW, Ciceri P, Davis MI, Edeen PT, Faraoni R,
+  Floyd M, Hunt JP, Lockhart DJ, Milanov ZV, Morrison MJ, Pallares G, Patel HK,
+  Pritchard S, Wodicka LM, et~al.
+\newblock A quantitative analysis of kinase inhibitor selectivity.
+\newblock Nature Biotech.  2008; 26:127--132.
+
+\bibitem[{Davis et~al.(2011{\natexlab{b}})Davis, Mindy I and Hunt, Jeremy P and
+  Herrgard, Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel
+  and Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
+  P}]{Davis:2011fz}
+\textbf{\color{eLifeMediumGrey} Davis MI}, Hunt JP, Herrgard S, Ciceri P,
+  Wodicka LM, Pallares G, Hocker M, Treiber DK, Zarrinkar PP.
+\newblock {Comprehensive analysis of kinase inhibitor selectivity.}
+\newblock Nature biotechnology.  2011 Nov; 29(11):1046--1051.
+
+\bibitem[{M{\'e}dard et~al.(2015)M{\'e}dard, Guillaume and Pachl, Fiona and
+  Ruprecht, Benjamin and Klaeger, Susan and Heinzlmeir, Stephanie and Helm,
+  Dominic and Qiao, Huichao and Ku, Xin and Wilhelm, Mathias and Kuehne, Thomas
+  and Wu, Zhixiang and Dittmann, Antje and Hopf, Carsten and Kramer, Karl and
+  Kuster, Bernhard}]{Medard:2015hv}
+\textbf{\color{eLifeMediumGrey} M{\'e}dard G}, Pachl F, Ruprecht B, Klaeger S,
+  Heinzlmeir S, Helm D, Qiao H, Ku X, Wilhelm M, Kuehne T, Wu Z, Dittmann A,
+  Hopf C, Kramer K, Kuster B.
+\newblock {Optimized chemical proteomics assay for kinase inhibitor profiling.}
+\newblock Journal of proteome research.  2015 Mar; 14(3):1574--1586.
+
+\bibitem[{Chambers et~al.(2004)Stephen P. Chambers and Douglas A. Austen and
+  John R. Fulghum and Walter M. Kim}]{vertex:2004:kinase-expression}
+\textbf{\color{eLifeMediumGrey} Chambers SP}, Austen DA, Fulghum JR, Kim WM.
+\newblock High-throughput screening for soluble recombinant expressed kinases
+  in \emph{Escherichia coli} and insect cells.
+\newblock Protein Expression and Purification.  2004; 36:40--47.
+\newblock \href{10.1016/j.pep.2004.03.003}{\doiprefix
+  \detokenize{10.1016/j.pep.2004.03.003}}.
+
+\bibitem[{Wang et~al.(2008)Leyu Wang and Meta Foster and Yan Zhang and Willian
+  R. Tschantz and Lily Yang and Joe Worrall and Christie Loh and Xu
+  Xu}]{wang:protein-express-pur:2008:high-yield-kinase-insect-cells}
+\textbf{\color{eLifeMediumGrey} Wang L}, Foster M, Zhang Y, Tschantz WR, Yang
+  L, Worrall J, Loh C, Xu X.
+\newblock High yield expression of non-phosphorylated protein tyrosine kinases
+  in insect cells.
+\newblock Protein Express Pur.  2008; 61:204--211.
+\newblock \href{10.1016/j.pep.2008.05.017}{\doiprefix
+  \detokenize{10.1016/j.pep.2008.05.017}}.
+
+\bibitem[{Seeliger et~al.(2005)Markus A. Seeliger and Matthew Young and M.
+  Nidanie Henderson and Patricia Pellicena and David S. King and Arnold M.
+  Falick and John Kuriyan}]{seeliger:2005:protein-sci:kinase-expression}
+\textbf{\color{eLifeMediumGrey} Seeliger MA}, Young M, Henderson MN, Pellicena
+  P, King DS, Falick AM, Kuriyan J.
+\newblock High yield bacterial expression of active {c-Abl} and {c-Src}
+  tyrosine kinases.
+\newblock Protein Sci.  2005; 14:3135--3139.
+
+\bibitem[{{The Structural Genomics Consortium}(2012)}]{sgc-kinome}
+\textbf{\color{eLifeMediumGrey} {The Structural Genomics Consortium}}, {SGC:}
+  Progress in protein kinase structural biology; 2012.
+\newblock \urlprefix\url{http://www.thesgc.org/scientists/resources/kinases},
+  updated 18 Jul 2012.
+
+\bibitem[{Weisberg et~al.(2005)Weisberg, Ellen and Manley, Paul W and
+  Breitenstein, Werner and Br{\"u}ggen, Josef and Cowan-Jacob, Sandra W and
+  Ray, Arghya and Huntly, Brian and Fabbro, Doriano and Fendrich, Gabriele and
+  Hall-Meyers, Elizabeth and Kung, Andrew L and Mestan, J{\"u}rgen and Daley,
+  George Q and Callahan, Linda and Catley, Laurie and Cavazza, Cara and Azam,
+  Mohammad and Mohammed, Azam and Neuberg, Donna and Wright, Renee D and
+  Gilliland, D Gary and Griffin, James D}]{Weisberg:2005boa}
+\textbf{\color{eLifeMediumGrey} Weisberg E}, Manley PW, Breitenstein W,
+  Br{\"u}ggen J, Cowan-Jacob SW, Ray A, Huntly B, Fabbro D, Fendrich G,
+  Hall-Meyers E, Kung AL, Mestan J, Daley GQ, Callahan L, Catley L, Cavazza C,
+  Azam M, Mohammed A, Neuberg D, Wright RD, et~al.
+\newblock {Characterization of AMN107, a selective inhibitor of native and
+  mutant Bcr-Abl.}
+\newblock Cancer Cell.  2005 Feb; 7(2):129--141.
+
+\bibitem[{Levinson et~al.(2006)Nicholas M. Levinson and Olga Kuchment and Kui
+  Shen and Matthew A. Young and Michael Koldobskly and Martin Karplus and
+  Phillip A. Cole and John Kuriyan}]{levinson:plos-biology:2006:inactive-abl}
+\textbf{\color{eLifeMediumGrey} Levinson NM}, Kuchment O, Shen K, Young MA,
+  Koldobskly M, Karplus M, Cole PA, Kuriyan J.
+\newblock A {Src}-like inactive conformation in the {Abl} tyrosine kinase
+  domain.
+\newblock Plos Biology.  2006; 4:e144.
+
+\bibitem[{Horio et~al.(2007)Horio, T and Hamasaki, T and Inoue, T and Wakayama,
+  T}]{Horio:2007wo}
+\textbf{\color{eLifeMediumGrey} Horio T}, Hamasaki T, Inoue T, Wakayama T.
+\newblock {Structural factors contributing to the Abl/Lyn dual inhibitory
+  activity of 3-substituted benzamide derivatives}.
+\newblock Bioorganic {\&} medicinal {\ldots}.  2007; .
+
+\bibitem[{{UniProt Consortium}(2017)}]{uniprot:2017}
+\textbf{\color{eLifeMediumGrey} {UniProt Consortium}}.
+\newblock {UniProt}: The universal protein knowledgebase.
+\newblock Nucl Acids Res.  2017; 45:D158--D169.
+\newblock \href{10.1093/nar/gkh131}{\doiprefix
+  \detokenize{10.1093/nar/gkh131}}.
+
+\bibitem[{Puhl et~al.(2009)Puhl, Ana Cristina and Giacomini, Cecilia and
+  Irazoqui, Gabriela and Batista Viera, Francisco and Villarino, Andrea and
+  Terenzi, Hern{\'a}n}]{Puhl:2009gg}
+\textbf{\color{eLifeMediumGrey} Puhl AC}, Giacomini C, Irazoqui G,
+  Batista~Viera F, Villarino A, Terenzi H.
+\newblock {Covalent immobilization of tobacco-etch-virus NIa protease: a useful
+  tool for cleavage of the histidine tag of recombinant proteins}.
+\newblock Biotechnology and Applied Biochemistry.  2009 May; 53(3):165--174.
+
+\bibitem[{Nallamsetty et~al.(2004)Nallamsetty, Sreedevi and Kapust, Rachel B
+  and T{\"o}zs{\'e}r, J{\'o}zsef and Cherry, Scott and Tropea, Joseph E and
+  Copeland, Terry D and Waugh, David S}]{Nallamsetty:2004cp}
+\textbf{\color{eLifeMediumGrey} Nallamsetty S}, Kapust RB, T{\"o}zs{\'e}r J,
+  Cherry S, Tropea JE, Copeland TD, Waugh DS.
+\newblock {Efficient site-specific processing of fusion proteins by tobacco
+  vein mottling virus protease in vivo and in vitro.}
+\newblock Protein expression and purification.  2004 Nov; 38(1):108--115.
+
+\bibitem[{Sun et~al.(2012)Sun, Changsheng and Liang, Jiongqiu and Shi, Rui and
+  Gao, Xuna and Zhang, Ruijuan and Hong, Fulin and Yuan, Qihang and Wang,
+  Shengbin}]{Sun:2012bh}
+\textbf{\color{eLifeMediumGrey} Sun C}, Liang J, Shi R, Gao X, Zhang R, Hong F,
+  Yuan Q, Wang S.
+\newblock {Tobacco etch virus protease retains its activity in various buffers
+  and in the presence of diverse additives}.
+\newblock Protein expression and purification.  2012 Mar; 82(1):226--231.
+
+\bibitem[{Lo et~al.(2004)Lo, Mei-Chu and Aulabaugh, Ann and Jin, Guixian and
+  Cowling, Rebecca and Bard, Jonathan and Malamas, Michael and Ellestad,
+  George}]{Lo:2004gy}
+\textbf{\color{eLifeMediumGrey} Lo MC}, Aulabaugh A, Jin G, Cowling R, Bard J,
+  Malamas M, Ellestad G.
+\newblock {Evaluation of fluorescence-based thermal shift assays for hit
+  identification in drug discovery}.
+\newblock Analytical Biochemistry.  2004 Sep; 332(1):153--159.
+
+\bibitem[{Ericsson et~al.(2006)Ericsson, Ulrika B and Hallberg, B Martin and
+  Detitta, George T and Dekker, Niek and Nordlund, P{\"a}r}]{Ericsson:2006dx}
+\textbf{\color{eLifeMediumGrey} Ericsson UB}, Hallberg BM, Detitta GT, Dekker
+  N, Nordlund P.
+\newblock {Thermofluor-based high-throughput stability optimization of proteins
+  for structural studies.}
+\newblock Analytical Biochemistry.  2006 Oct; 357(2):289--298.
+
+\bibitem[{Matulis et~al.(2005)Matulis, Daumantas and Kranz, James K and
+  Salemme, F Raymond and Todd, Matthew J}]{Matulis:2005dq}
+\textbf{\color{eLifeMediumGrey} Matulis D}, Kranz JK, Salemme FR, Todd MJ.
+\newblock {Thermodynamic stability of carbonic anhydrase: measurements of
+  binding affinity and stoichiometry using ThermoFluor.}
+\newblock Biochemistry.  2005 Apr; 44(13):5258--5266.
+
+\bibitem[{Iyer et~al.(2008)Iyer, Ganesh H and Taslimi, Paul and Pazhanisamy,
+  S}]{Iyer:2008is}
+\textbf{\color{eLifeMediumGrey} Iyer GH}, Taslimi P, Pazhanisamy S.
+\newblock {Staurosporine-based binding assay for testing the affinity of
+  compounds to protein kinases.}
+\newblock Analytical Biochemistry.  2008 Feb; 373(2):197--206.
+
+\bibitem[{Levinson and Boxer(2012)Nicholas M. Levinson and Steven G.
+  Boxer}]{levinson-boxer:plos-one:2012:bosutinib}
+\textbf{\color{eLifeMediumGrey} Levinson NM}, Boxer SG.
+\newblock Structural and Spectroscopic Analysis of the Kinase Inhibitor
+  Bosutinib and an Isomer of Bosutinib Binding to the {Abl} Tyrosine Kinase
+  Domain.
+\newblock PLoS One.  2012; 7:e29828.
+
+\bibitem[{Levinson and Boxer(2014)Levinson, Nicholas M and Boxer, Steven
+  G}]{Levinson:2014gi}
+\textbf{\color{eLifeMediumGrey} Levinson NM}, Boxer SG.
+\newblock {A conserved water-mediated hydrogen bond network defines bosutinib's
+  kinase selectivity.}
+\newblock Nature chemical biology.  2014 Feb; 10(2):127--132.
+
+\bibitem[{Varghese and Berger(2014)Varghese, Anna M and Berger, Michael
+  F}]{Varghese:2014jw}
+\textbf{\color{eLifeMediumGrey} Varghese AM}, Berger MF.
+\newblock {Advancing clinical oncology through genome biology and technology.}
+\newblock Genome biology.  2014 Aug; 15(8):427.
+
+\bibitem[{Zehir et~al.(2017{\natexlab{b}})Zehir, Ahmet and Benayed, Ryma and
+  Shah, Ronak H and Syed, Aijazuddin and Middha, Sumit and Kim, Hyunjae R and
+  Srinivasan, Preethi and Gao, Jianjiong and Chakravarty, Debyani and Devlin,
+  Sean M and Hellmann, Matthew D and Barron, David A and Schram, Alison M and
+  Hameed, Meera and Dogan, Snjezana and Ross, Dara S and Hechtman, Jaclyn F and
+  DeLair, Deborah F and Yao, JinJuan and Mandelker, Diana L and Cheng, Donavan
+  T and Chandramohan, Raghu and Mohanty, Abhinita S and Ptashkin, Ryan N and
+  Jayakumaran, Gowtham and Prasad, Meera and Syed, Mustafa H and Rema, Anoop
+  Balakrishnan and Liu, Zhen Y and Nafa, Khedoudja and Borsu, Laetitia and
+  Sadowska, Justyna and Casanova, Jacklyn and Bacares, Ruben and Kiecka, Iwona
+  J and Razumova, Anna and Son, Julie B and Stewart, Lisa and Baldi, Tessara
+  and Mullaney, Kerry A and Al-Ahmadie, Hikmat and Vakiani, Efsevia and
+  Abeshouse, Adam A and Penson, Alexander V and Jonsson, Philip and Camacho,
+  Niedzica and Chang, Matthew T and Won, Helen H and Gross, Benjamin E and
+  Kundra, Ritika and Heins, Zachary J and Chen, Hsiao-Wei and Phillips, Sarah
+  and Zhang, Hongxin and Wang, Jiaojiao and Ochoa, Angelica and Wills, Jonathan
+  and Eubank, Michael and Thomas, Stacy B and Gardos, Stuart M and Reales,
+  Dalicia N and Galle, Jesse and Durany, Robert and Cambria, Roy and Abida,
+  Wassim and Cercek, Andrea and Feldman, Darren R and Gounder, Mrinal M and
+  Hakimi, A Ari and Harding, James J and Iyer, Gopa and Janjigian, Yelena Y and
+  Jordan, Emmet J and Kelly, Ciara M and Lowery, Maeve A and Morris, Luc G T
+  and Omuro, Antonio M and Raj, Nitya and Razavi, Pedram and Shoushtari,
+  Alexander N and Shukla, Neerav and Soumerai, Tara E and Varghese, Anna M and
+  Yaeger, Rona and Coleman, Jonathan and Bochner, Bernard and Riely, Gregory J
+  and Saltz, Leonard B and Scher, Howard I and Sabbatini, Paul J and Robson,
+  Mark E and Klimstra, David S and Taylor, Barry S and Baselga, Jose and
+  Schultz, Nikolaus and Hyman, David M and Arcila, Maria E and Solit, David B
+  and Ladanyi, Marc and Berger, Michael F}]{Zehir:2017ib}
+\textbf{\color{eLifeMediumGrey} Zehir A}, Benayed R, Shah RH, Syed A, Middha S,
+  Kim HR, Srinivasan P, Gao J, Chakravarty D, Devlin SM, Hellmann MD, Barron
+  DA, Schram AM, Hameed M, Dogan S, Ross DS, Hechtman JF, DeLair DF, Yao J,
+  Mandelker DL, et~al.
+\newblock {Mutational landscape of metastatic cancer revealed from prospective
+  clinical sequencing of 10,000 patients.}
+\newblock Nature medicine.  2017 May; 159:676.
+
+\bibitem[{Garraway(2013)Garraway, Levi A}]{Garraway:2013kn}
+\textbf{\color{eLifeMediumGrey} Garraway LA}.
+\newblock {Genomics-driven oncology: framework for an emerging paradigm.}
+\newblock Journal of clinical oncology : official journal of the American
+  Society of Clinical Oncology.  2013 May; 31(15):1806--1814.
+
+\bibitem[{Cerami et~al.(2012{\natexlab{b}})Cerami, Ethan and Gao, Jianjiong and
+  Dogrusoz, Ugur and Gross, Benjamin E. and Sumer, Selcuk Onur and Aksoy,
+  B?lent Arman and Jacobsen, Anders and Byrne, Caitlin J. and Heuer, Michael L.
+  and Larsson, Erik and Antipin, Yevgeniy and Reva, Boris and Goldberg, Arthur
+  P. and Sander, Chris and Schultz, Nikolaus}]{cBioPortal}
+\textbf{\color{eLifeMediumGrey} Cerami E}, Gao J, Dogrusoz U, Gross BE, Sumer
+  SO, Aksoy BA, Jacobsen A, Byrne CJ, Heuer ML, Larsson E, Antipin Y, Reva B,
+  Goldberg AP, Sander C, Schultz N.
+\newblock The {{cBio Cancer Genomics Portal}}: {{An Open Platform}} for
+  {{Exploring Multidimensional Cancer Genomics Data}}: {{Figure}} 1.
+\newblock Cancer Discovery.  2012 May; 2(5):401--404.
+\newblock \href{10.1158/2159-8290.CD-12-0095}{\doiprefix
+  \detokenize{10.1158/2159-8290.CD-12-0095}}.
+
+\bibitem[{Cheng et~al.(2015)Cheng, Donavan T. and Mitchell, Talia N. and Zehir,
+  Ahmet and Shah, Ronak H. and Benayed, Ryma and Syed, Aijazuddin and
+  Chandramohan, Raghu and Liu, Zhen Yu and Won, Helen H. and Scott, Sasinya N.
+  and Brannon, A. Rose and O'Reilly, Catherine and Sadowska, Justyna and
+  Casanova, Jacklyn and Yannes, Angela and Hechtman, Jaclyn F. and Yao, Jinjuan
+  and Song, Wei and Ross, Dara S. and Oultache, Alifya and Dogan, Snjezana and
+  Borsu, Laetitia and Hameed, Meera and Nafa, Khedoudja and Arcila, Maria E.
+  and Ladanyi, Marc and Berger, Michael F.}]{msk-impact}
+\textbf{\color{eLifeMediumGrey} Cheng DT}, Mitchell TN, Zehir A, Shah RH,
+  Benayed R, Syed A, Chandramohan R, Liu ZY, Won HH, Scott SN, Brannon AR,
+  O'Reilly C, Sadowska J, Casanova J, Yannes A, Hechtman JF, Yao J, Song W,
+  Ross DS, Oultache A, et~al.
+\newblock Memorial {{Sloan Kettering}}-{{Integrated Mutation Profiling}} of
+  {{Actionable Cancer Targets}} ({{MSK}}-{{IMPACT}}).
+\newblock The Journal of Molecular Diagnostics.  2015 May; 17(3):251--264.
+\newblock \href{10.1016/j.jmoldx.2014.12.006}{\doiprefix
+  \detokenize{10.1016/j.jmoldx.2014.12.006}}.
+
+\bibitem[{Reva et~al.(2007)Reva, Boris and Antipin, Yevgeniy and Sander,
+  Chris}]{reva_determinants_2007}
+\textbf{\color{eLifeMediumGrey} Reva B}, Antipin Y, Sander C.
+\newblock Determinants of protein function revealed by combinatorial entropy
+  optimization.
+\newblock .  2007; 8(11):R232.
+\newblock
+  \urlprefix\url{http://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-11-r232},
+  \href{10.1186/gb-2007-8-11-r232}{\doiprefix
+  \detokenize{10.1186/gb-2007-8-11-r232}}.
+
+\bibitem[{Reva et~al.(2011)Reva, Boris and Antipin, Yevgeniy and Sander,
+  Chris}]{doi:10.1093/nar/gkr407}
+\textbf{\color{eLifeMediumGrey} Reva B}, Antipin Y, Sander C.
+\newblock Predicting the functional impact of protein mutations: application to
+  cancer genomics.
+\newblock Nucleic Acids Research.  2011; 39(17):e118.
+\newblock \urlprefix\url{http://dx.doi.org/10.1093/nar/gkr407},
+  \href{10.1093/nar/gkr407}{\doiprefix \detokenize{10.1093/nar/gkr407}}.
+
+\bibitem[{Ramos et~al.(2015)Ramos, Alex H and Lichtenstein, Lee and Gupta,
+  Manaswi and Lawrence, Michael S and Pugh, Trevor J and Saksena, Gordon and
+  Meyerson, Matthew and Getz, Gad}]{Ramos:2015ew}
+\textbf{\color{eLifeMediumGrey} Ramos AH}, Lichtenstein L, Gupta M, Lawrence
+  MS, Pugh TJ, Saksena G, Meyerson M, Getz G.
+\newblock {Oncotator: cancer variant annotation tool.}
+\newblock Human mutation.  2015 Apr; 36(4):E2423--9.
+
+\bibitem[{Klock et~al.(2008)Klock, Heath E. and Koesema, Eric J. and Knuth,
+  Mark W. and Lesley, Scott A.}]{klock_combining_2008}
+\textbf{\color{eLifeMediumGrey} Klock HE}, Koesema EJ, Knuth MW, Lesley SA.
+\newblock Combining the polymerase incomplete primer extension method for
+  cloning and mutagenesis with microscreening to accelerate structural genomics
+  efforts.
+\newblock Proteins: Structure, Function, and Bioinformatics.  2008 May;
+  71(2):982--994.
+\newblock \href{10.1002/prot.21786}{\doiprefix
+  \detokenize{10.1002/prot.21786}}.
+
+\bibitem[{Velankar et~al.(2013)Velankar, Sameer and Dana, José M. and
+  Jacobsen, Julius and van Ginkel, Glen and Gane, Paul J. and Luo, Jie and
+  Oldfield, Thomas J. and O’Donovan, Claire and Martin, Maria-Jesus and
+  Kleywegt, Gerard J.}]{doi:10.1093/nar/gks1258}
+\textbf{\color{eLifeMediumGrey} Velankar S}, Dana JM, Jacobsen J, van Ginkel G,
+  Gane PJ, Luo J, Oldfield TJ, O’Donovan C, Martin MJ, Kleywegt GJ.
+\newblock SIFTS: Structure Integration with Function, Taxonomy and Sequences
+  resource.
+\newblock Nucleic Acids Research.  2013; 41(D1):D483.
+\newblock \urlprefix\url{http://dx.doi.org/10.1093/nar/gks1258},
+  \href{10.1093/nar/gks1258}{\doiprefix \detokenize{10.1093/nar/gks1258}}.
+
+\bibitem[{Sørensen and Mortensen(2005)Hans Peter Sørensen and Kim Kusk
+  Mortensen}]{SORENSEN2005113}
+\textbf{\color{eLifeMediumGrey} Sørensen HP}, Mortensen KK.
+\newblock Advanced genetic strategies for recombinant protein expression in
+  Escherichia coli.
+\newblock Journal of Biotechnology.  2005; 115(2):113 -- 128.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168165604004560},
+  \href{http://dx.doi.org/10.1016/j.jbiotec.2004.08.004}{\doiprefix
+  \detokenize{http://dx.doi.org/10.1016/j.jbiotec.2004.08.004}}.
+
+\bibitem[{Haacke et~al.(2009)Haacke, Annette and Fendrich, Gabriele and Ramage,
+  Paul and Geiser, Martin}]{Haacke:ProteinExpr.Purif.:2009}
+\textbf{\color{eLifeMediumGrey} Haacke A}, Fendrich G, Ramage P, Geiser M.
+\newblock Chaperone Over-Expression in {{Escherichia}} Coli: {{Apparent}}
+  Increased Yields of Soluble Recombinant Protein Kinases Are Due Mainly to
+  Soluble Aggregates.
+\newblock Protein Expr Purif.  2009 Apr; 64(2):185--193.
+\newblock \href{10.1016/j.pep.2008.10.022}{\doiprefix
+  \detokenize{10.1016/j.pep.2008.10.022}}.
+
+\bibitem[{Kim and Swartz(1999)Kim, Dong-Myung and Swartz, James
+  R.}]{Kim:Biotechnol.Bioeng.:1999}
+\textbf{\color{eLifeMediumGrey} Kim DM}, Swartz JR.
+\newblock Prolonging Cell-Free Protein Synthesis with a Novel {{ATP}}
+  Regeneration System.
+\newblock Biotechnol Bioeng.  1999; 66(3):180--188.
+\newblock
+  \href{10.1002/(SICI)1097-0290(1999)66:3<180::AID-BIT6>3.0.CO;2-S}{\doiprefix
+  \detokenize{10.1002/(SICI)1097-0290(1999)66:3<180::AID-BIT6>3.0.CO;2-S}}.
+
+\bibitem[{Sawasaki et~al.(2002)Sawasaki, T. and Ogasawara, T. and Morishita, R.
+  and Endo, Y.}]{Sawasaki:Proc.Natl.Acad.Sci.:2002a}
+\textbf{\color{eLifeMediumGrey} Sawasaki T}, Ogasawara T, Morishita R, Endo Y.
+\newblock A Cell-Free Protein Synthesis System for High-Throughput Proteomics.
+\newblock Proc Natl Acad Sci.  2002 Nov; 99(23):14652--14657.
+\newblock \href{10.1073/pnas.232580399}{\doiprefix
+  \detokenize{10.1073/pnas.232580399}}.
 
 \end{thebibliography}

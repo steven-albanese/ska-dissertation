@@ -2,4 +2,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Public $\Delta $pIC$_{50}$ datasets for 144 Abl kinase mutations and eight tyrosine kinase inhibitors (TKIs) with corresponding wild-type co-crystal structures}}{66}{table.caption.30}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Kinase domain constructs with yields >2 $\mu $g/mL culture for 96-kinase expression screen.}}{78}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Expression yields for engineered clinical missense mutants of Abl kinase domains with yields > 2\nobreakspace {}$\mu $g/mL culture.}}{88}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Expression yields for engineered clinical missense mutants of Src kinase domains with yields > 2\nobreakspace {}$\mu $g/mL culture.}}{89}{table.5.3}

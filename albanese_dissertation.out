@@ -5,52 +5,67 @@
 \BOOKMARK [1][-]{chapter*.2}{List of Tables}{}% 5
 \BOOKMARK [1][-]{chapter*.2}{List of Figures}{}% 6
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
-\BOOKMARK [0][-]{chapter.2}{Predicting the selectivity of small molecule kinase inhibitors}{}% 8
-\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 9
-\BOOKMARK [2][-]{subsection.2.1.1}{Free energy methods can aid structure-based drug design}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.2}{Selectivity is an important consideration in drug design}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.3}{Use of physical modeling to predict selectivity is relatively unexplored}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.4}{Kinases are an interesting and particularly challenging model system for selectivity predictions}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.5}{Assessing the ability of alchemical free energy methods to predict selectivity}{section.2.1}% 14
-\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.1}{Numerical model of selectivity}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.2}{Structure Preparation}{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.3}{Ligand Pose Generation}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.4}{Free Energy Calculations}{section.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.5}{Charge Change Free Energy Calculations}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.6}{Statistical Analysis of FEP+ calculations}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.7}{Quantification of the correlation coefficient }{section.2.2}% 22
-\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 23
-\BOOKMARK [2][-]{subsection.2.3.1}{Free energy methods can be used to predict the selectivity of a compound}{section.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.3.2}{Correlation of errors can make selectivity predictions more accurate and speed up ligand optimization}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.3}{The CDK2 and CDK9 experimental dataset demonstrates the difficulty in achieving selectivity for closely related kinases}{section.2.3}% 26
-\BOOKMARK [2][-]{subsection.2.3.4}{The CDK2 and ERK2 dataset achieves higher levels of selectivity for more distantly related kinases}{section.2.3}% 27
-\BOOKMARK [2][-]{subsection.2.3.5}{FEP+ calculations show accurate potency predictions for ERK2/CDK2 and larger errors for CDK2/CDK9}{section.2.3}% 28
-\BOOKMARK [2][-]{subsection.2.3.6}{Free energy calculation errors are correlated, accelerating selectivity optimization}{section.2.3}% 29
-\BOOKMARK [1][-]{section.2.4}{Discussion and Conclusions}{chapter.2}% 30
-\BOOKMARK [0][-]{chapter.3}{Understanding the functional impact of mTOR clinical kinase mutations using physical modeling}{}% 31
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 32
-\BOOKMARK [2][-]{subsection.3.1.1}{mTOR forms the catalytic core of protein complexes that control a number of cellular processes}{section.3.1}% 33
-\BOOKMARK [2][-]{subsection.3.1.2}{mTOR is the targeted by inhibitors with two distinct mechanisms of action}{section.3.1}% 34
-\BOOKMARK [2][-]{subsection.3.1.3}{mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}{section.3.1}% 35
-\BOOKMARK [2][-]{subsection.3.1.4}{Using physical modeling to understand the functional impact of mTOR mutations}{section.3.1}% 36
-\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 37
-\BOOKMARK [2][-]{subsection.3.2.1}{Molecular dynamics simulations}{section.3.2}% 38
-\BOOKMARK [2][-]{subsection.3.2.2}{Contact Map Analysis}{section.3.2}% 39
-\BOOKMARK [2][-]{subsection.3.2.3}{Mean Contact formation over time}{section.3.2}% 40
-\BOOKMARK [2][-]{subsection.3.2.4}{Alchemical free energy calculations}{section.3.2}% 41
-\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.1}{Missense mutations perturb the structure of mTOR kinase domain}{section.3.3}% 43
-\BOOKMARK [2][-]{subsection.3.3.2}{Missense mutations do not appear to shift the formation of an active kinase domain}{section.3.3}% 44
-\BOOKMARK [2][-]{subsection.3.3.3}{Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}{section.3.3}% 45
-\BOOKMARK [2][-]{subsection.3.3.4}{Free energy calculations show promise in predicting impact of mutations on small molecule and ATP affinity}{section.3.3}% 46
-\BOOKMARK [1][-]{section.3.4}{Conclusions}{chapter.3}% 47
-\BOOKMARK [0][-]{chapter.4}{Predicting the impact of clinically-observed mutations using physical modeling and biophysical experiments}{}% 48
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 49
-\BOOKMARK [2][-]{subsection.4.1.1}{The long tail of rare kinase mutations frustrates prediction of drug resistance}{section.4.1}% 50
-\BOOKMARK [2][-]{subsection.4.1.2}{Alchemical free-energy methods can predict inhibitor binding affinities}{section.4.1}% 51
-\BOOKMARK [2][-]{subsection.4.1.3}{Alchemical approaches can predict the impact of protein mutations on free energy}{section.4.1}% 52
-\BOOKMARK [2][-]{subsection.4.1.4}{Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{section.4.1}% 53
-\BOOKMARK [2][-]{subsection.4.1.5}{A benchmark of pIC50s for predicting mutational resistance}{section.4.1}% 54
-\BOOKMARK [2][-]{subsection.4.1.6}{Summary of experimental data that is available and what needs to be done to make better information available}{section.4.1}% 55
-\BOOKMARK [2][-]{subsection.4.1.7}{Open-source YANK/Amber forcefield stuff}{section.4.1}% 56
+\BOOKMARK [1][-]{section.1.1}{Perspective}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Synopsis}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{Predicting the selectivity of small molecule kinase inhibitors}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Abstract}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{Introduction}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{Free energy methods can aid structure-based drug design}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{Selectivity is an important consideration in drug design}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.3}{Use of physical modeling to predict selectivity is relatively unexplored}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.4}{Kinases are an interesting and particularly challenging model system for selectivity predictions}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.5}{Assessing the ability of alchemical free energy methods to predict selectivity}{section.2.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Methods}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.3.1}{Numerical model of selectivity}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.2}{Structure Preparation}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.3}{Ligand Pose Generation}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.4}{Free Energy Calculations}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.5}{Charge Change Free Energy Calculations}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.6}{Statistical Analysis of FEP+ calculations}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.7}{Quantification of the correlation coefficient }{section.2.3}% 25
+\BOOKMARK [1][-]{section.2.4}{Results}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.4.1}{Free energy methods can be used to predict the selectivity of a compound}{section.2.4}% 27
+\BOOKMARK [2][-]{subsection.2.4.2}{Correlation of errors can make selectivity predictions more accurate and speed up ligand optimization}{section.2.4}% 28
+\BOOKMARK [2][-]{subsection.2.4.3}{The CDK2 and CDK9 experimental dataset demonstrates the difficulty in achieving selectivity for closely related kinases}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.4}{The CDK2 and ERK2 dataset achieves higher levels of selectivity for more distantly related kinases}{section.2.4}% 30
+\BOOKMARK [2][-]{subsection.2.4.5}{FEP+ calculations show accurate potency predictions for ERK2/CDK2 and larger errors for CDK2/CDK9}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.6}{Free energy calculation errors are correlated, accelerating selectivity optimization}{section.2.4}% 32
+\BOOKMARK [1][-]{section.2.5}{Discussion and Conclusions}{chapter.2}% 33
+\BOOKMARK [0][-]{chapter.3}{Understanding the functional impact of mTOR clinical kinase mutations using physical modeling}{}% 34
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.1.1}{mTOR forms the catalytic core of protein complexes that control a number of cellular processes}{section.3.1}% 36
+\BOOKMARK [2][-]{subsection.3.1.2}{mTOR is the targeted by inhibitors with two distinct mechanisms of action}{section.3.1}% 37
+\BOOKMARK [2][-]{subsection.3.1.3}{mTOR signaling is dysregulated in cancer by hyperactivating missense mutations}{section.3.1}% 38
+\BOOKMARK [2][-]{subsection.3.1.4}{Using physical modeling to understand the functional impact of mTOR mutations}{section.3.1}% 39
+\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.2.1}{Molecular dynamics simulations}{section.3.2}% 41
+\BOOKMARK [2][-]{subsection.3.2.2}{Contact Map Analysis}{section.3.2}% 42
+\BOOKMARK [2][-]{subsection.3.2.3}{Mean Contact formation over time}{section.3.2}% 43
+\BOOKMARK [2][-]{subsection.3.2.4}{Alchemical free energy calculations}{section.3.2}% 44
+\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 45
+\BOOKMARK [2][-]{subsection.3.3.1}{Missense mutations perturb the structure of mTOR kinase domain}{section.3.3}% 46
+\BOOKMARK [2][-]{subsection.3.3.2}{Missense mutations do not appear to shift the formation of an active kinase domain}{section.3.3}% 47
+\BOOKMARK [2][-]{subsection.3.3.3}{Missense mutations do not disrupt the formation of inhibitory salt bridges between the kinase and FAT domains}{section.3.3}% 48
+\BOOKMARK [2][-]{subsection.3.3.4}{Free energy calculations show promise in predicting impact of mutations on small molecule and ATP affinity}{section.3.3}% 49
+\BOOKMARK [1][-]{section.3.4}{Discussion and Conclusions}{chapter.3}% 50
+\BOOKMARK [0][-]{chapter.4}{Predicting the impact of clinically-observed kinase mutations using physical modeling}{}% 51
+\BOOKMARK [0][-]{chapter.5}{Enabling high-throughput biophysical experiments on clinically-observed mutations}{}% 52
+\BOOKMARK [1][-]{section.5.1}{Abstract}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.2}{Introduction}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.3.1}{Construct boundary choice impacts Abl kinase domain expression}{section.5.3}% 56
+\BOOKMARK [2][-]{subsection.5.3.2}{Screen of 96 kinases finds 52 with useful levels of automated E. coli expression}{section.5.3}% 57
+\BOOKMARK [2][-]{subsection.5.3.3}{High-expressing kinases are folded with a well-formed ATP binding site}{section.5.3}% 58
+\BOOKMARK [2][-]{subsection.5.3.4}{Fluorescence-based thermostability assay}{section.5.3}% 59
+\BOOKMARK [2][-]{subsection.5.3.5}{ATP-competitive inhibitor binding fluorescence assay}{section.5.3}% 60
+\BOOKMARK [2][-]{subsection.5.3.6}{Expressing clinically-derived Src and Abl mutants}{section.5.3}% 61
+\BOOKMARK [1][-]{section.5.4}{Methods}{chapter.5}% 62
+\BOOKMARK [2][-]{subsection.5.4.1}{Semi-automated selection of kinase construct sequences for E. coli expression}{section.5.4}% 63
+\BOOKMARK [2][-]{subsection.5.4.2}{Mutagenesis protocol}{section.5.4}% 64
+\BOOKMARK [2][-]{subsection.5.4.3}{Expression testing}{section.5.4}% 65
+\BOOKMARK [2][-]{subsection.5.4.4}{Fluorescence-based thermostability assay}{section.5.4}% 66
+\BOOKMARK [2][-]{subsection.5.4.5}{ATP-competitive inhibitor binding fluorescence assay}{section.5.4}% 67
+\BOOKMARK [2][-]{subsection.5.4.6}{Large Scale expression and purification protocol for MK14}{section.5.4}% 68
+\BOOKMARK [1][-]{section.5.5}{Discussion}{chapter.5}% 69
+\BOOKMARK [1][-]{section.5.6}{Author Contributions}{chapter.5}% 70
+\BOOKMARK [1][-]{section.5.7}{Acknowledgments}{chapter.5}% 71
