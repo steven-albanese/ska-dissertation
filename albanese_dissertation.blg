@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 464 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 493 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 11592 items from 5000.
+Reallocated field_info (elt_size=4) to 12200 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -333,6 +333,14 @@ Repeated entry---line 12636 of file albanese.bib
  : @article{Gajiwala:2013bn
  :                         ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 12679 of file albanese.bib
+ : @article{Jia:2016di
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12701 of file albanese.bib
+ : @article{Politi:2015fg
+ :                       ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Xu:2016fwu"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 presort is already a type "wizard-defined" function name
@@ -346,45 +354,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 205 entries,
+You've used 224 entries,
             3483 wiz_defined-function locations,
-            2007 strings with 75481 characters,
-and the built_in function-call counts, 850473 in all, are:
-= -- 107422
-> -- 6360
-< -- 41
-+ -- 3522
-- -- 1590
-* -- 79468
-:= -- 89458
-add.period$ -- 645
-call.type$ -- 205
-change.case$ -- 622
-chr.to.int$ -- 190
-cite$ -- 208
-duplicate$ -- 65184
-empty$ -- 81019
-format.name$ -- 2043
-if$ -- 195929
-int.to.chr$ -- 16
-int.to.str$ -- 206
-missing$ -- 3213
-newline$ -- 1061
-num.names$ -- 412
-pop$ -- 5221
+            2113 strings with 81196 characters,
+and the built_in function-call counts, 924827 in all, are:
+= -- 116885
+> -- 6936
+< -- 45
++ -- 3830
+- -- 1734
+* -- 86350
+:= -- 97250
+add.period$ -- 702
+call.type$ -- 224
+change.case$ -- 679
+chr.to.int$ -- 208
+cite$ -- 227
+duplicate$ -- 71208
+empty$ -- 88043
+format.name$ -- 2230
+if$ -- 213093
+int.to.chr$ -- 17
+int.to.str$ -- 225
+missing$ -- 3509
+newline$ -- 1156
+num.names$ -- 450
+pop$ -- 5671
 preamble$ -- 1
-purify$ -- 615
+purify$ -- 672
 quote$ -- 0
-skip$ -- 4353
+skip$ -- 4762
 stack$ -- 0
-substring$ -- 186731
-swap$ -- 7779
+substring$ -- 202617
+swap$ -- 8507
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1230
+type$ -- 1344
 warning$ -- 3
-while$ -- 2983
+while$ -- 3259
 width$ -- 0
-write$ -- 2741
-(There were 85 error messages)
+write$ -- 2988
+(There were 87 error messages)
