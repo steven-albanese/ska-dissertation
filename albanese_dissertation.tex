@@ -577,6 +577,19 @@ The above work utilizes physical modeling to study the impact of clinically obse
 The challenges with using traditional MD analysis highlights the importance of looking at testable, physical surrogates for activation and resistance. Unless there are well-validated order parameters from prior experimental work to use, drawing meaningful mechanistic conclusions from computation is difficult. Here, we present a pilot study using alchemical free energy calculations to compute the impact of a small panel of clinical mutations on ATP and inhibitor affinity. Promisingly, we were able to identify three potential resistance mutations. Future work to introduce these mutations and measure binding affinities for AZD8055, as well as expanding the number of inhibitors and mutations in the dataset, could prove useful in understanding the functional impact of these mutations on treatment. Unfortunately, mTOR is a complicated and experimentally untractable system to work with, which motivated the studies presented in the next chapter of this work. 
 
 \chapter{Predicting the impact of clinically-observed kinase mutations using physical modeling}
+
+The work in this chapter was published in \emph{Communications Biology} as follows. 
+\realsinglespacing
+\flushleft{\bf Predicting resistance of clinical Abl mutations to targeted kinase inhibitors using alchemical free-energy calculations}
+\flushleft{{\bf Kevin Hauser$^1$, Christopher Negron$^1$, Steven K. Albanese$^{2,3}$, Soumya Ray, Thomas Steinbrecher$^4$,  Robert Abel$^3$, John D. Chodera$^{2}$, Lingle Wang$^{3,*}$} \\
+	\emph{\normalsize $^1$ Schr\"{o}dinger, New York, NY 10036} \\
+	\emph{\normalsize $^2$ Louis V. Gerstner, Jr. Graduate School of Biomedical Sciences, Memorial Sloan Kettering Cancer Center, New York, NY 10065 } \\
+	\emph{\normalsize $^3$ Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065}\\
+	\emph{\normalsize $^3$ Schr\"{o}dinger, GmbH, Q7 23, 68161 Mannheim, Germany} \\
+	\emph{\normalsize $^*$ Corresponding Author} \\
+}
+
+\realdoublespacing
 \section{Abstract}
 	The therapeutic effect of targeted kinase inhibitors can be significantly reduced by intrinsic or acquired resistance mutations that modulate the affinity of the drug for the kinase.
 	In cancer, the majority of missense mutations are rare, making it difficult to predict their impact on inhibitor affinity. 
@@ -971,7 +984,7 @@ To address the impact of picking a cutoff to classify predicted free energies as
 ROC-AUC for FEP+ was $0.75_{0.61}^{0.90}$ (n=144); ROC-AUC for Prime was $0.66_{0.52}^{0.81}$ (n=144); ROC-AUCs for the na{\"i}ve model and consensus model were $0.50_{0.50}^{0.50}$ (n=144) and $0.78_{0.67}^{0.90}$ (n=144) respectively. These results show that Prime has poor discriminatory power (ROC-AUC in [0.6,0.7]) while FEP+ has fair discriminatory power (ROC-AUC in [0.7,0.8]).
 
 
-\subsection{Hierarchical Bayesian model estimates global performance (N=144)}
+\subsection{Hierarchical Bayesian model estimates global performance}
 A hierarchical Bayesian approach was developed to estimate the intrinsic accuracy of the models when the noise in the experimental and predicted values of $\Delta\Delta$G was accounted for.
 Utilizing this approach, the MUE and RMSE for Prime was found to be $1.39^{1.58}_{1.23}$ kcal mol$^{-1}$ and $1.75^{1.98}_{1.55}$ kcal mol$^{-1}$ (N=142) respectively.
 The accuracy, specificity, and sensitivity of Prime was found using this method to be $0.74^{0.76}_{0.71}$, $0.75^{0.77}_{0.73}$, and $0.59^{0.78}_{0.40}$ (N=144) respectively.
@@ -1028,7 +1041,7 @@ This work illustrates how the domain of applicability for alchemical free-energy
 \section{Methods}
 \label{sec:methods}
 
-\paragraph{System preparation}
+\subsection{System preparation}
 All system preparation utilized the Maestro Suite (Schr\"{o}dinger) version 2016-4. 
 Comparative modeling to add missing residues using a homologous template made use of the Splicer tool, while missing loops modeled without a template used Prime. 
 All tools employed default settings unless otherwise noted.
@@ -1036,7 +1049,7 @@ The Abl wild-type sequence used in building all Abl kinase domain models utilize
 Models were prepared in non-phosphorylated form.
 We used a residue indexing convention that places the Thr gatekeeper residue at position 315 to match common usage; an alternate indexing convention utilized in experimental X-ray structures for Abl:imatinib (PDB: 1OPJ) \citep{Nagar:Cell:2003} and Abl:dasatinib (PDB: 4XEY) \citep{Lorenz:Biochem.J.:2015} was adjusted to match our convention. 
 
-\subparagraph{Complexes with co-crystal structures.}
+\subsubsection{Complexes with co-crystal structures.}
 
 Chain B of the experimental structure of Abl:axitinib (PDB: 4WA9) \citep{Pemovska:Nature:2015} was used, and four missing residues at the N- and C-termini were added using homology modeling with PDB 3IK3 \citep{OHare:CancerCell:2009} as the template following alignment of the respective termini of the kinase domain. Chain B was selected because chain A was missing an additional 3 and 4 residues at the N- and C-termini, respectively, in addition to 3- and 20-residue loops, both of which were resolved in chain B. All missing side chains were added with Prime.
 The co-crystal structure of Abl:bosutinib (PDB: 3UE4) \citep{Levinson:PLoSONE:2012a} was missing 4 and 10 N- and C-terminal residues respectively in chain A that were built using homology modeling with 3IK3 as the template. All loops were resolved in chain A (chain B was missing two residues in the P-loop, Q252 and Y253). All missing side chains were added with Prime.
@@ -1051,7 +1064,7 @@ The positions of hydrogen atoms were minimized while constraining heavy atoms co
 Finally, restrained minimization of all atoms was performed in which a harmonic positional restraint (25.0 kcal mol$^{-1}$ {\AA}$^{-2}$) was applied only to heavy atoms. 
 Supplementary Table \ref{tab:table-si-9} summarizes the composition of the final models used for FEP.
 
-\subparagraph{Complexes without co-crystal structures.}
+\subsubsection{Complexes without co-crystal structures.}
 Co-crystal structures of Abl bound to erlotinib or gefitinib were not publicly available. To generate models of these complexes, Glide-SP~\citep{Friesner:J.Med.Chem.:2004} was utilized to dock these two compounds into an Abl receptor structure. 
 Co-crystal structures of these two compounds bound to EGFR were publicly available and this information was used to obtain initial ligand geometries and to establish a reference binding mode against which our docking results could be structurally scored.    
 The Abl receptor structure bound to bosutinib was used for docking because its structure was structurally similar to that of EGFR in the erlotinib- (PDB: 4HJO) \citep{Park:Biochem.J.:2012} and gefitinib-bound (PDB: 4WKQ) \citep{Yosaatmadja::2014} co-crystal structures. 
@@ -1067,17 +1080,17 @@ The pose in which erlotinib or gefitinib most structurally resembled the EGFR co
 Two sets of complex structures were subjected to free energy calculations to determine the effect of crystal waters: In the first set, without crystallographic waters, the complexes were prepared using Protein Prep Wizard as above. 
 In the second set, the crystallographic waters removed prior to docking were added back, and waters in the binding pocket that clashed with the ligand were removed. 
 
-\paragraph{Force field parameter assignment}
+\subsection{Force field parameter assignment}
 The OPLS3 forcefield~\citep{Harder:J.Chem.TheoryComput.:2016} version that shipped with Schr\"{o}dinger Suite release 2016-4 was used to parameterize the protein and ligand.
 Torsion parameter coverage was checked for all ligand fragments using Force Field Builder. 
 The two ligands that contained a fragment with a torsion parameter not covered by OPLS3 were axitinib and bosutinib; Force Field Builder was used to obtain these parameters. 
 SPC parameters~\citep{Berendsen:IntermolecularForces:1981} were used for water. For mutations that change the net change of the system, counterions were included to neutralize the system with additional Na+ and Cl- ions added to achieve 0.15 M excess to mimic the solution conditions of the experimental assay.
 
-\paragraph{Prime (MM-GBSA)}
+\subsection{Prime (MM-GBSA)}
 Prime was used to predict the geometry of mutant side chains and to calculate relative changes in free energy using MM-GBSA single-point estimates \citep{Rapp:J.Chem.Inf.Model.:2011}. VSGB \citep{Shivakumar:J.Chem.TheoryComput.:2010} was used as the implicit solvent model to calculate the solvation free energies for the four states (complex/wild-type, complex/mutant, apo protein/wild-type, and apo protein/mutant) and $\Delta\Delta$G calculated using the thermodynamic cycle depicted in \FIG{figure-1}b. 
 Unlike FEP (see below), which simulates the horizontal legs of the thermodynamic cycle, MM-GBSA models the vertical legs by computing the interaction energy between the ligand and protein in both wild-type and mutant states, subtracting these to obtain the $\Delta\Delta$G of mutation on the binding free energy.
 
-\paragraph{Alchemical free energy perturbation calculations using FEP+}
+\subsection{Alchemical free energy perturbation calculations using FEP+}
 Alchemical free energy calculations were performed using the FEP+ tool in the Schr\"{o}dinger Suite version 2016-4, which offers a fully automated workflow requiring only an input structure (wild-type complex) and specification of the desired mutation. 
 The default protocol was used throughout: It assigns protein and ligand force field parameters (as above), generates a dual-topology~\citep{Pearlman:J.Phys.Chem.:1994} alchemical system for transforming wild-type into mutant protein (whose initial structure is modeled using Prime), generates the solvent-leg endpoints (wild-type and mutant apo protein), and constructs intermediate  windows spanning wild-type and mutant states. 
 Simulations of the apo protein were setup by removing the ligand from the prepared complex (see System Preparation) followed by an identical simulation protocol as that used for the complex.
@@ -1105,7 +1118,7 @@ The relative free energies for each mutation in each independent run were calcul
 The reported $\Delta\Delta$G was computed as the mean of the computed $\Delta\Delta$G from three independent simulations.
 Triplicate simulations were performed in parallel using four NIVIDA Pascal Architecture GPUs per alchemical free-energy simulation (12 GPUs in total), requiring $\sim$6~hours in total to compute $\Delta\Delta$G.    
 
-\paragraph{Obtaining $\Delta\Delta$G from $\Delta$pIC$_{50}$ benchmark set data}
+\subsection{Obtaining $\Delta\Delta$G from $\Delta$pIC$_{50}$ benchmark set data}
 Reference relative free energies were obtained from three publicly available sources of $\Delta$pIC$_{50}$ data (\TABLE{table-1}).
 Under the assumption of Michaelis-Menten binding kinetics (pseudo first-order, but relative free energies are likely consistent), the inhibitor is competitive with ATP (\EQ{ic50}). 
 This assumption has been successfully used to estimate relative free energies~\citep{Price:Bioorg.Med.Chem.Lett.:2000,Luccarelli:J.Chem.TheoryComput.:2010,Michel:J.Med.Chem.:2006,mondal2016} using the relationship between IC$_{50}$ and competitive inhibitor affinity $K_{i}$,
@@ -1128,12 +1141,12 @@ However, the comparison between $\Delta$pIC$_{50}$ and $\Delta K_{D}$ is present
 %%%
 \subsection{Assessing prediction performance}
 
-\paragraph{Quantitative accuracy metrics}
+\subsubsection{Quantitative accuracy metrics}
 Mean unsigned error (MUE) was calculated by taking the average absolute difference between predicted and experimental estimates of $\Delta\Delta$G. 
 Root-mean square error (RMSE) was calculated by taking the square root of the average squared difference between predicted and experimental estimates of $\Delta\Delta$G. 
 MUE depends linearly on errors such that large and small errors contribute equally to the average value, while RMSE depends quadratically on errors, magnifying their effect on the average value.
 
-\paragraph{Truth tables}
+\subsubsection{Truth tables}
 Two-class truth tables were constructed to characterize the ability of Prime and FEP+ to correctly classify mutations as susceptible ($\Delta\Delta$G $\le$ 1.36 kcal mol$^{-1}$) or resistant ($\Delta\Delta$G > 1.36 kcal mol$^{-1}$), where the 1.36 kcal mol$^{-1}$ threshold represents a 10-fold change in affinity. 
 Accuracy was calculated as the fraction of all predictions that were correctly classified as sensitizing, neutral, or resistant.
 Sensitivity and specificity were calculated using a binary classification of resistant ($\Delta\Delta$G > 1.36 kcal mol$^{-1}$) or susceptible ($\Delta\Delta$G $\le$ 1.36 kcal mol$^{-1}$). 
@@ -1141,19 +1154,19 @@ Specificity was calculated as the fraction of correctly predicted non-resistant 
 Sensitivity was calculated as the fraction of correctly predicted resistant mutations out of all truly resistant mutations, {\bf R}. 
 The number of susceptible mutations was 113 for axitinib, bosutinib, dasatinib, imatinib, nilotinib and ponatinib, and 12 for erlotinib and gefitinib; the number of resistant mutations {\bf R} was 18 for axitinib, bosutinib, dasatinib, imatinib, nilotinib, and ponatinib, and 1 for erlotinib and gefitinib.
 
-\paragraph{Consensus model}
+\subsubsection{Consensus model}
 First, Prime and FEP+ (n=142) were scaled by minimizing their RMSE to experiment by optimizing slope using linear regression. The resulting (minimum) RMSE was used in a subsequent step to combine the scaled FEP+ and scaled Prime free energies with inverse-variance weighted averaging.
 
-\paragraph{ROC}
+\subsubsection{ROC}
 A ROC curve was generated by computing the true positive rate (sensitivity) and the true negative rate (specificity) when the classification cutoff differentiating resistant from sensitizing mutations is changed for (only) the predicted values of $\Delta\Delta$G. Cutoffs were chosen by taking the minimum and maximum value of $\Delta\Delta$G for a data set (Prime or FEP+), and iteratively computing specificity and sensitivity in steps of 0.001 kcal mol$^{-1}$, which by this definition will be in the range [0,1]. Experimental positives and negatives were classified with the 1.36 kcal mol$^{-1}$ cutoff. ROC-AUC was computed using the trapezoidal rule.
 
-\paragraph{Estimating uncertainties of physical-modeling results}
+\subsubsection{Estimating uncertainties of physical-modeling results}
 95\% symmetric confidence intervals (CI, 95\%) for all performance metrics were calculated using bootstrap by resampling all datasets with replacement, with 1000 resampling events.
 Confidence intervals were estimated for all performance metrics and reported as $x_{x_\mathrm{low}}^{x_\mathrm{high}}$ where $x$ is the mean statistic calculated from the complete dataset (e.g.~RMSE), and $x_\mathrm{low}$ and $x_\mathrm{high}$ are the values of the statistic at the $2.5^{th}$ and $97.5^{th}$ percentiles of the value-sorted list of the bootstrap samples.
 Uncertainty for $\Delta\Delta$Gs was computed by the standard deviation between three independent runs (using different random seeds to set initial velocities), where the 95\% CI was [$\Delta\Delta$G$-$1.96$\times \sigma _\mathrm{FEP+}$, $\Delta\Delta$G$+$1.96$\times \sigma _\mathrm{FEP+}$] kcal mol$^{-1}$.
 1$\sigma$ used in plots for FEP+ and experiment; 0$\sigma$ for Prime.
 
-\paragraph{Bayesian hierarchical model to estimate intrinsic error}
+\subsubsection{Bayesian hierarchical model to estimate intrinsic error}
 We used Bayesian inference to estimate the true underlying prediction error of Prime and FEP+ by making use of known properties of the experimental variability (characterized in \FIG{figure-2}) and statistical uncertainty estimates generated by our calculations under weak assumptions about the character of the error.
 
 We presume the true free energy differences of mutation $i$, $\Delta\Delta G^\mathrm{true}_i$, comes from a normal background distribution of unknown mean and variance,
