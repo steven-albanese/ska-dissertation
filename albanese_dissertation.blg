@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 670 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 683 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
@@ -584,8 +584,6 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Xu:2016fwu"
 Warning--I didn't find a database entry for "Redaelli:2012"
 Warning--I didn't find a database entry for "Press:2009"
-Warning--I didn't find a database entry for "BarouchBentov:2011dx"
-Warning--I didn't find a database entry for "McDermott:2007kq"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 presort is already a type "wizard-defined" function name
 ---line 1851 of file vancouver-elife.bst
@@ -600,45 +598,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 294 entries,
+You've used 296 entries,
             3483 wiz_defined-function locations,
-            2560 strings with 103002 characters,
-and the built_in function-call counts, 1141536 in all, are:
-= -- 144564
-> -- 8596
-< -- 62
-+ -- 4927
-- -- 2149
-* -- 106128
-:= -- 120130
-add.period$ -- 970
-call.type$ -- 294
-change.case$ -- 892
-chr.to.int$ -- 263
-cite$ -- 297
-duplicate$ -- 90054
-empty$ -- 108252
-format.name$ -- 2797
-if$ -- 263046
+            2567 strings with 103764 characters,
+and the built_in function-call counts, 1152119 in all, are:
+= -- 145896
+> -- 8688
+< -- 63
++ -- 4975
+- -- 2172
+* -- 107116
+:= -- 121236
+add.period$ -- 976
+call.type$ -- 296
+change.case$ -- 898
+chr.to.int$ -- 265
+cite$ -- 299
+duplicate$ -- 90836
+empty$ -- 109260
+format.name$ -- 2826
+if$ -- 265489
 int.to.chr$ -- 32
-int.to.str$ -- 295
-missing$ -- 4476
-newline$ -- 1564
-num.names$ -- 592
-pop$ -- 7339
+int.to.str$ -- 297
+missing$ -- 4515
+newline$ -- 1574
+num.names$ -- 596
+pop$ -- 7392
 preamble$ -- 1
-purify$ -- 882
+purify$ -- 888
 quote$ -- 0
-skip$ -- 6002
+skip$ -- 6068
 stack$ -- 0
-substring$ -- 246093
-swap$ -- 10901
+substring$ -- 248458
+swap$ -- 10994
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1762
+type$ -- 1774
 warning$ -- 3
-while$ -- 4145
+while$ -- 4182
 width$ -- 0
-write$ -- 4024
+write$ -- 4050
 (There were 148 error messages)

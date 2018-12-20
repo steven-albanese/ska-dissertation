@@ -4,7 +4,9 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {4.1}{\ignorespaces Public $\Delta $pIC$_{50}$ datasets for 144 Abl kinase mutations and eight tyrosine kinase inhibitors (TKIs) with corresponding wild-type co-crystal structures used in this study}}{75}{table.caption.30}
 \contentsline {table}{\numberline {4.2}{\ignorespaces $\Delta \Delta $G data derived from publicly available $\Delta $pIC$_{50}$ measurements and sources of mutation clinical-observation}}{80}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Summary of FEP+ and Prime statistics in predicting mutational resistance or sensitivity to FDA-approved TKI}}{100}{table.caption.40}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Summary of the preparation of the 6 Abl:TKI co-crystal structure complexes}}{108}{table.caption.42}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Kinase domain constructs with yields >2 $\mu $g/mL culture for 96-kinase expression screen.}}{126}{table.5.1}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Expression yields for engineered clinical missense mutants of Abl kinase domains with yields > 2\nobreakspace {}$\mu $g/mL culture.}}{136}{table.5.2}
-\contentsline {table}{\numberline {5.3}{\ignorespaces Expression yields for engineered clinical missense mutants of Src kinase domains with yields > 2\nobreakspace {}$\mu $g/mL culture.}}{137}{table.5.3}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Kinase domain constructs with yields $>$2 $\mu $g/mL culture for 96-kinase expression screen.}}{134}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Expression yields for engineered clinical missense mutants of Abl kinase domains with yields $>$ 2\nobreakspace {}$\mu $g/mL culture.}}{144}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Expression yields for engineered clinical missense mutants of Src kinase domains with yields $>$ 2\nobreakspace {}$\mu $g/mL culture.}}{145}{table.5.3}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{294}
+\begin{thebibliography}{296}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -2565,6 +2565,28 @@
   Simulations}}: {{A Tool}} for {{Lead Optimization}}?
 \newblock J Med Chem.  2006 Dec; 49(25):7427--7439.
 \newblock \href{10.1021/jm061021s}{\doiprefix \detokenize{10.1021/jm061021s}}.
+
+\bibitem[{Barouch-Bentov and Sauer(2011)Barouch-Bentov, Rina and Sauer,
+  Karsten}]{BarouchBentov:2011dx}
+\textbf{\color{eLifeMediumGrey} Barouch-Bentov R}, Sauer K.
+\newblock {Mechanisms of drug resistance in kinases.}
+\newblock Expert Opin Invest Drugs.  2011 Feb; 20(2):153--208.
+
+\bibitem[{McDermott et~al.(2007)McDermott, Ultan and Sharma, Sreenath V and
+  Dowell, Lori and Greninger, Patricia and Montagut, Clara and Lamb, Jennifer
+  and Archibald, Heidi and Raudales, Raul and Tam, Angela and Lee, Diana and
+  Rothenberg, S Michael and Supko, Jeffrey G and Sordella, Raffaella and Ulkus,
+  Lindsey E and Iafrate, A John and Maheswaran, Shyamala and Njauw, Ching Ni
+  and Tsao, Hensin and Drew, Lisa and Hanke, Jeff H and Ma, Xiao-Jun and
+  Erlander, Mark G and Gray, Nathanael S and Haber, Daniel A and Settleman,
+  Jeffrey}]{McDermott:2007kq}
+\textbf{\color{eLifeMediumGrey} McDermott U}, Sharma SV, Dowell L, Greninger P,
+  Montagut C, Lamb J, Archibald H, Raudales R, Tam A, Lee D, Rothenberg SM,
+  Supko JG, Sordella R, Ulkus LE, Iafrate AJ, Maheswaran S, Njauw CN, Tsao H,
+  Drew L, Hanke JH, et~al.
+\newblock {Identification of genotype-correlated sensitivity to selective
+  kinase inhibitors by using high-throughput tumor cell line profiling.}
+\newblock Proc Natl Acad Sci.  2007 Dec; 104(50):19936--19941.
 
 \bibitem[{Salvatier et~al.(2016{\natexlab{b}})Salvatier, John and Wiecki,
   Thomas V. and Fonnesbeck, Christopher}]{pymc3}

@@ -22,10 +22,14 @@
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Comparison of 31 mutations for which phosphorylated and non-phosphorylated $\Delta K_{d}$s were available.}}{78}{figure.caption.32}
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Comparison of experimentally-measured binding free-energy changes ($\Delta \Delta $G) for 131 clinically observed mutations and 6 selective kinase inhibitors for which co-crystal structures of wild-type kinase with inhibitor are available.}}{84}{figure.caption.34}
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Figure caption}}{85}{figure.caption.35}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces TKI-by-TKI truth tables with increasingly large classification cutoffs.}}{88}{figure.caption.36}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Physical modeling accuracy in computing the impact of clinical Abl mutations on selective inhibitor binding.}}{91}{figure.caption.37}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Figure caption}}{92}{figure.caption.38}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Predicting resistance mutations using FEP+ for inhibitors for which co-crystal structures with wild-type kinase are not available.}}{97}{figure.caption.39}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Abl kinase domain construct expression screen illustrates high sensitivity to construct boundaries.}}{121}{figure.caption.44}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Expression yields of Abl kinase domain constructs for all constructs with detectable expression.}}{122}{figure.caption.45}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Kinome wide search for expressible kinases.}}{125}{figure.caption.46}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Fluorescence-based thermostability assay demonstrates many high-expressing kinases are well-folded.}}{130}{figure.caption.47}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Fluorescence emission spectra as a function of the fluorescent ATP-competitive kinase inhibitor bosutinib demonstrates the presence of a well-formed ATP binding pocket.}}{134}{figure.caption.48}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Expression yields for engineered clinically-derived Src and Abl missense mutants}}{140}{figure.caption.49}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Abl kinase domain construct expression screen illustrates high sensitivity to construct boundaries.}}{129}{figure.caption.50}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Expression yields of Abl kinase domain constructs for all constructs with detectable expression.}}{130}{figure.caption.51}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Kinome wide search for expressible kinases.}}{133}{figure.caption.52}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Fluorescence-based thermostability assay demonstrates many high-expressing kinases are well-folded.}}{138}{figure.caption.53}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Fluorescence emission spectra as a function of the fluorescent ATP-competitive kinase inhibitor bosutinib demonstrates the presence of a well-formed ATP binding pocket.}}{142}{figure.caption.54}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Expression yields for engineered clinically-derived Src and Abl missense mutants}}{148}{figure.caption.55}
