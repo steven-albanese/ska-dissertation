@@ -1,4 +1,4 @@
-\begin{thebibliography}{298}
+\begin{thebibliography}{302}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -898,6 +898,19 @@
   Inhibitor in Early Clinical Development.
 \newblock J Med Chem.  2016 Jun; 59(12):5650--5660.
 
+\bibitem[{Bosc et~al.(2017)Bosc, Nicolas and Meyer, Christophe and Bonnet,
+  Pascal}]{Bosc:2017gs}
+\textbf{\color{eLifeMediumGrey} Bosc N}, Meyer C, Bonnet P.
+\newblock {The use of novel selectivity metrics in kinase research.}
+\newblock BMC bioinformatics.  2017 Jan; 18(1):17.
+
+\bibitem[{Cheng et~al.(2010)Cheng, Alan C and Eksterowicz, John and
+  Geuns-Meyer, Stephanie and Sun, Yaxiong}]{Cheng2010-ip}
+\textbf{\color{eLifeMediumGrey} Cheng AC}, Eksterowicz J, Geuns-Meyer S, Sun Y.
+\newblock Analysis of kinase inhibitor selectivity using a thermodynamics-based
+  partition index.
+\newblock J Med Chem.  2010 Jun; 53(11):4502--4510.
+
 \bibitem[{Hole et~al.(2013)Hole, Alison J and Baumli, Sonja and Shao, Hao and
   Shi, Shenhua and Huang, Shiliang and Pepper, Chris and Fischer, Peter M and
   Wang, Shudong and Endicott, Jane A and Noble, Martin E}]{Hole2013-sr}
@@ -907,6 +920,73 @@
   4-(Thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile {CDK9} Inhibitors
   Suggest the Basis for Isotype Selectivity.
 \newblock J Med Chem.  2013 Feb; 56(3):660--670.
+
+\bibitem[{Hauser et~al.(2018)Hauser, Kevin and Negron, Christopher and
+  Albanese, Steven K and Ray, Soumya and Steinbrecher, Thomas and Abel, Robert
+  and Chodera, John D and Wang, Lingle}]{Hauser:2018vz}
+\textbf{\color{eLifeMediumGrey} Hauser K}, Negron C, Albanese SK, Ray S,
+  Steinbrecher T, Abel R, Chodera JD, Wang L.
+\newblock {Predicting resistance of clinical Abl mutations to targeted kinase
+  inhibitors using alchemical free-energy calculations}.
+\newblock Communications Biology.  2018 Jun; 1(1):70.
+
+\bibitem[{Hari et~al.(2013)Hari, Sanjay B and Merritt, Ethan A and Maly, Dustin
+  J}]{Hari:2013dp}
+\textbf{\color{eLifeMediumGrey} Hari SB}, Merritt EA, Maly DJ.
+\newblock {Sequence determinants of a specific inactive protein kinase
+  conformation.}
+\newblock Chemistry {\&} biology.  2013 Jun; 20(6):806--815.
+
+\bibitem[{Harder et~al.(2016{\natexlab{b}})Harder, Edward and Damm, Wolfgang
+  and Maple, Jon and Wu, Chuanjie and Reboul, Mark and Xiang, Jin Yu and Wang,
+  Lingle and Lupyan, Dmitry and Dahlgren, Markus K and Knight, Jennifer L and
+  Kaus, Joseph W and Cerutti, David S and Krilov, Goran and Jorgensen, William
+  L and Abel, Robert and Friesner, Richard A}]{Harder2016-zn}
+\textbf{\color{eLifeMediumGrey} Harder E}, Damm W, Maple J, Wu C, Reboul M,
+  Xiang JY, Wang L, Lupyan D, Dahlgren MK, Knight JL, Kaus JW, Cerutti DS,
+  Krilov G, Jorgensen WL, Abel R, Friesner RA.
+\newblock {OPLS3}: A Force Field Providing Broad Coverage of Drug-like Small
+  Molecules and Proteins.
+\newblock J Chem Theory Comput.  2016 Jan; 12(1):281--296.
+
+\bibitem[{Davis et~al.(2011{\natexlab{b}})Davis, Mindy I and Hunt, Jeremy P and
+  Herrgard, Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel
+  and Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
+  P}]{Davis2011-dz}
+\textbf{\color{eLifeMediumGrey} Davis MI}, Hunt JP, Herrgard S, Ciceri P,
+  Wodicka LM, Pallares G, Hocker M, Treiber DK, Zarrinkar PP.
+\newblock Comprehensive analysis of kinase inhibitor selectivity.
+\newblock Nat Biotechnol.  2011 Oct; 29(11):1046--1051.
+
+\bibitem[{Graczyk(2007)Graczyk, Piotr P}]{Graczyk:2007bm}
+\textbf{\color{eLifeMediumGrey} Graczyk PP}.
+\newblock {Gini coefficient: a new way to express selectivity of kinase
+  inhibitors against a family of kinases.}
+\newblock Journal of medicinal chemistry.  2007 Nov; 50(23):5773--5779.
+
+\bibitem[{Duong-Ly et~al.(2016)Duong-Ly, Krisna C and Devarajan, Karthik and
+  Liang, Shuguang and Horiuchi, Kurumi Y and Wang, Yuren and Ma, Haiching and
+  Peterson, Jeffrey R}]{DuongLy:2016iha}
+\textbf{\color{eLifeMediumGrey} Duong-Ly KC}, Devarajan K, Liang S, Horiuchi
+  KY, Wang Y, Ma H, Peterson JR.
+\newblock {Kinase Inhibitor Profiling Reveals Unexpected Opportunities to
+  Inhibit Disease-Associated Mutant Kinases}.
+\newblock CellReports.  2016 Feb; 14(4):772--781.
+
+\bibitem[{Uitdehaag and Zaman(2011)Uitdehaag, Joost C M and Zaman, Guido J
+  R}]{Uitdehaag:2011ea}
+\textbf{\color{eLifeMediumGrey} Uitdehaag JCM}, Zaman GJR.
+\newblock {A theoretical entropy score as a single value to express inhibitor
+  selectivity.}
+\newblock BMC bioinformatics.  2011 Apr; 12:94.
+
+\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
+  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
+  Andrey S}]{Hu:2015kh}
+\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
+  AP, Taylor SS, Shaw AS.
+\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
+\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
 
 \bibitem[{Berman et~al.(2002)Berman, Helen M and Battistuz, Tammy and Bhat, T N
   and Bluhm, Wolfgang F and Bourne, Philip E and Burkhardt, Kyle and Feng,
@@ -929,27 +1009,16 @@
   on virtual screening enrichments.
 \newblock J Comput Aided Mol Des.  2013 Mar; 27(3):221--234.
 
-\bibitem[{Harder et~al.(2016{\natexlab{b}})Harder, Edward and Damm, Wolfgang
-  and Maple, Jon and Wu, Chuanjie and Reboul, Mark and Xiang, Jin Yu and Wang,
-  Lingle and Lupyan, Dmitry and Dahlgren, Markus K and Knight, Jennifer L and
-  Kaus, Joseph W and Cerutti, David S and Krilov, Goran and Jorgensen, William
-  L and Abel, Robert and Friesner, Richard A}]{Harder2016-zn}
-\textbf{\color{eLifeMediumGrey} Harder E}, Damm W, Maple J, Wu C, Reboul M,
-  Xiang JY, Wang L, Lupyan D, Dahlgren MK, Knight JL, Kaus JW, Cerutti DS,
-  Krilov G, Jorgensen WL, Abel R, Friesner RA.
-\newblock {OPLS3}: A Force Field Providing Broad Coverage of Drug-like Small
-  Molecules and Proteins.
-\newblock J Chem Theory Comput.  2016 Jan; 12(1):281--296.
-
-\bibitem[{Bochevarov et~al.(2013)Bochevarov, Art D and Harder, Edward and
-  Hughes, Thomas F and Greenwood, Jeremy R and Braden, Dale A and Philipp, Dean
-  M and Rinaldo, David and Halls, Mathew D and Zhang, Jing and Friesner,
-  Richard A}]{Bochevarov2013-bn}
-\textbf{\color{eLifeMediumGrey} Bochevarov AD}, Harder E, Hughes TF, Greenwood
-  JR, Braden DA, Philipp DM, Rinaldo D, Halls MD, Zhang J, Friesner RA.
-\newblock Jaguar: a high-performance quantum chemistry software program with
-  strengths in life and materials sciences.
-\newblock Int J Quantum Chem.  2013; 113(18):2110--2142.
+\bibitem[{Abel et~al.(2017{\natexlab{c}})Abel, Robert and Wang, Lingle and
+  Harder, Edward D. and Berne, B. J. and Friesner, Richard
+  A.}]{Abel:Acc.Chem.Res.:2017}
+\textbf{\color{eLifeMediumGrey} Abel R}, Wang L, Harder ED, Berne BJ, Friesner
+  RA.
+\newblock Advancing {{Drug Discovery}} through {{Enhanced Free Energy
+  Calculations}}.
+\newblock Acc Chem Res.  2017 Jul; 50(7):1625--1632.
+\newblock \href{10.1021/acs.accounts.7b00083}{\doiprefix
+  \detokenize{10.1021/acs.accounts.7b00083}}.
 
 \bibitem[{Salvatier et~al.(2016{\natexlab{a}})Salvatier, John and Wiecki,
   Thomas V and Fonnesbeck, Christopher}]{Salvatier:2016ki}
@@ -997,42 +1066,12 @@
 \newblock arXiv e-prints.  2016 May; abs/1605.02688.
 \newblock \urlprefix\url{http://arxiv.org/abs/1605.02688}.
 
-\bibitem[{Bosc et~al.(2017)Bosc, Nicolas and Meyer, Christophe and Bonnet,
-  Pascal}]{Bosc:2017gs}
-\textbf{\color{eLifeMediumGrey} Bosc N}, Meyer C, Bonnet P.
-\newblock {The use of novel selectivity metrics in kinase research.}
-\newblock BMC bioinformatics.  2017 Jan; 18(1):17.
-
-\bibitem[{Cheng et~al.(2010)Cheng, Alan C and Eksterowicz, John and
-  Geuns-Meyer, Stephanie and Sun, Yaxiong}]{Cheng2010-ip}
-\textbf{\color{eLifeMediumGrey} Cheng AC}, Eksterowicz J, Geuns-Meyer S, Sun Y.
-\newblock Analysis of kinase inhibitor selectivity using a thermodynamics-based
-  partition index.
-\newblock J Med Chem.  2010 Jun; 53(11):4502--4510.
-
-\bibitem[{Hauser et~al.(2018)Hauser, Kevin and Negron, Christopher and
-  Albanese, Steven K and Ray, Soumya and Steinbrecher, Thomas and Abel, Robert
-  and Chodera, John D and Wang, Lingle}]{Hauser:2018vz}
-\textbf{\color{eLifeMediumGrey} Hauser K}, Negron C, Albanese SK, Ray S,
-  Steinbrecher T, Abel R, Chodera JD, Wang L.
-\newblock {Predicting resistance of clinical Abl mutations to targeted kinase
-  inhibitors using alchemical free-energy calculations}.
-\newblock Communications Biology.  2018 Jun; 1(1):70.
-
-\bibitem[{Hari et~al.(2013)Hari, Sanjay B and Merritt, Ethan A and Maly, Dustin
-  J}]{Hari:2013dp}
-\textbf{\color{eLifeMediumGrey} Hari SB}, Merritt EA, Maly DJ.
-\newblock {Sequence determinants of a specific inactive protein kinase
-  conformation.}
-\newblock Chemistry {\&} biology.  2013 Jun; 20(6):806--815.
-
-\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
-  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
-  Andrey S}]{Hu:2015kh}
-\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
-  AP, Taylor SS, Shaw AS.
-\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
-\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
+\bibitem[{Kalliokoski et~al.(2013)Kalliokoski, Tuomo and Kramer, Christian and
+  Vulpetti, Anna and Gedeck, Peter}]{Kalliokoski:PloSOne:2013}
+\textbf{\color{eLifeMediumGrey} Kalliokoski T}, Kramer C, Vulpetti A, Gedeck P.
+\newblock Comparability of Mixed {{IC50}} Data\textendash{}a Statistical
+  Analysis.
+\newblock PloS One.  2013; 8(4):e61007.
 
 \bibitem[{Laplante and Sabatini(2012)Laplante, Mathieu and Sabatini, David
   M}]{Laplante:2012fm}
@@ -2045,7 +2084,7 @@
 \newblock \href{10.1093/nar/gku511}{\doiprefix
   \detokenize{10.1093/nar/gku511}}.
 
-\bibitem[{Abel et~al.(2017{\natexlab{c}})Abel, Robert and Mondal, Sayan and
+\bibitem[{Abel et~al.(2017{\natexlab{d}})Abel, Robert and Mondal, Sayan and
   Masse, Craig and Greenwood, Jeremy and Harriman, Geraldine and Ashwell, Mark
   A and Bhat, Sathesh and Wester, Ronald and Frye, Leah and Kapeller, Rosana
   and others}]{abel2017accelerating}
@@ -2596,13 +2635,6 @@
 \newblock \urlprefix\url{https://doi.org/10.7717/peerj-cs.55},
   \href{10.7717/peerj-cs.55}{\doiprefix \detokenize{10.7717/peerj-cs.55}}.
 
-\bibitem[{Kalliokoski et~al.(2013)Kalliokoski, Tuomo and Kramer, Christian and
-  Vulpetti, Anna and Gedeck, Peter}]{Kalliokoski:PloSOne:2013}
-\textbf{\color{eLifeMediumGrey} Kalliokoski T}, Kramer C, Vulpetti A, Gedeck P.
-\newblock Comparability of Mixed {{IC50}} Data\textendash{}a Statistical
-  Analysis.
-\newblock PloS One.  2013; 8(4):e61007.
-
 \bibitem[{Kramer et~al.(2012)Kramer, Christian and Kalliokoski, Tuomo and
   Gedeck, Peter and Vulpetti, Anna}]{Kramer:J.Med.Chem.:2012}
 \textbf{\color{eLifeMediumGrey} Kramer C}, Kalliokoski T, Gedeck P, Vulpetti A.
@@ -2712,7 +2744,7 @@
 \newblock A quantitative analysis of kinase inhibitor selectivity.
 \newblock Nature Biotech.  2008; 26:127--132.
 
-\bibitem[{Davis et~al.(2011{\natexlab{b}})Davis, Mindy I and Hunt, Jeremy P and
+\bibitem[{Davis et~al.(2011{\natexlab{c}})Davis, Mindy I and Hunt, Jeremy P and
   Herrgard, Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel
   and Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
   P}]{Davis:2011fz}

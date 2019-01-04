@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 686 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 688 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 14632 items from 5000.
+Reallocated field_info (elt_size=4) to 14760 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -212,6 +212,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 8140 of file albanese.bib
  : @article{Pesesky:Front.Microbiol.:2016
  :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8164 of file albanese.bib
+ : @article{Abel:Acc.Chem.Res.:2017
+ :                                 ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 8181 of file albanese.bib
  : @article{Gruber2006
@@ -606,45 +610,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 298 entries,
+You've used 302 entries,
             3483 wiz_defined-function locations,
-            2579 strings with 104228 characters,
-and the built_in function-call counts, 1156793 in all, are:
-= -- 146493
-> -- 8720
-< -- 63
-+ -- 4994
-- -- 2180
-* -- 107533
-:= -- 121736
-add.period$ -- 983
-call.type$ -- 298
-change.case$ -- 904
-chr.to.int$ -- 267
-cite$ -- 301
-duplicate$ -- 91274
-empty$ -- 109693
-format.name$ -- 2838
-if$ -- 266563
-int.to.chr$ -- 32
-int.to.str$ -- 299
-missing$ -- 4539
-newline$ -- 1585
-num.names$ -- 600
-pop$ -- 7433
+            2596 strings with 104780 characters,
+and the built_in function-call counts, 1165799 in all, are:
+= -- 147658
+> -- 8776
+< -- 65
++ -- 5032
+- -- 2194
+* -- 108333
+:= -- 122693
+add.period$ -- 996
+call.type$ -- 302
+change.case$ -- 916
+chr.to.int$ -- 269
+cite$ -- 305
+duplicate$ -- 92157
+empty$ -- 110523
+format.name$ -- 2861
+if$ -- 268638
+int.to.chr$ -- 34
+int.to.str$ -- 303
+missing$ -- 4585
+newline$ -- 1606
+num.names$ -- 608
+pop$ -- 7505
 preamble$ -- 1
-purify$ -- 894
+purify$ -- 906
 quote$ -- 0
-skip$ -- 6100
+skip$ -- 6159
 stack$ -- 0
-substring$ -- 249342
-swap$ -- 11054
+substring$ -- 251006
+swap$ -- 11175
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1786
+type$ -- 1810
 warning$ -- 3
-while$ -- 4203
+while$ -- 4244
 width$ -- 0
-write$ -- 4078
-(There were 150 error messages)
+write$ -- 4132
+(There were 151 error messages)
