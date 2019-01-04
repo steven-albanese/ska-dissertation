@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 683 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 686 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 14568 items from 5000.
+Reallocated field_info (elt_size=4) to 14632 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -61,6 +61,10 @@ Repeated entry---line 7092 of file albanese.bib
  : @article{Davis:Nat.Biotechnol.:2011
  :                                    ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 7108 of file albanese.bib
+ : @article{Kramer:J.Med.Chem.:2012
+ :                                 ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 7125 of file albanese.bib
  : @article{Shah:CancerCell:2002
  :                              ,
@@ -92,6 +96,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 7307 of file albanese.bib
  : @article{fda-approved-kinase-inhibitors
  :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7315 of file albanese.bib
+ : @article{Kalliokoski:PloSOne:2013
+ :                                  ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 7328 of file albanese.bib
  : @article{Housman:Cancers:2014
@@ -598,45 +606,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 296 entries,
+You've used 298 entries,
             3483 wiz_defined-function locations,
-            2567 strings with 103764 characters,
-and the built_in function-call counts, 1152119 in all, are:
-= -- 145896
-> -- 8688
+            2579 strings with 104228 characters,
+and the built_in function-call counts, 1156793 in all, are:
+= -- 146493
+> -- 8720
 < -- 63
-+ -- 4975
-- -- 2172
-* -- 107116
-:= -- 121236
-add.period$ -- 976
-call.type$ -- 296
-change.case$ -- 898
-chr.to.int$ -- 265
-cite$ -- 299
-duplicate$ -- 90836
-empty$ -- 109260
-format.name$ -- 2826
-if$ -- 265489
++ -- 4994
+- -- 2180
+* -- 107533
+:= -- 121736
+add.period$ -- 983
+call.type$ -- 298
+change.case$ -- 904
+chr.to.int$ -- 267
+cite$ -- 301
+duplicate$ -- 91274
+empty$ -- 109693
+format.name$ -- 2838
+if$ -- 266563
 int.to.chr$ -- 32
-int.to.str$ -- 297
-missing$ -- 4515
-newline$ -- 1574
-num.names$ -- 596
-pop$ -- 7392
+int.to.str$ -- 299
+missing$ -- 4539
+newline$ -- 1585
+num.names$ -- 600
+pop$ -- 7433
 preamble$ -- 1
-purify$ -- 888
+purify$ -- 894
 quote$ -- 0
-skip$ -- 6068
+skip$ -- 6100
 stack$ -- 0
-substring$ -- 248458
-swap$ -- 10994
+substring$ -- 249342
+swap$ -- 11054
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1774
+type$ -- 1786
 warning$ -- 3
-while$ -- 4182
+while$ -- 4203
 width$ -- 0
-write$ -- 4050
-(There were 148 error messages)
+write$ -- 4078
+(There were 150 error messages)
