@@ -342,7 +342,7 @@
   \end{center}%
   \pagestyle{plain}
   \pagenumbering{roman}
-  \setcounter{page}{3}
+  \setcounter{page}{4}
   
 }{%
   \clearpage
@@ -355,8 +355,8 @@
 \newenvironment{biosketch}{%
   \typeout{Vita}
   \pagestyle{plain}
-  \pagenumbering{roman}
-  \setcounter{page}{5}
+    \pagenumbering{roman}
+  \setcounter{page}{6}
   \prelim@contents{Biographical Sketch}
   \chapter*{Biographical Sketch}
 }{%
@@ -370,6 +370,8 @@
 }{
   \end{center}
   \vfill\null
+    \pagenumbering{roman}
+  \setcounter{page}{3}
   \clearpage
 }
 

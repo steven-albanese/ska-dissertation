@@ -51,11 +51,14 @@
 \renewcommand{\floatpagefraction}{0.75}
 
 \usepackage[left=1.5in,top=1in,right=1in,bottom=1in]{geometry}
+
+\DeclareRobustCommand{\gobblefive}[5]{}
+\newcommand*{\SkipTocEntry}{\addtocontents{toc}{\gobblefive}}
 %\DeclareOption{final}
 
-\title {Predicting selectivity and the functional impact of clinical cancer mutations for small molecule kinase inhibitors using physical modeling}
+\title {Predicting Selectivity And The Functional Impact Of Clinical Cancer Mutations For Small Molecule Kinase Inhibitors Using Physical Modeling}
 \author {Steven K. Albanese}
-\conferraldate {February}{2019}
+\conferraldate {May}{2019}
 \degreefield {Ph.D.}
 \copyrightholder{Steven K. Albanese}
 \copyrightyear{2019}
@@ -64,20 +67,21 @@
 \maketitle
 \makecopyright
 
+\SkipTocEntry\begin{dedication}
+	To my father, whose unwavering support and love inspired me and kept me going. He is terribly missed. 
+\end{dedication}
+
+
 \begin{abstract}
 Small molecule kinase inhibitors have become a major focus of drug development for treating cancer, which accounted for 610,000 deaths and 1.7 million diagnoses in the United States in 2018 alone. Currently, there are 44 FDA approved small-molecule kinase inhibitors. The dominant paradigm for designing such inhibitors has been to optimize maximally selective ligands for a single target. Unfortunately, many such inhibitors fail in clinical trials due to a lack of efficacy and clinical safety. Tumors can evade inhibitors through multiple routes of resistance, including upregulation of a second kinase, mutations in the target kinase, or amplification of the target kinase. On the other hand, toxicity arises from on-target inhibition of the wild type kinase or off-target effects of promiscuous small molecules or their metabolites. ATP-competitive kinase inhibitors have great potential for promiscuity, as there are over 520 kinases in the human kinome that each bind a common substrate, ATP.  Further, advances in sequencing technology have enabled the generation of datasets of disease associated alterations rich in missense mutations in kinases. While this technology has been particularly transformative in the field of oncology, where many patients are treated with kinase targeted therapies, most kinase missense mutations are rare, making it difficult to assess their functional impact. 
 Physical modeling can provide a route for predicting small molecule kinase inhibitor selectivity, and the impact that missense mutations have on kinase structure and inhibitor binding. To assess the utility of free energy calculations for predicting selectivity, we performed relative free energy calculations on publicly available congeneric series of ligands on multiple kinase targets. We built a Bayesian graphical model to quantitate the correlation of errors for a given ligand on both target, to interrogate whether any fortuitous cancellation of errors makes selectivity predictions more accurate than expected. To understand the functional impact of mutations on protein kinase structure and inhibitor binding, we performed massively parallel molecular dynamics simulations of clinically observed hyperactivating mTOR mutations and alchemical free energy calculations on clinical Abl mutations. To rigorously test our predictions, we have developed a panel of kinase expression constructs (now available through AddGene) appropriate for automated, high-throughput expression protocol in E. coli. We have demonstrated the utility of these constructs for engineering and expressing clinically observed missense mutations, testing a panel of 96 mutations in Src and Abl kinases gathered from publicly available cancer genomics datasets as well as the MSK-IMPACT clinical sequencing panel, and further expressed a separate panel of 95 clinically relevant Abl mutations. We measured the binding free energies for these clinically relevant Abl mutations for a panel of FDA-approved small molecule kinase inhibitors. Using this dataset as a benchmark, we tested the sensitivity and accuracy of absolute free energy calculations to predict the impact of mutations on inhibitor binding. Taken together, this works provides an assessment of physical modeling for predicting selectivity and resistance in drug design of small molecule kinase inhibitors. 
 \end{abstract}
 
-\begin{biosketch}
+\SkipTocEntry\begin{biosketch}
 Steven was born to Eileen and Joseph Albanese in Wayne, New Jersey in 1991, where he would spend the rest of his childhood. Steven graduated from Wayne Hills High School in 2010, and began college at Cornell University that fall. Steven would graduate \emph{cum laude} with a Bachelor of Arts in Cell Biology and Chemistry in 2014. During his time at Cornell, Steven worked in and completed an honors thesis in the laboratory of Holger Sondermann in the Department of Molecular Medicine, studying the molecular binding partners of Atlastin, a commonly mutated gene in spastic paraplegia. Steven spent two years working as a study group leader for Intro Biology with the Biology Scholars Program. In July 2014, Steven began his first year at Louis V. Gerstner Jr. Graduate School of Biomedical Sciences, achieving a life-long goal of working at Memorial Sloan Kettering Cancer Center. 
 \end{biosketch}
 
-\begin{dedication}
-To my father, whose unwavering support and love inspired me and kept me going. He is terribly missed. 
-\end{dedication}
-
-\begin{acknowledgements}
+\SkipTocEntry\begin{acknowledgements}
 There are so many people to whom I owe so much for their help on my journey to producing this dissertation, that I hardly know where to begin. It has been a long and fulfilling journey to this point, and I am so grateful to everyone that I have met, worked with, and spent time with along the way. I will do my best to remember everyone, and beg forgiveness from anyone whom I have mistakenly left out. 
 
 I should start with my parents, whose love and support has enabled everything that I have accomplished. My mom, who instilled in me the importance and joy of learning, who always pushed me to be the best that I could be, and who fought to give me the best chance to succeed. My dad, who taught me the value of a hard day's work, family, and laughter while he was with us. I miss him terribly. Without their loving guidance, I would not be the person I am today. To my sister Caitie, who has been my best friend and biggest fan, and to my crazy Aunt Maureen and Uncle Bob: thank you for always being there for me. 
@@ -96,7 +100,7 @@ My thesis committee, consisting of Christina Leslie (chair), John Chodera (advis
 
 \end{acknowledgements}
 
-\contentspage
+\SkipTocEntry\contentspage
 \tablelistpage
 \figurelistpage
 
@@ -2331,7 +2335,15 @@ The authors are grateful to \href{http://www.addgene.org}{Addgene} for their hel
 
 \chapter{Conclusion}
 
-%\realsinglespacing
+\begin{itemize}
+\item  contributions to field 
+\item  summary of the mains points of each chapter 
+\item  recommendations and practice implications for predicting selectivity, resistance, and generating biophysical data 
+\item  Future work: where is the field going next? 
+\end{itemize}
+
+
+\realsinglespacing
 \bibliographystyle{vancouver-elife.bst}
 \bibliography{albanese}
 \end{document}
