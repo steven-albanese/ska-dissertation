@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 JAN 2019 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 JAN 2019 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1889,7 +1889,7 @@ Chapter 2.
 [7
 
 ] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-<figures/figure1.png, id=1111, 1437.37pt x 1046.91125pt>
+<figures/figure1.png, id=1115, 1437.37pt x 1046.91125pt>
 File: figures/figure1.png Graphic file (type png)
 <use figures/figure1.png>
 Package pdftex.def Info: figures/figure1.png  used on input line 229.
@@ -1906,7 +1906,7 @@ LaTeX Warning: Float too large for page by 20.11462pt on input line 240.
 
 
 ] [20]
-<figures/figure2.png, id=1136, 1927.2pt x 1084.05pt>
+<figures/figure2.png, id=1140, 1927.2pt x 1084.05pt>
 File: figures/figure2.png Graphic file (type png)
 <use figures/figure2.png>
 Package pdftex.def Info: figures/figure2.png  used on input line 263.
@@ -1922,7 +1922,7 @@ ine 280.
 
 
 ] [23]
-<figures/figure3.png, id=1173, 1882.03125pt x 1052.93375pt>
+<figures/figure3.png, id=1177, 1882.03125pt x 1052.93375pt>
 File: figures/figure3.png Graphic file (type png)
 <use figures/figure3.png>
 Package pdftex.def Info: figures/figure3.png  used on input line 299.
@@ -1937,7 +1937,7 @@ LaTeX Warning: Float too large for page by 20.01877pt on input line 307.
 
 
 ]
-<figures/figure4.png, id=1192, 1487.5575pt x 1231.60126pt>
+<figures/figure4.png, id=1196, 1487.5575pt x 1231.60126pt>
 File: figures/figure4.png Graphic file (type png)
 <use figures/figure4.png>
 Package pdftex.def Info: figures/figure4.png  used on input line 318.
@@ -1950,7 +1950,7 @@ LaTeX Warning: Float too large for page by 26.08727pt on input line 324.
 
 
 ] [28]
-<figures/figure5.png, id=1236, 1365.1pt x 1148.29pt>
+<figures/figure5.png, id=1240, 1365.1pt x 1148.29pt>
 File: figures/figure5.png Graphic file (type png)
 <use figures/figure5.png>
 Package pdftex.def Info: figures/figure5.png  used on input line 339.
@@ -1968,7 +1968,7 @@ LaTeX Warning: Reference `fig:figure-6' on page 30 undefined on input line 349.
 
 
 ] [31]
-<figures/figure6.pdf, id=1256, 1017.8025pt x 433.62pt>
+<figures/figure6.pdf, id=1260, 1017.8025pt x 433.62pt>
 File: figures/figure6.pdf Graphic file (type pdf)
 <use figures/figure6.pdf>
 Package pdftex.def Info: figures/figure6.pdf  used on input line 356.
@@ -2018,26 +2018,26 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 488.
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 [42] [43] [44]
-<figures/supp_figure1.png, id=1384, 1843.88875pt x 672.5125pt>
+<figures/supp_figure1.png, id=1388, 1843.88875pt x 672.5125pt>
 File: figures/supp_figure1.png Graphic file (type png)
 <use figures/supp_figure1.png>
 Package pdftex.def Info: figures/supp_figure1.png  used on input line 541.
 (pdftex.def)             Requested size: 650.43001pt x 237.21974pt.
  [45 <./figures/supp_figure1.png>]
-<figures/supp_2.png, id=1398, 1836.8625pt x 643.40375pt>
+<figures/supp_2.png, id=1402, 1836.8625pt x 643.40375pt>
 File: figures/supp_2.png Graphic file (type png)
 <use figures/supp_2.png>
 Package pdftex.def Info: figures/supp_2.png  used on input line 554.
 (pdftex.def)             Requested size: 650.43001pt x 227.82578pt.
  [46 <./figures/supp_2.png>]
-<figures/supp_figure3.pdf, id=1404, 867.24pt x 505.89pt>
+<figures/supp_figure3.pdf, id=1408, 867.24pt x 505.89pt>
 File: figures/supp_figure3.pdf Graphic file (type pdf)
 <use figures/supp_figure3.pdf>
 Package pdftex.def Info: figures/supp_figure3.pdf  used on input line 566.
 (pdftex.def)             Requested size: 520.34598pt x 303.55177pt.
 
 [47 <./figures/supp_figure3.pdf>]
-<figures/supp_figure4.pdf, id=1466, 1108.14pt x 1274.7625pt>
+<figures/supp_figure4.pdf, id=1470, 1108.14pt x 1274.7625pt>
 File: figures/supp_figure4.pdf Graphic file (type pdf)
 <use figures/supp_figure4.pdf>
 Package pdftex.def Info: figures/supp_figure4.pdf  used on input line 578.
@@ -2047,7 +2047,7 @@ Package pdftex.def Info: figures/supp_figure4.pdf  used on input line 578.
 LaTeX Warning: Float too large for page by 41.86137pt on input line 583.
 
 [48 <./figures/supp_figure4.pdf>]
-<figures/supp_figure5.pdf, id=1483, 1092.08pt x 1319.93124pt>
+<figures/supp_figure5.pdf, id=1487, 1092.08pt x 1319.93124pt>
 File: figures/supp_figure5.pdf Graphic file (type pdf)
 <use figures/supp_figure5.pdf>
 Package pdftex.def Info: figures/supp_figure5.pdf  used on input line 589.
@@ -2057,7 +2057,7 @@ Package pdftex.def Info: figures/supp_figure5.pdf  used on input line 589.
 LaTeX Warning: Float too large for page by 35.90009pt on input line 595.
 
 [49 <./figures/supp_figure5.pdf>]
-<figures/supp_figure6.pdf, id=1498, 1108.14pt x 1274.7625pt>
+<figures/supp_figure6.pdf, id=1502, 1108.14pt x 1274.7625pt>
 File: figures/supp_figure6.pdf Graphic file (type pdf)
 <use figures/supp_figure6.pdf>
 Package pdftex.def Info: figures/supp_figure6.pdf  used on input line 601.
@@ -2067,7 +2067,7 @@ Package pdftex.def Info: figures/supp_figure6.pdf  used on input line 601.
 LaTeX Warning: Float too large for page by 41.86137pt on input line 606.
 
 [50 <./figures/supp_figure6.pdf>]
-<figures/supp_figure7.pdf, id=1515, 1092.08pt x 1319.93124pt>
+<figures/supp_figure7.pdf, id=1519, 1092.08pt x 1319.93124pt>
 File: figures/supp_figure7.pdf Graphic file (type pdf)
 <use figures/supp_figure7.pdf>
 Package pdftex.def Info: figures/supp_figure7.pdf  used on input line 612.
@@ -2077,13 +2077,13 @@ Package pdftex.def Info: figures/supp_figure7.pdf  used on input line 612.
 LaTeX Warning: Float too large for page by 35.90009pt on input line 618.
 
 [51 <./figures/supp_figure7.pdf>]
-<figures/supp_figure8.pdf, id=1532, 1264.725pt x 827.09pt>
+<figures/supp_figure8.pdf, id=1536, 1264.725pt x 827.09pt>
 File: figures/supp_figure8.pdf Graphic file (type pdf)
 <use figures/supp_figure8.pdf>
 Package pdftex.def Info: figures/supp_figure8.pdf  used on input line 624.
 (pdftex.def)             Requested size: 455.29901pt x 297.73955pt.
  [52 <./figures/supp_figure8.pdf>]
-<figures/supp_figure9.pdf, id=1549, 872.25874pt x 879.285pt>
+<figures/supp_figure9.pdf, id=1553, 872.25874pt x 879.285pt>
 File: figures/supp_figure9.pdf Graphic file (type pdf)
 <use figures/supp_figure9.pdf>
 Package pdftex.def Info: figures/supp_figure9.pdf  used on input line 636.
@@ -2115,7 +2115,7 @@ Chapter 3.
 
 
 ] [55] [56]
-<figures/mtor-fig1.pdf, id=1603, 667.49374pt x 451.6875pt>
+<figures/mtor-fig1.pdf, id=1607, 667.49374pt x 451.6875pt>
 File: figures/mtor-fig1.pdf Graphic file (type pdf)
 <use figures/mtor-fig1.pdf>
 Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 680.
@@ -2124,7 +2124,7 @@ Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 680.
 
 
 ] [59] [60]
-<figures/mtor-fig2.pdf, id=1701, 529.13303pt x 375.0574pt>
+<figures/mtor-fig2.pdf, id=1705, 529.13303pt x 375.0574pt>
 File: figures/mtor-fig2.pdf Graphic file (type pdf)
 <use figures/mtor-fig2.pdf>
 Package pdftex.def Info: figures/mtor-fig2.pdf  used on input line 700.
@@ -2133,7 +2133,7 @@ Package pdftex.def Info: figures/mtor-fig2.pdf  used on input line 700.
 
 
 ]
-<figures/mtor-fig3.png, id=1736, 1010.77625pt x 371.3875pt>
+<figures/mtor-fig3.png, id=1740, 1010.77625pt x 371.3875pt>
 File: figures/mtor-fig3.png Graphic file (type png)
 <use figures/mtor-fig3.png>
 Package pdftex.def Info: figures/mtor-fig3.png  used on input line 715.
@@ -2150,7 +2150,7 @@ e 731.
 
 
 ] [65] [66]
-<figures/mtor-fig4.pdf, id=1776, 1510.64375pt x 736.7525pt>
+<figures/mtor-fig4.pdf, id=1780, 1510.64375pt x 736.7525pt>
 File: figures/mtor-fig4.pdf Graphic file (type pdf)
 <use figures/mtor-fig4.pdf>
 Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 737.
@@ -2159,7 +2159,7 @@ Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 737.
 
 
 ]
-<figures/mtor-fig5.pdf, id=1811, 1815.78375pt x 660.4675pt>
+<figures/mtor-fig5.pdf, id=1815, 1815.78375pt x 660.4675pt>
 File: figures/mtor-fig5.pdf Graphic file (type pdf)
 <use figures/mtor-fig5.pdf>
 Package pdftex.def Info: figures/mtor-fig5.pdf  used on input line 753.
@@ -2170,7 +2170,7 @@ Missing character: There is no Å in font pplr7t!
 
 
 ]
-<figures/mtor-fig6.pdf, id=1837, 1498.59875pt x 844.15375pt>
+<figures/mtor-fig6.pdf, id=1841, 1498.59875pt x 844.15375pt>
 File: figures/mtor-fig6.pdf Graphic file (type pdf)
 <use figures/mtor-fig6.pdf>
 Package pdftex.def Info: figures/mtor-fig6.pdf  used on input line 769.
@@ -2185,7 +2185,7 @@ LaTeX Warning: Float too large for page by 22.50919pt on input line 775.
 
 
 ] [73]
-<figures/mtor-fig7.pdf, id=1881, 1805.74625pt x 707.64375pt>
+<figures/mtor-fig7.pdf, id=1885, 1805.74625pt x 707.64375pt>
 File: figures/mtor-fig7.pdf Graphic file (type pdf)
 <use figures/mtor-fig7.pdf>
 Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 784.
@@ -2206,7 +2206,7 @@ Chapter 4.
 [82
 
 ] [83] [84] [85]
-<figures/abl-figure-1.pdf, id=2024, 963.6pt x 542.025pt>
+<figures/abl-figure-1.pdf, id=2028, 963.6pt x 542.025pt>
 File: figures/abl-figure-1.pdf Graphic file (type pdf)
 <use figures/abl-figure-1.pdf>
 Package pdftex.def Info: figures/abl-figure-1.pdf  used on input line 887.
@@ -2275,13 +2275,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 967--967
 
 
 ]
-<figures/abl-figure-2.pdf, id=2159, 1156.32pt x 397.485pt>
+<figures/abl-figure-2.pdf, id=2163, 1156.32pt x 397.485pt>
 File: figures/abl-figure-2.pdf Graphic file (type pdf)
 <use figures/abl-figure-2.pdf>
 Package pdftex.def Info: figures/abl-figure-2.pdf  used on input line 988.
 (pdftex.def)             Requested size: 520.34598pt x 178.8666pt.
  [93 <./figures/abl-figure-2.pdf>]
-<figures/abl-supplementary-figure-1.pdf, id=2233, 963.6pt x 542.025pt>
+<figures/abl-supplementary-figure-1.pdf, id=2237, 963.6pt x 542.025pt>
 File: figures/abl-supplementary-figure-1.pdf Graphic file (type pdf)
 <use figures/abl-supplementary-figure-1.pdf>
 Package pdftex.def Info: figures/abl-supplementary-figure-1.pdf  used on input 
@@ -2334,7 +2334,7 @@ Overfull \hbox (43.5352pt too wide) in alignment at lines 1079--1092
 ] [97] [98
 
 ] [99]
-<figures/abl-figure-3.pdf, id=2304, 963.6pt x 939.51pt>
+<figures/abl-figure-3.pdf, id=2308, 963.6pt x 939.51pt>
 File: figures/abl-figure-3.pdf Graphic file (type pdf)
 <use figures/abl-figure-3.pdf>
 Package pdftex.def Info: figures/abl-figure-3.pdf  used on input line 1116.
@@ -2358,7 +2358,7 @@ LaTeX Warning: Reference `fig:figure-si-2' on page 103 undefined on input line
 1162.
 
 [103]
-<figures/abl-supplementary-figure-2.pdf, id=2400, 867.24pt x 650.43pt>
+<figures/abl-supplementary-figure-2.pdf, id=2404, 867.24pt x 650.43pt>
 File: figures/abl-supplementary-figure-2.pdf Graphic file (type pdf)
 <use figures/abl-supplementary-figure-2.pdf>
 Package pdftex.def Info: figures/abl-supplementary-figure-2.pdf  used on input 
@@ -2372,7 +2372,7 @@ LaTeX Warning: Float too large for page by 19.82727pt on input line 1175.
 
 
 ] [106]
-<figures/abl-figure-4.pdf, id=2441, 1409.265pt x 1795.70876pt>
+<figures/abl-figure-4.pdf, id=2445, 1409.265pt x 1795.70876pt>
 File: figures/abl-figure-4.pdf Graphic file (type pdf)
 <use figures/abl-figure-4.pdf>
 Package pdftex.def Info: figures/abl-figure-4.pdf  used on input line 1212.
@@ -2387,7 +2387,7 @@ LaTeX Warning: Float too large for page by 4.04593pt on input line 1217.
 
 
 ] [110] [111] [112]
-<figures/abl-figure-5.pdf, id=2569, 963.6pt x 578.16pt>
+<figures/abl-figure-5.pdf, id=2573, 963.6pt x 578.16pt>
 File: figures/abl-figure-5.pdf Graphic file (type pdf)
 <use figures/abl-figure-5.pdf>
 Package pdftex.def Info: figures/abl-figure-5.pdf  used on input line 1277.
@@ -2506,7 +2506,7 @@ Chapter 5.
 [137
 
 ] [138] [139] [140] [141] [142] [143] [144] [145] [146]
-<figures/abl1-construct-wholefigure.pdf, id=2946, 1927.2pt x 1084.05pt>
+<figures/abl1-construct-wholefigure.pdf, id=2950, 1927.2pt x 1084.05pt>
 File: figures/abl1-construct-wholefigure.pdf Graphic file (type pdf)
 <use figures/abl1-construct-wholefigure.pdf>
 Package pdftex.def Info: figures/abl1-construct-wholefigure.pdf  used on input 
@@ -2517,7 +2517,7 @@ line 1764.
 LaTeX Warning: Float too large for page by 35.28061pt on input line 1774.
 
 [147 <./figures/abl1-construct-wholefigure.pdf>]
-<figures/abl1-construct-gel.pdf, id=3014, 1887.05pt x 366.36874pt>
+<figures/abl1-construct-gel.pdf, id=3018, 1887.05pt x 366.36874pt>
 File: figures/abl1-construct-gel.pdf Graphic file (type pdf)
 <use figures/abl1-construct-gel.pdf>
 Package pdftex.def Info: figures/abl1-construct-gel.pdf  used on input line 178
@@ -2533,7 +2533,7 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14.4> not available
 
 
 ] [150]
-<figures/96-kinase-figure.pdf, id=3041, 1921.1775pt x 1071.00125pt>
+<figures/96-kinase-figure.pdf, id=3046, 1921.1775pt x 1071.00125pt>
 File: figures/96-kinase-figure.pdf Graphic file (type pdf)
 <use figures/96-kinase-figure.pdf>
 Package pdftex.def Info: figures/96-kinase-figure.pdf  used on input line 1805.
@@ -2550,7 +2550,7 @@ LaTeX Warning: Float too large for page by 32.02069pt on input line 1814.
 ] [153] [154
 
 ] [155]
-<figures/bothplates_dualaxis_tm.pdf, id=3094, 1099.94691pt x 973.96121pt>
+<figures/bothplates_dualaxis_tm.pdf, id=3098, 1099.94691pt x 973.96121pt>
 File: figures/bothplates_dualaxis_tm.pdf Graphic file (type pdf)
 <use figures/bothplates_dualaxis_tm.pdf>
 Package pdftex.def Info: figures/bothplates_dualaxis_tm.pdf  used on input line
@@ -2564,7 +2564,7 @@ LaTeX Warning: Float too large for page by 41.56248pt on input line 1926.
 
 
 ] [158] [159]
-<figures/bos_spectra_45_logy.pdf, id=3223, 1622.82225pt x 1043.75076pt>
+<figures/bos_spectra_45_logy.pdf, id=3227, 1622.82225pt x 1043.75076pt>
 File: figures/bos_spectra_45_logy.pdf Graphic file (type pdf)
 <use figures/bos_spectra_45_logy.pdf>
 Package pdftex.def Info: figures/bos_spectra_45_logy.pdf  used on input line 19
@@ -2584,7 +2584,7 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
 ] [164] [165
 
 ]
-<figures/96-mutants-finalfigure.pdf, id=3359, 1115.16624pt x 1286.8075pt>
+<figures/96-mutants-finalfigure.pdf, id=3363, 1115.16624pt x 1286.8075pt>
 File: figures/96-mutants-finalfigure.pdf Graphic file (type pdf)
 <use figures/96-mutants-finalfigure.pdf>
 Package pdftex.def Info: figures/96-mutants-finalfigure.pdf  used on input line
@@ -2600,9 +2600,10 @@ LaTeX Warning: Float too large for page by 31.39522pt on input line 2124.
 ] [168] [169] [170] [171]
 [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
 Chapter 6.
-(./albanese_dissertation.bbl [183
+[183
 
-] [184
+] (./albanese_dissertation.bbl [184
+
 
 ] [185] [186] [187] [188] [189] [190]
 [191] [192] [193] [194] [195] [196]
@@ -2613,14 +2614,14 @@ Missing character: There is no Å in font pplr7t!
 Package natbib Warning: There were undefined citations.
 
 [207]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2349.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2349.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2351.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2351.
  (./albanese_dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2349.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2349.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2351.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2351.
 
 Package rerunfilecheck Info: File `albanese_dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: F5A24E34F1DAD1C1ABF6EB26B263B501;10593.
+(rerunfilecheck)             Checksum: DA724C2C314F7D9056441628DB3804D5;10642.
 
 
 LaTeX Warning: There were undefined references.
@@ -2650,10 +2651,10 @@ lbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on albanese_dissertation.pdf (223 pages, 15034151 bytes).
+Output written on albanese_dissertation.pdf (223 pages, 15034730 bytes).
 PDF statistics:
- 3956 PDF objects out of 4296 (max. 8388607)
- 3218 compressed objects within 33 object streams
+ 3960 PDF objects out of 4296 (max. 8388607)
+ 3222 compressed objects within 33 object streams
  730 named destinations out of 1000 (max. 500000)
- 1108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
