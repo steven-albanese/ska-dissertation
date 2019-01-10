@@ -676,6 +676,18 @@
 \newblock Journal of the American Chemical Society.  2016 Apr;
   138(13):4608--4615.
 
+\bibitem[{Harder et~al.(2016{\natexlab{b}})Harder, Edward and Damm, Wolfgang
+  and Maple, Jon and Wu, Chuanjie and Reboul, Mark and Xiang, Jin Yu and Wang,
+  Lingle and Lupyan, Dmitry and Dahlgren, Markus K and Knight, Jennifer L and
+  Kaus, Joseph W and Cerutti, David S and Krilov, Goran and Jorgensen, William
+  L and Abel, Robert and Friesner, Richard A}]{Harder2016-zn}
+\textbf{\color{eLifeMediumGrey} Harder E}, Damm W, Maple J, Wu C, Reboul M,
+  Xiang JY, Wang L, Lupyan D, Dahlgren MK, Knight JL, Kaus JW, Cerutti DS,
+  Krilov G, Jorgensen WL, Abel R, Friesner RA.
+\newblock {OPLS3}: A Force Field Providing Broad Coverage of Drug-like Small
+  Molecules and Proteins.
+\newblock J Chem Theory Comput.  2016 Jan; 12(1):281--296.
+
 \bibitem[{Wang et~al.(2015{\natexlab{a}})Wang, Lingle and Wu, Yujie and Deng,
   Yuqing and Kim, Byungchan and Pierce, Levi and Krilov, Goran and Lupyan,
   Dmitry and Robinson, Shaughnessy and Dahlgren, Markus K. and Greenwood,
@@ -937,18 +949,6 @@
   conformation.}
 \newblock Chemistry {\&} biology.  2013 Jun; 20(6):806--815.
 
-\bibitem[{Harder et~al.(2016{\natexlab{b}})Harder, Edward and Damm, Wolfgang
-  and Maple, Jon and Wu, Chuanjie and Reboul, Mark and Xiang, Jin Yu and Wang,
-  Lingle and Lupyan, Dmitry and Dahlgren, Markus K and Knight, Jennifer L and
-  Kaus, Joseph W and Cerutti, David S and Krilov, Goran and Jorgensen, William
-  L and Abel, Robert and Friesner, Richard A}]{Harder2016-zn}
-\textbf{\color{eLifeMediumGrey} Harder E}, Damm W, Maple J, Wu C, Reboul M,
-  Xiang JY, Wang L, Lupyan D, Dahlgren MK, Knight JL, Kaus JW, Cerutti DS,
-  Krilov G, Jorgensen WL, Abel R, Friesner RA.
-\newblock {OPLS3}: A Force Field Providing Broad Coverage of Drug-like Small
-  Molecules and Proteins.
-\newblock J Chem Theory Comput.  2016 Jan; 12(1):281--296.
-
 \bibitem[{Davis et~al.(2011{\natexlab{b}})Davis, Mindy I and Hunt, Jeremy P and
   Herrgard, Sanna and Ciceri, Pietro and Wodicka, Lisa M and Pallares, Gabriel
   and Hocker, Michael and Treiber, Daniel K and Zarrinkar, Patrick
@@ -979,14 +979,6 @@
 \newblock {A theoretical entropy score as a single value to express inhibitor
   selectivity.}
 \newblock BMC bioinformatics.  2011 Apr; 12:94.
-
-\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
-  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
-  Andrey S}]{Hu:2015kh}
-\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
-  AP, Taylor SS, Shaw AS.
-\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
-\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
 
 \bibitem[{Berman et~al.(2002)Berman, Helen M and Battistuz, Tammy and Bhat, T N
   and Bluhm, Wolfgang F and Bourne, Philip E and Burkhardt, Kyle and Feng,
@@ -1072,6 +1064,14 @@
 \newblock Comparability of Mixed {{IC50}} Data\textendash{}a Statistical
   Analysis.
 \newblock PloS One.  2013; 8(4):e61007.
+
+\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
+  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
+  Andrey S}]{Hu:2015kh}
+\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
+  AP, Taylor SS, Shaw AS.
+\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
+\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
 
 \bibitem[{Laplante and Sabatini(2012)Laplante, Mathieu and Sabatini, David
   M}]{Laplante:2012fm}

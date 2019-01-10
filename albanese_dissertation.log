@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 JAN 2019 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 JAN 2019 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1831,7 +1831,7 @@ Vita
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 99.
  (./albanese_dissertation.toc
-Underfull \hbox (badness 2443) in paragraph at lines 16--16
+Underfull \hbox (badness 2443) in paragraph at lines 17--17
  [][] [][][]\OT1/ppl/m/n/12 Kinases are an in-ter-est-ing and par-tic-u-larly c
 hal-leng-ing 
  []
@@ -1839,7 +1839,7 @@ hal-leng-ing
 [10
 
 ] [11]
-Underfull \hbox (badness 3158) in paragraph at lines 104--104
+Underfull \hbox (badness 3158) in paragraph at lines 107--107
  [][] [][][]\OT1/ppl/b/n/12 Enabling high-throughput bio-phys-i-cal ex-per-i-me
 nts on clinically- 
  []
@@ -1889,95 +1889,95 @@ Chapter 2.
 [7
 
 ] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-<figures/figure1.png, id=1089, 1437.37pt x 1046.91125pt>
+<figures/figure1.png, id=1115, 1437.37pt x 1046.91125pt>
 File: figures/figure1.png Graphic file (type png)
 <use figures/figure1.png>
-Package pdftex.def Info: figures/figure1.png  used on input line 223.
+Package pdftex.def Info: figures/figure1.png  used on input line 225.
 (pdftex.def)             Requested size: 390.25536pt x 284.23532pt.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 232.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 234.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 232.
+(Font)              scaled to size 10.40245pt on input line 234.
 
 
-LaTeX Warning: Float too large for page by 20.11462pt on input line 234.
+LaTeX Warning: Float too large for page by 20.11462pt on input line 236.
 
 [18 <./figures/figure1.png>] [19
 
 
 ] [20]
-<figures/figure2.png, id=1115, 1927.2pt x 1084.05pt>
+<figures/figure2.png, id=1140, 1927.2pt x 1084.05pt>
 File: figures/figure2.png Graphic file (type png)
 <use figures/figure2.png>
-Package pdftex.def Info: figures/figure2.png  used on input line 257.
+Package pdftex.def Info: figures/figure2.png  used on input line 259.
 (pdftex.def)             Requested size: 650.43001pt x 365.85936pt.
 
 
-LaTeX Warning: Float too large for page by 35.28061pt on input line 270.
+LaTeX Warning: Float too large for page by 35.28061pt on input line 272.
 
 [21 <./figures/figure2.png>]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 274.
+ine 276.
  [22
 
 
 ] [23]
-<figures/figure3.png, id=1152, 1882.03125pt x 1052.93375pt>
+<figures/figure3.png, id=1177, 1882.03125pt x 1052.93375pt>
 File: figures/figure3.png Graphic file (type png)
 <use figures/figure3.png>
-Package pdftex.def Info: figures/figure3.png  used on input line 293.
+Package pdftex.def Info: figures/figure3.png  used on input line 295.
 (pdftex.def)             Requested size: 650.43001pt x 363.88913pt.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 299.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 301.
 
 
-LaTeX Warning: Float too large for page by 20.01877pt on input line 301.
+LaTeX Warning: Float too large for page by 20.01877pt on input line 303.
 
 [24 <./figures/figure3.png>] [25
 
 
 ]
-<figures/figure4.png, id=1171, 1487.5575pt x 1231.60126pt>
+<figures/figure4.png, id=1196, 1487.5575pt x 1231.60126pt>
 File: figures/figure4.png Graphic file (type png)
 <use figures/figure4.png>
-Package pdftex.def Info: figures/figure4.png  used on input line 312.
+Package pdftex.def Info: figures/figure4.png  used on input line 314.
 (pdftex.def)             Requested size: 390.26196pt x 323.10284pt.
 
 
-LaTeX Warning: Float too large for page by 26.08727pt on input line 318.
+LaTeX Warning: Float too large for page by 26.08727pt on input line 320.
 
 [26 <./figures/figure4.png>] [27
 
 
 ] [28]
-<figures/figure5.png, id=1214, 1365.1pt x 1148.29pt>
+<figures/figure5.png, id=1240, 1365.1pt x 1148.29pt>
 File: figures/figure5.png Graphic file (type png)
 <use figures/figure5.png>
-Package pdftex.def Info: figures/figure5.png  used on input line 333.
+Package pdftex.def Info: figures/figure5.png  used on input line 335.
 (pdftex.def)             Requested size: 455.29901pt x 382.98433pt.
 
 
-LaTeX Warning: Float too large for page by 27.63542pt on input line 338.
+LaTeX Warning: Float too large for page by 27.63542pt on input line 340.
 
 [29 <./figures/figure5.png>]
 
-LaTeX Warning: Reference `fig:figure-6' on page 30 undefined on input line 343.
+LaTeX Warning: Reference `fig:figure-6' on page 30 undefined on input line 345.
 
 
 [30
 
 
 ] [31]
-<figures/figure6.pdf, id=1235, 1017.8025pt x 433.62pt>
+<figures/figure6.pdf, id=1260, 1017.8025pt x 433.62pt>
 File: figures/figure6.pdf Graphic file (type pdf)
 <use figures/figure6.pdf>
-Package pdftex.def Info: figures/figure6.pdf  used on input line 350.
+Package pdftex.def Info: figures/figure6.pdf  used on input line 352.
 (pdftex.def)             Requested size: 455.29901pt x 193.97592pt.
  [32 <./figures/figure6.pdf>] [33
 
 
 ] [34] [35] [36]
-Overfull \hbox (5.39813pt too wide) detected at line 407
+Overfull \hbox (5.39813pt too wide) detected at line 409
 [][]\OT1/txr/m/n/12 ^^A\OML/txmi/m/it/12 S[] \OT1/txr/m/n/12 = \OMS/txsy/m/n/12
  N[]\OT1/txr/m/n/12 (\OML/txmi/m/it/12 ^^V \OT1/txr/m/n/12 = 0\OML/txmi/m/it/12
  ; ^^[[] \OT1/txr/m/n/12 = 1) + \OMS/txsy/m/n/12 N[]\OT1/txr/m/n/12 (\OML/txmi/
@@ -1993,104 +1993,104 @@ Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
  [39]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 433.
+(Font)              scaled to size 13.67995pt on input line 435.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 433.
+(Font)              scaled to size 9.49997pt on input line 435.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 433.
+(Font)              scaled to size 6.64998pt on input line 435.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
+(hyperref)                removing `math shift' on input line 435.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rho' on input line 433.
+(hyperref)                removing `\rho' on input line 435.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
+(hyperref)                removing `math shift' on input line 435.
 
 [40] [41]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 482.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 484.
 
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 [42] [43] [44]
-<figures/supp_figure1.png, id=1363, 1843.88875pt x 672.5125pt>
+<figures/supp_figure1.png, id=1388, 1843.88875pt x 672.5125pt>
 File: figures/supp_figure1.png Graphic file (type png)
 <use figures/supp_figure1.png>
-Package pdftex.def Info: figures/supp_figure1.png  used on input line 535.
+Package pdftex.def Info: figures/supp_figure1.png  used on input line 537.
 (pdftex.def)             Requested size: 650.43001pt x 237.21974pt.
  [45 <./figures/supp_figure1.png>]
-<figures/supp_2.png, id=1377, 1836.8625pt x 643.40375pt>
+<figures/supp_2.png, id=1402, 1836.8625pt x 643.40375pt>
 File: figures/supp_2.png Graphic file (type png)
 <use figures/supp_2.png>
-Package pdftex.def Info: figures/supp_2.png  used on input line 548.
+Package pdftex.def Info: figures/supp_2.png  used on input line 550.
 (pdftex.def)             Requested size: 650.43001pt x 227.82578pt.
  [46 <./figures/supp_2.png>]
-<figures/supp_figure3.pdf, id=1383, 867.24pt x 505.89pt>
+<figures/supp_figure3.pdf, id=1408, 867.24pt x 505.89pt>
 File: figures/supp_figure3.pdf Graphic file (type pdf)
 <use figures/supp_figure3.pdf>
-Package pdftex.def Info: figures/supp_figure3.pdf  used on input line 560.
+Package pdftex.def Info: figures/supp_figure3.pdf  used on input line 562.
 (pdftex.def)             Requested size: 520.34598pt x 303.55177pt.
 
 [47 <./figures/supp_figure3.pdf>]
-<figures/supp_figure4.pdf, id=1445, 1108.14pt x 1274.7625pt>
+<figures/supp_figure4.pdf, id=1470, 1108.14pt x 1274.7625pt>
 File: figures/supp_figure4.pdf Graphic file (type pdf)
 <use figures/supp_figure4.pdf>
-Package pdftex.def Info: figures/supp_figure4.pdf  used on input line 572.
+Package pdftex.def Info: figures/supp_figure4.pdf  used on input line 574.
 (pdftex.def)             Requested size: 312.20361pt x 359.14851pt.
 
 
-LaTeX Warning: Float too large for page by 41.86137pt on input line 577.
+LaTeX Warning: Float too large for page by 41.86137pt on input line 579.
 
 [48 <./figures/supp_figure4.pdf>]
-<figures/supp_figure5.pdf, id=1462, 1092.08pt x 1319.93124pt>
+<figures/supp_figure5.pdf, id=1487, 1092.08pt x 1319.93124pt>
 File: figures/supp_figure5.pdf Graphic file (type pdf)
 <use figures/supp_figure5.pdf>
-Package pdftex.def Info: figures/supp_figure5.pdf  used on input line 583.
+Package pdftex.def Info: figures/supp_figure5.pdf  used on input line 585.
 (pdftex.def)             Requested size: 325.215pt x 393.06206pt.
 
 
-LaTeX Warning: Float too large for page by 35.90009pt on input line 589.
+LaTeX Warning: Float too large for page by 35.90009pt on input line 591.
 
 [49 <./figures/supp_figure5.pdf>]
-<figures/supp_figure6.pdf, id=1477, 1108.14pt x 1274.7625pt>
+<figures/supp_figure6.pdf, id=1502, 1108.14pt x 1274.7625pt>
 File: figures/supp_figure6.pdf Graphic file (type pdf)
 <use figures/supp_figure6.pdf>
-Package pdftex.def Info: figures/supp_figure6.pdf  used on input line 595.
+Package pdftex.def Info: figures/supp_figure6.pdf  used on input line 597.
 (pdftex.def)             Requested size: 312.20361pt x 359.14851pt.
 
 
-LaTeX Warning: Float too large for page by 41.86137pt on input line 600.
+LaTeX Warning: Float too large for page by 41.86137pt on input line 602.
 
 [50 <./figures/supp_figure6.pdf>]
-<figures/supp_figure7.pdf, id=1494, 1092.08pt x 1319.93124pt>
+<figures/supp_figure7.pdf, id=1520, 1092.08pt x 1319.93124pt>
 File: figures/supp_figure7.pdf Graphic file (type pdf)
 <use figures/supp_figure7.pdf>
-Package pdftex.def Info: figures/supp_figure7.pdf  used on input line 606.
+Package pdftex.def Info: figures/supp_figure7.pdf  used on input line 608.
 (pdftex.def)             Requested size: 325.215pt x 393.06206pt.
 
 
-LaTeX Warning: Float too large for page by 35.90009pt on input line 612.
+LaTeX Warning: Float too large for page by 35.90009pt on input line 614.
 
 [51 <./figures/supp_figure7.pdf>]
-<figures/supp_figure8.pdf, id=1510, 1264.725pt x 827.09pt>
+<figures/supp_figure8.pdf, id=1536, 1264.725pt x 827.09pt>
 File: figures/supp_figure8.pdf Graphic file (type pdf)
 <use figures/supp_figure8.pdf>
-Package pdftex.def Info: figures/supp_figure8.pdf  used on input line 618.
+Package pdftex.def Info: figures/supp_figure8.pdf  used on input line 620.
 (pdftex.def)             Requested size: 455.29901pt x 297.73955pt.
  [52 <./figures/supp_figure8.pdf>]
-<figures/supp_figure9.pdf, id=1528, 872.25874pt x 879.285pt>
+<figures/supp_figure9.pdf, id=1553, 872.25874pt x 879.285pt>
 File: figures/supp_figure9.pdf Graphic file (type pdf)
 <use figures/supp_figure9.pdf>
-Package pdftex.def Info: figures/supp_figure9.pdf  used on input line 630.
+Package pdftex.def Info: figures/supp_figure9.pdf  used on input line 632.
 (pdftex.def)             Requested size: 390.26196pt x 393.40717pt.
 
 
-LaTeX Warning: Float too large for page by 22.95358pt on input line 636.
+LaTeX Warning: Float too large for page by 22.95358pt on input line 638.
 
 [53 <./figures/supp_figure9.pdf>]
 Chapter 3.
@@ -2115,54 +2115,54 @@ Chapter 3.
 
 
 ] [55] [56]
-<figures/mtor-fig1.pdf, id=1582, 667.49374pt x 451.6875pt>
+<figures/mtor-fig1.pdf, id=1607, 667.49374pt x 451.6875pt>
 File: figures/mtor-fig1.pdf Graphic file (type pdf)
 <use figures/mtor-fig1.pdf>
-Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 672.
+Package pdftex.def Info: figures/mtor-fig1.pdf  used on input line 676.
 (pdftex.def)             Requested size: 520.34598pt x 352.14252pt.
  [57 <./figures/mtor-fig1.pdf>] [58
 
 
 ] [59] [60]
-<figures/mtor-fig2.pdf, id=1680, 529.13303pt x 375.0574pt>
+<figures/mtor-fig2.pdf, id=1705, 529.13303pt x 375.0574pt>
 File: figures/mtor-fig2.pdf Graphic file (type pdf)
 <use figures/mtor-fig2.pdf>
-Package pdftex.def Info: figures/mtor-fig2.pdf  used on input line 692.
+Package pdftex.def Info: figures/mtor-fig2.pdf  used on input line 696.
 (pdftex.def)             Requested size: 520.34598pt x 368.82994pt.
  [61 <./figures/mtor-fig2.pdf>] [62
 
 
 ]
-<figures/mtor-fig3.png, id=1715, 1010.77625pt x 371.3875pt>
+<figures/mtor-fig3.png, id=1740, 1010.77625pt x 371.3875pt>
 File: figures/mtor-fig3.png Graphic file (type png)
 <use figures/mtor-fig3.png>
-Package pdftex.def Info: figures/mtor-fig3.png  used on input line 707.
+Package pdftex.def Info: figures/mtor-fig3.png  used on input line 711.
 (pdftex.def)             Requested size: 650.43001pt x 238.99057pt.
  [63 <./figures/mtor-fig3.png>]
 
-LaTeX Warning: Command \r invalid in math mode on input line 723.
+LaTeX Warning: Command \r invalid in math mode on input line 727.
 
 
 Package natbib Warning: Citation `Xu:2016fwu' on page 64 undefined on input lin
-e 723.
+e 727.
 
 [64
 
 
 ] [65] [66]
-<figures/mtor-fig4.pdf, id=1755, 1510.64375pt x 736.7525pt>
+<figures/mtor-fig4.pdf, id=1780, 1510.64375pt x 736.7525pt>
 File: figures/mtor-fig4.pdf Graphic file (type pdf)
 <use figures/mtor-fig4.pdf>
-Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 729.
+Package pdftex.def Info: figures/mtor-fig4.pdf  used on input line 733.
 (pdftex.def)             Requested size: 650.43001pt x 317.21335pt.
  [67 <./figures/mtor-fig4.pdf>] [68
 
 
 ]
-<figures/mtor-fig5.pdf, id=1789, 1815.78375pt x 660.4675pt>
+<figures/mtor-fig5.pdf, id=1815, 1815.78375pt x 660.4675pt>
 File: figures/mtor-fig5.pdf Graphic file (type pdf)
 <use figures/mtor-fig5.pdf>
-Package pdftex.def Info: figures/mtor-fig5.pdf  used on input line 745.
+Package pdftex.def Info: figures/mtor-fig5.pdf  used on input line 749.
 (pdftex.def)             Requested size: 650.43001pt x 236.589pt.
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
@@ -2170,25 +2170,25 @@ Missing character: There is no Å in font pplr7t!
 
 
 ]
-<figures/mtor-fig6.pdf, id=1816, 1498.59875pt x 844.15375pt>
+<figures/mtor-fig6.pdf, id=1841, 1498.59875pt x 844.15375pt>
 File: figures/mtor-fig6.pdf Graphic file (type pdf)
 <use figures/mtor-fig6.pdf>
-Package pdftex.def Info: figures/mtor-fig6.pdf  used on input line 761.
+Package pdftex.def Info: figures/mtor-fig6.pdf  used on input line 765.
 (pdftex.def)             Requested size: 650.43001pt x 366.37955pt.
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 
 
-LaTeX Warning: Float too large for page by 22.50919pt on input line 767.
+LaTeX Warning: Float too large for page by 22.50919pt on input line 771.
 
 [71 <./figures/mtor-fig6.pdf>] [72
 
 
 ] [73]
-<figures/mtor-fig7.pdf, id=1860, 1805.74625pt x 707.64375pt>
+<figures/mtor-fig7.pdf, id=1885, 1805.74625pt x 707.64375pt>
 File: figures/mtor-fig7.pdf Graphic file (type pdf)
 <use figures/mtor-fig7.pdf>
-Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 776.
+Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 780.
 (pdftex.def)             Requested size: 650.43001pt x 254.89192pt.
  [74 <./figures/mtor-fig7.pdf>]
 [75
@@ -2196,78 +2196,78 @@ Package pdftex.def Info: figures/mtor-fig7.pdf  used on input line 776.
 
 ] [76] [77] [78]
 
-LaTeX Warning: Command \r invalid in math mode on input line 805.
+LaTeX Warning: Command \r invalid in math mode on input line 809.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 820.
+LaTeX Warning: Command \r invalid in math mode on input line 824.
 
 [79] [80] [81]
 Chapter 4.
 [82
 
 ] [83] [84] [85]
-<figures/abl-figure-1.pdf, id=2003, 963.6pt x 542.025pt>
+<figures/abl-figure-1.pdf, id=2028, 963.6pt x 542.025pt>
 File: figures/abl-figure-1.pdf Graphic file (type pdf)
 <use figures/abl-figure-1.pdf>
-Package pdftex.def Info: figures/abl-figure-1.pdf  used on input line 877.
+Package pdftex.def Info: figures/abl-figure-1.pdf  used on input line 883.
 (pdftex.def)             Requested size: 520.34598pt x 292.6974pt.
 
 
-LaTeX Warning: Reference `tab:table-1' on page 86 undefined on input line 889.
+LaTeX Warning: Reference `tab:table-1' on page 86 undefined on input line 895.
 
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 
-LaTeX Warning: Reference `tab:table-1' on page 86 undefined on input line 889.
+LaTeX Warning: Reference `tab:table-1' on page 86 undefined on input line 895.
 
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 Missing character: There is no Å in font pplr7t!
 
-LaTeX Warning: Float too large for page by 15.2851pt on input line 891.
+LaTeX Warning: Float too large for page by 15.2851pt on input line 897.
 
 [86 <./figures/abl-figure-1.pdf>] [87
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 913.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 919.
  [88]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 922.
+(hyperref)                removing `math shift' on input line 928.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 922.
+(hyperref)                removing `\Delta' on input line 928.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 922.
+(hyperref)                removing `math shift' on input line 928.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 922.
+(hyperref)                removing `math shift' on input line 928.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 922.
+(hyperref)                removing `subscript' on input line 928.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 922.
+(hyperref)                removing `math shift' on input line 928.
 
 
-LaTeX Warning: Reference `tab:table-1' on page 89 undefined on input line 923.
+LaTeX Warning: Reference `tab:table-1' on page 89 undefined on input line 929.
 
 [89] [90]
-Underfull \hbox (badness 10000) in paragraph at lines 957--957
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
 []|\OT1/ppl/m/it/12 Dock to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 957--957
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
 []|\OT1/ppl/m/it/12 Dock to
  []
 
@@ -2275,22 +2275,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 957--957
 
 
 ]
-<figures/abl-figure-2.pdf, id=2138, 1156.32pt x 397.485pt>
+<figures/abl-figure-2.pdf, id=2163, 1156.32pt x 397.485pt>
 File: figures/abl-figure-2.pdf Graphic file (type pdf)
 <use figures/abl-figure-2.pdf>
-Package pdftex.def Info: figures/abl-figure-2.pdf  used on input line 978.
+Package pdftex.def Info: figures/abl-figure-2.pdf  used on input line 984.
 (pdftex.def)             Requested size: 520.34598pt x 178.8666pt.
  [93 <./figures/abl-figure-2.pdf>]
-<figures/abl-supplementary-figure-1.pdf, id=2211, 963.6pt x 542.025pt>
+<figures/abl-supplementary-figure-1.pdf, id=2237, 963.6pt x 542.025pt>
 File: figures/abl-supplementary-figure-1.pdf Graphic file (type pdf)
 <use figures/abl-supplementary-figure-1.pdf>
 Package pdftex.def Info: figures/abl-supplementary-figure-1.pdf  used on input 
-line 997.
+line 1003.
 (pdftex.def)             Requested size: 520.34598pt x 292.6974pt.
  [94 <./figures/abl-supplementary-figure-1.pdf>]
 
 LaTeX Warning: Reference `abl-table-si-1' on page 95 undefined on input line 10
-09.
+15.
 
 [95
 
@@ -2298,34 +2298,34 @@ LaTeX Warning: Reference `abl-table-si-1' on page 95 undefined on input line 10
 
 
 ]
-Overfull \hbox (43.5352pt too wide) in alignment at lines 1029--1039
+Overfull \hbox (43.5352pt too wide) in alignment at lines 1035--1045
  [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (43.5352pt too wide) in alignment at lines 1039--1046
+Overfull \hbox (43.5352pt too wide) in alignment at lines 1045--1052
  [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (43.5352pt too wide) in alignment at lines 1046--1069
+Overfull \hbox (43.5352pt too wide) in alignment at lines 1052--1075
  [] [] [] [] [] [] [] [] [] [] 
  []
 
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 1081.
+(Font)              scaled to size 4.74998pt on input line 1087.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1081.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1087.
 
 Package natbib Warning: Citation `Redaelli:2012' on page 96 undefined on input 
-line 1081.
+line 1087.
 
 
 Package natbib Warning: Citation `Press:2009' on page 96 undefined on input lin
-e 1081.
+e 1087.
 
 
-Overfull \hbox (43.5352pt too wide) in alignment at lines 1069--1082
+Overfull \hbox (43.5352pt too wide) in alignment at lines 1075--1088
  [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -2334,14 +2334,14 @@ Overfull \hbox (43.5352pt too wide) in alignment at lines 1069--1082
 ] [97] [98
 
 ] [99]
-<figures/abl-figure-3.pdf, id=2283, 963.6pt x 939.51pt>
+<figures/abl-figure-3.pdf, id=2308, 963.6pt x 939.51pt>
 File: figures/abl-figure-3.pdf Graphic file (type pdf)
 <use figures/abl-figure-3.pdf>
-Package pdftex.def Info: figures/abl-figure-3.pdf  used on input line 1106.
+Package pdftex.def Info: figures/abl-figure-3.pdf  used on input line 1112.
 (pdftex.def)             Requested size: 455.29901pt x 443.9065pt.
 
 
-LaTeX Warning: Float too large for page by 33.57808pt on input line 1111.
+LaTeX Warning: Float too large for page by 33.57808pt on input line 1117.
 
 [100 <./figures/abl-figure-3.pdf>] [101] [102
 
@@ -2351,35 +2351,35 @@ LaTeX Warning: Float too large for page by 33.57808pt on input line 1111.
 ]
 
 LaTeX Warning: Reference `fig:figure-si-2' on page 103 undefined on input line 
-1150.
+1156.
 
 
 LaTeX Warning: Reference `fig:figure-si-2' on page 103 undefined on input line 
-1152.
+1158.
 
 [103]
-<figures/abl-supplementary-figure-2.pdf, id=2379, 867.24pt x 650.43pt>
+<figures/abl-supplementary-figure-2.pdf, id=2404, 867.24pt x 650.43pt>
 File: figures/abl-supplementary-figure-2.pdf Graphic file (type pdf)
 <use figures/abl-supplementary-figure-2.pdf>
 Package pdftex.def Info: figures/abl-supplementary-figure-2.pdf  used on input 
-line 1158.
+line 1164.
 (pdftex.def)             Requested size: 520.34598pt x 390.28085pt.
 
 
-LaTeX Warning: Float too large for page by 19.82727pt on input line 1165.
+LaTeX Warning: Float too large for page by 19.82727pt on input line 1171.
 
 [104 <./figures/abl-supplementary-figure-2.pdf>] [105
 
 
 ] [106]
-<figures/abl-figure-4.pdf, id=2420, 1409.265pt x 1795.70876pt>
+<figures/abl-figure-4.pdf, id=2445, 1409.265pt x 1795.70876pt>
 File: figures/abl-figure-4.pdf Graphic file (type pdf)
 <use figures/abl-figure-4.pdf>
-Package pdftex.def Info: figures/abl-figure-4.pdf  used on input line 1202.
+Package pdftex.def Info: figures/abl-figure-4.pdf  used on input line 1208.
 (pdftex.def)             Requested size: 325.215pt x 414.37434pt.
 
 
-LaTeX Warning: Float too large for page by 4.04593pt on input line 1207.
+LaTeX Warning: Float too large for page by 4.04593pt on input line 1213.
 
 [107 <./figures/abl-figure-4.pdf>] [108] [109
 
@@ -2387,14 +2387,14 @@ LaTeX Warning: Float too large for page by 4.04593pt on input line 1207.
 
 
 ] [110] [111] [112]
-<figures/abl-figure-5.pdf, id=2548, 963.6pt x 578.16pt>
+<figures/abl-figure-5.pdf, id=2573, 963.6pt x 578.16pt>
 File: figures/abl-figure-5.pdf Graphic file (type pdf)
 <use figures/abl-figure-5.pdf>
-Package pdftex.def Info: figures/abl-figure-5.pdf  used on input line 1267.
+Package pdftex.def Info: figures/abl-figure-5.pdf  used on input line 1273.
 (pdftex.def)             Requested size: 520.34598pt x 312.21057pt.
 
 
-LaTeX Warning: Float too large for page by 8.21504pt on input line 1277.
+LaTeX Warning: Float too large for page by 8.21504pt on input line 1283.
 
 [113 <./figures/abl-figure-5.pdf>] [114
 
@@ -2405,30 +2405,30 @@ LaTeX Warning: Float too large for page by 8.21504pt on input line 1277.
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1362.
+(hyperref)                removing `math shift' on input line 1368.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1362.
+(hyperref)                removing `subscript' on input line 1368.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1362.
+(hyperref)                removing `math shift' on input line 1368.
 
 [118] [119] [120]
 Missing character: There is no Å in font pplr7t!
  [121] [122] [123]
-Overfull \hbox (44.77365pt too wide) in paragraph at lines 1435--1462
+Overfull \hbox (44.77365pt too wide) in paragraph at lines 1441--1468
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1462
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1462
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1468
 
  []
 
@@ -2445,58 +2445,58 @@ Missing character: There is no Å in font pplr7t!
  [128]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 1519.
+(hyperref)                removing `\Delta' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 1519.
+(hyperref)                removing `\Delta' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 1519.
+(hyperref)                removing `\Delta' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1519.
+(hyperref)                removing `subscript' on input line 1525.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1519.
+(hyperref)                removing `math shift' on input line 1525.
 
 [129] [130] [131] [132] [133] [134]
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 1614
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1620
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (27.62271pt too wide) in paragraph at lines 1614--1615
+Overfull \hbox (27.62271pt too wide) in paragraph at lines 1620--1621
 \OT1/phv/m/n/12 Predicting-[]resistance-[]of-[]clinical-[]Abl-[]mutations-[]to-
 []targeted-[]kinase-[]inhibitors-[]using-[]FEP$[][]  
  []
 
 
-Overfull \hbox (27.62271pt too wide) in paragraph at lines 1618--1619
+Overfull \hbox (27.62271pt too wide) in paragraph at lines 1624--1625
 \OT1/phv/m/n/12 Predicting-[]resistance-[]of-[]clinical-[]Abl-[]mutations-[]to-
 []targeted-[]kinase-[]inhibitors-[]using-[]FEP$[][]  
  []
@@ -2505,120 +2505,123 @@ Overfull \hbox (27.62271pt too wide) in paragraph at lines 1618--1619
 Chapter 5.
 [137
 
-] [138] [139] [140] [141] [142] [143] [144] [145]
-<figures/abl1-construct-wholefigure.pdf, id=2921, 1927.2pt x 1084.05pt>
+] [138] [139] [140] [141] [142] [143] [144] [145] [146]
+<figures/abl1-construct-wholefigure.pdf, id=2950, 1927.2pt x 1084.05pt>
 File: figures/abl1-construct-wholefigure.pdf Graphic file (type pdf)
 <use figures/abl1-construct-wholefigure.pdf>
 Package pdftex.def Info: figures/abl1-construct-wholefigure.pdf  used on input 
-line 1752.
+line 1760.
 (pdftex.def)             Requested size: 650.43001pt x 365.85936pt.
 
 
-LaTeX Warning: Float too large for page by 35.28061pt on input line 1762.
+LaTeX Warning: Float too large for page by 35.28061pt on input line 1770.
 
-[146 <./figures/abl1-construct-wholefigure.pdf>]
-<figures/abl1-construct-gel.pdf, id=2988, 1887.05pt x 366.36874pt>
+[147 <./figures/abl1-construct-wholefigure.pdf>]
+<figures/abl1-construct-gel.pdf, id=3018, 1887.05pt x 366.36874pt>
 File: figures/abl1-construct-gel.pdf Graphic file (type pdf)
 <use figures/abl1-construct-gel.pdf>
-Package pdftex.def Info: figures/abl1-construct-gel.pdf  used on input line 176
-8.
+Package pdftex.def Info: figures/abl1-construct-gel.pdf  used on input line 177
+6.
 (pdftex.def)             Requested size: 650.43001pt x 126.27995pt.
- [147 <./figures/abl1-construct-gel.pdf>]
+ [148 <./figures/abl1-construct-gel.pdf>]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1778.
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1786.
 
- [148
-
-
+ [149
 
 
-] [149]
-<figures/96-kinase-figure.pdf, id=3016, 1921.1775pt x 1071.00125pt>
+
+
+] [150]
+<figures/96-kinase-figure.pdf, id=3046, 1921.1775pt x 1071.00125pt>
 File: figures/96-kinase-figure.pdf Graphic file (type pdf)
 <use figures/96-kinase-figure.pdf>
-Package pdftex.def Info: figures/96-kinase-figure.pdf  used on input line 1793.
+Package pdftex.def Info: figures/96-kinase-figure.pdf  used on input line 1801.
 
 (pdftex.def)             Requested size: 650.43001pt x 362.59944pt.
 
 
-LaTeX Warning: Float too large for page by 32.02069pt on input line 1802.
+LaTeX Warning: Float too large for page by 32.02069pt on input line 1810.
 
-[150 <./figures/96-kinase-figure.pdf>] [151
+[151 <./figures/96-kinase-figure.pdf>] [152
 
 
 
-] [152] [153
+] [153] [154
 
-] [154]
-<figures/bothplates_dualaxis_tm.pdf, id=3069, 1099.94691pt x 973.96121pt>
+] [155]
+<figures/bothplates_dualaxis_tm.pdf, id=3098, 1099.94691pt x 973.96121pt>
 File: figures/bothplates_dualaxis_tm.pdf Graphic file (type pdf)
 <use figures/bothplates_dualaxis_tm.pdf>
 Package pdftex.def Info: figures/bothplates_dualaxis_tm.pdf  used on input line
- 1904.
+ 1912.
 (pdftex.def)             Requested size: 390.26196pt x 345.55801pt.
 
 
-LaTeX Warning: Float too large for page by 41.56248pt on input line 1914.
+LaTeX Warning: Float too large for page by 41.56248pt on input line 1922.
 
-[155 <./figures/bothplates_dualaxis_tm.pdf>] [156
+[156 <./figures/bothplates_dualaxis_tm.pdf>] [157
 
 
-] [157] [158]
-<figures/bos_spectra_45_logy.pdf, id=3197, 1622.82225pt x 1043.75076pt>
+] [158] [159]
+<figures/bos_spectra_45_logy.pdf, id=3227, 1622.82225pt x 1043.75076pt>
 File: figures/bos_spectra_45_logy.pdf Graphic file (type pdf)
 <use figures/bos_spectra_45_logy.pdf>
 Package pdftex.def Info: figures/bos_spectra_45_logy.pdf  used on input line 19
-43.
+51.
 (pdftex.def)             Requested size: 390.26196pt x 250.99902pt.
- [159 <./figures/bos_spectra_45_logy.pdf>] [160
+ [160 <./figures/bos_spectra_45_logy.pdf>] [161
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1980.
- [161
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1988.
+ [162
 
-] [162
+] [163
 
 
-] [163] [164
+] [164] [165
 
 ]
-<figures/96-mutants-finalfigure.pdf, id=3333, 1115.16624pt x 1286.8075pt>
+<figures/96-mutants-finalfigure.pdf, id=3363, 1115.16624pt x 1286.8075pt>
 File: figures/96-mutants-finalfigure.pdf Graphic file (type pdf)
 <use figures/96-mutants-finalfigure.pdf>
 Package pdftex.def Info: figures/96-mutants-finalfigure.pdf  used on input line
- 2103.
+ 2111.
 (pdftex.def)             Requested size: 325.215pt x 375.26558pt.
 
 
-LaTeX Warning: Float too large for page by 31.39522pt on input line 2112.
+LaTeX Warning: Float too large for page by 31.39522pt on input line 2120.
 
-[165 <./figures/96-mutants-finalfigure.pdf>] [166
+[166 <./figures/96-mutants-finalfigure.pdf>] [167
 
 
-] [167] [168] [169] [170]
-[171] [172] [173] [174] [175] [176] [177] [178] [179] [180]
-(./albanese_dissertation.bbl [181] [182
+] [168] [169] [170] [171]
+[172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+Chapter 6.
+(./albanese_dissertation.bbl [183
 
-] [183] [184] [185] [186] [187] [188]
-[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
-[201] [202]
+] [184
+
+] [185] [186] [187] [188] [189] [190]
+[191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
+[203] [204] [205]
 Missing character: There is no Å in font pplr7t!
- [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
-[213] [214] [215] [216] [217] [218] [219] [220])
+ [206] [207] [208] [209] [210] [211] [212] [213] [214]
+[215] [216] [217] [218] [219] [220] [221] [222])
 
 Package natbib Warning: There were undefined citations.
 
-[221]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2326.
+[223]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2337.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2337.
  (./albanese_dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2326.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2337.
 
 Package rerunfilecheck Info: File `albanese_dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 15A26BE82602BA21B1D78D5DCB89795D;10333.
+(rerunfilecheck)             Checksum: 5193C4D19EF9CCC93AA9FAD7067E8438;10594.
 
 
 LaTeX Warning: There were undefined references.
@@ -2628,10 +2631,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 32528 strings out of 492649
- 645092 string characters out of 6129622
- 775332 words of memory out of 5000000
- 35133 multiletter control sequences out of 15000+600000
+ 32540 strings out of 492649
+ 645228 string characters out of 6129622
+ 776334 words of memory out of 5000000
+ 35138 multiletter control sequences out of 15000+600000
  606272 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,14n,84p,10465b,1451s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2648,10 +2651,10 @@ lbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on albanese_dissertation.pdf (237 pages, 15039326 bytes).
+Output written on albanese_dissertation.pdf (239 pages, 15041433 bytes).
 PDF statistics:
- 3995 PDF objects out of 4296 (max. 8388607)
- 3243 compressed objects within 33 object streams
- 739 named destinations out of 1000 (max. 500000)
- 1068 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4029 PDF objects out of 4296 (max. 8388607)
+ 3275 compressed objects within 33 object streams
+ 746 named destinations out of 1000 (max. 500000)
+ 1108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
