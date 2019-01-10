@@ -1065,14 +1065,6 @@
   Analysis.
 \newblock PloS One.  2013; 8(4):e61007.
 
-\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
-  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
-  Andrey S}]{Hu:2015kh}
-\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
-  AP, Taylor SS, Shaw AS.
-\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
-\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
-
 \bibitem[{Laplante and Sabatini(2012)Laplante, Mathieu and Sabatini, David
   M}]{Laplante:2012fm}
 \textbf{\color{eLifeMediumGrey} Laplante M}, Sabatini DM.
@@ -3031,5 +3023,13 @@
 \newblock Proc Natl Acad Sci.  2002 Nov; 99(23):14652--14657.
 \newblock \href{10.1073/pnas.232580399}{\doiprefix
   \detokenize{10.1073/pnas.232580399}}.
+
+\bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
+  S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
+  Andrey S}]{Hu:2015kh}
+\textbf{\color{eLifeMediumGrey} Hu J}, Ahuja LG, Meharena HS, Kannan N, Kornev
+  AP, Taylor SS, Shaw AS.
+\newblock {Kinase regulation by hydrophobic spine assembly in cancer.}
+\newblock Molecular and cellular biology.  2015 Jan; 35(1):264--276.
 
 \end{thebibliography}
