@@ -39,6 +39,7 @@
 \usepackage{amssymb}
 \usepackage{pdflscape}
 \usepackage{longtable}
+\usepackage[toc,page]{appendix}
 
 
 %if you're having problems with overfull boxes, you may need to increase
@@ -532,115 +533,6 @@ Writing -- Review \& Editing: SKA, JDC \\
 Funding Acquisition: RA, JDC\\
 Resources: LW, JDC\\
 
-
-\section{Supplemental Information}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=1.0\linewidth]{figures/supp_figure1.png}
-		\caption[CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations]{
-			{\bf CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations} 
-			({\bf A}) CDK2 (5K4J) adopts an inactive conformation in the absence of its cyclin. The DFG motif is in a DFG-in conformation, with the $\alpha$C helix rotated outwards, breaking the salt bridge between K33 and E51 (Uniprot numbering) that is typically a marker of an active conformation. Notably, the Phe in the DFG motif does not completely form the hydrophobic spine due to the rotation of the $\alpha$C helix~\citep{Hu:2015kh}
-			({\bf B}) The CDK2 structure used for the CDK2/CDK9 calculations (4BCK) contains cyclin A and adopts a DFG-in/$\alpha$C helix-in conformation that forms the salt bridge between K33 and E51. This is typically indicative of a fully active kinase~\citep{Huse2002-ml,Hari:2013dp}. 
-		}
-		\label{fig:sup-figure-1}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=1.0\linewidth]{figures/supp_2.png}
-		\caption[ Correlation coefficient $\rho$ controls the shape of the joint marginal distribution of errors]{
-			{\bf Correlation coefficient $\rho$ controls the shape of the joint marginal distribution of errors} 
-			As $\rho$ increases, the joint marginal distribution of errors become more diagonal. Each panel shows 10000 samples drawn from a multivariate normal distribution centered around 0 kcal/mol, where the per target error was set to 1 kcal/mol and $\rho$ to the value indicated in bold over the plot. 
-		}
-		\label{fig:sup-figure-2}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.8\linewidth]{figures/supp_figure3.pdf}
-		\caption[Correlation reduces the expected error for selectivity predictions]{
-			{\bf Correlation reduces the expected error for selectivity predictions}
-			As corelation coefficient $\rho$ increases, $\sigma_{selectivity}$ decreases. The intersection between CDK2/CDK9 $\sigma_{selectivity}$ (green curve) and $\rho$ (black distribution) indicates the range of expected $\sigma_{selectivity}$ values. The intersection for CDK2/ERK $\sigma_{selectivity}$ (blue curve) and $\rho$ (gray distribution) suggests the expected $\sigma_{selectivity}$ range for that set of calculations. 
-		}
-		\label{fig:sup-figure-3}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.48\linewidth]{figures/supp_figure4.pdf}
-		\caption[Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE]{
-			{\bf Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE} \\
-			Three replicates of the CDK2/CDK9 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
-		\label{fig:sup-figure-4}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.5\linewidth]{figures/supp_figure5.pdf}
-		\caption[Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient]{
-			{\bf Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient} \\
-			({\bf A}) (\emph{left}) The joint posterior distribution of the prediction errors for CDK2 (X-axis) and CDK9 (Y-axis) from the Bayesian graphical model for replicate 1. (\emph{right}) The posterior marginal distribution of the correlation coefficient ($\rho$) is shown in gray for replcicate 1. The inserted box shows the mean and 95\% confidence interval for the correlation coefficient. ({\bf B}) and ({\bf C}) The same as above, but for replicates 2 and 3, respectively
-		}
-		\label{fig:sup-figure-5}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.48\linewidth]{figures/supp_figure6.pdf}
-		\caption[Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE]{
-{\bf Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE} \\
-hree replicates of the CDK2/ERK2 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated.  The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
-		\label{fig:sup-figure-6}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.5\linewidth]{figures/supp_figure7.pdf}
-		\caption[Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient]{
-			{\bf Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient} \\
-			({\bf A}) (\emph{left}) The joint posterior distribution of the prediction errors for CDK2 (X-axis) and ERK2 (Y-axis) from the Bayesian graphical model for replicate 1. (\emph{right}) The posterior marginal distribution of the correlation coefficient ($\rho$) is shown in gray for replcicate 1. The inserted box shows the mean and 95\% confidence interval for the correlation coefficient. ({\bf B}) and ({\bf C}) The same as above, but for replicates 2 and 3, respectively
-		}
-		\label{fig:sup-figure-7}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.7\linewidth]{figures/supp_figure8.pdf}
-		\caption[The pooled replicates show good agreement in predictions for individual ligands]{
-		{\bf The pooled replicates show good agreement in predictions for individual ligands} \\
-		The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf Top}) CDK2/CDK9 replicates ({\bf Bottom}) CDK2/ERK2 replicates
-	}
-		\label{fig:sup-figure-8}
-	\end{figure}
-\end{landscape}
-
-\begin{landscape}
-	\begin{figure}[p]
-		\centering
-		\includegraphics[width=0.6\linewidth]{figures/supp_figure9.pdf}
-		\caption[The standard deviation for each edge is smaller than the estimated cycle closure uncertainties]{
-		{\bf The standard deviation for each edge is smaller than the estimated cycle closure uncertainties} \\
-The cycle closure uncertainty for each edge of the map is shown on the Y-axis and the standard deviation for that edge in all three replicate calculations is shown on the X-axis, in kcal/mol. Each point corresponds to an edge of the FEP map. The edges for all three replicates are pooled and shown together.  ({\bf Top}) CDK2/CDK9 calculations ({\bf Bottom}) CDK2/ERK2 calculations. 
-}
-		\label{fig:sup-figure-9}
-	\end{figure}
-\end{landscape}
 
 \chapter{Understanding the functional impact of mTOR clinical kinase mutations using physical modeling}
 
@@ -2342,6 +2234,117 @@ The authors are grateful to \href{http://www.addgene.org}{Addgene} for their hel
 \item  Future work: where is the field going next? 
 \end{itemize}
 
+\begin{appendices}
+	\chapter{Supplemental Figures from Chapter 2}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=1.0\linewidth]{figures/supp_figure1.png}
+			\caption[CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations]{
+				{\bf CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations} 
+				({\bf A}) CDK2 (5K4J) adopts an inactive conformation in the absence of its cyclin. The DFG motif is in a DFG-in conformation, with the $\alpha$C helix rotated outwards, breaking the salt bridge between K33 and E51 (Uniprot numbering) that is typically a marker of an active conformation. Notably, the Phe in the DFG motif does not completely form the hydrophobic spine due to the rotation of the $\alpha$C helix~\citep{Hu:2015kh}
+				({\bf B}) The CDK2 structure used for the CDK2/CDK9 calculations (4BCK) contains cyclin A and adopts a DFG-in/$\alpha$C helix-in conformation that forms the salt bridge between K33 and E51. This is typically indicative of a fully active kinase~\citep{Huse2002-ml,Hari:2013dp}. 
+			}
+			\label{fig:sup-figure-1}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=1.0\linewidth]{figures/supp_2.png}
+			\caption[ Correlation coefficient $\rho$ controls the shape of the joint marginal distribution of errors]{
+				{\bf Correlation coefficient $\rho$ controls the shape of the joint marginal distribution of errors} 
+				As $\rho$ increases, the joint marginal distribution of errors become more diagonal. Each panel shows 10000 samples drawn from a multivariate normal distribution centered around 0 kcal/mol, where the per target error was set to 1 kcal/mol and $\rho$ to the value indicated in bold over the plot. 
+			}
+			\label{fig:sup-figure-2}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.8\linewidth]{figures/supp_figure3.pdf}
+			\caption[Correlation reduces the expected error for selectivity predictions]{
+				{\bf Correlation reduces the expected error for selectivity predictions}
+				As corelation coefficient $\rho$ increases, $\sigma_{selectivity}$ decreases. The intersection between CDK2/CDK9 $\sigma_{selectivity}$ (green curve) and $\rho$ (black distribution) indicates the range of expected $\sigma_{selectivity}$ values. The intersection for CDK2/ERK $\sigma_{selectivity}$ (blue curve) and $\rho$ (gray distribution) suggests the expected $\sigma_{selectivity}$ range for that set of calculations. 
+			}
+			\label{fig:sup-figure-3}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.46\linewidth]{figures/supp_figure4.pdf}
+			\caption[Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE]{
+				{\bf Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE} \\
+				Three replicates of the CDK2/CDK9 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
+			\label{fig:sup-figure-4}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.48\linewidth]{figures/supp_figure5.pdf}
+			\caption[Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient]{
+				{\bf Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient} \\
+				({\bf A}) (\emph{left}) The joint posterior distribution of the prediction errors for CDK2 (X-axis) and CDK9 (Y-axis) from the Bayesian graphical model for replicate 1. (\emph{right}) The posterior marginal distribution of the correlation coefficient ($\rho$) is shown in gray for replcicate 1. The inserted box shows the mean and 95\% confidence interval for the correlation coefficient. ({\bf B}) and ({\bf C}) The same as above, but for replicates 2 and 3, respectively
+			}
+			\label{fig:sup-figure-5}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.46\linewidth]{figures/supp_figure6.pdf}
+			\caption[Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE]{
+				{\bf Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE} \\
+				hree replicates of the CDK2/ERK2 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated.  The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
+			\label{fig:sup-figure-6}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.48\linewidth]{figures/supp_figure7.pdf}
+			\caption[Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient]{
+				{\bf Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient} \\
+				({\bf A}) (\emph{left}) The joint posterior distribution of the prediction errors for CDK2 (X-axis) and ERK2 (Y-axis) from the Bayesian graphical model for replicate 1. (\emph{right}) The posterior marginal distribution of the correlation coefficient ($\rho$) is shown in gray for replcicate 1. The inserted box shows the mean and 95\% confidence interval for the correlation coefficient. ({\bf B}) and ({\bf C}) The same as above, but for replicates 2 and 3, respectively
+			}
+			\label{fig:sup-figure-7}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.7\linewidth]{figures/supp_figure8.pdf}
+			\caption[The pooled replicates show good agreement in predictions for individual ligands]{
+				{\bf The pooled replicates show good agreement in predictions for individual ligands} \\
+				The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420}.We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf Top}) CDK2/CDK9 replicates ({\bf Bottom}) CDK2/ERK2 replicates
+			}
+			\label{fig:sup-figure-8}
+		\end{figure}
+	\end{landscape}
+	
+	\begin{landscape}
+		\begin{figure}[p]
+			\centering
+			\includegraphics[width=0.55\linewidth]{figures/supp_figure9.pdf}
+			\caption[The standard deviation for each edge is smaller than the estimated cycle closure uncertainties]{
+				{\bf The standard deviation for each edge is smaller than the estimated cycle closure uncertainties} \\
+				The cycle closure uncertainty for each edge of the map is shown on the Y-axis and the standard deviation for that edge in all three replicate calculations is shown on the X-axis, in kcal/mol. Each point corresponds to an edge of the FEP map. The edges for all three replicates are pooled and shown together.  ({\bf Top}) CDK2/CDK9 calculations ({\bf Bottom}) CDK2/ERK2 calculations. 
+			}
+			\label{fig:sup-figure-9}
+		\end{figure}
+	\end{landscape}
+	
+\end{appendices}
 
 \clearpage
 \realsinglespacing
