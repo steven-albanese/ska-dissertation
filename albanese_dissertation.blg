@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 604 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 620 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12584 items from 5000.
+Reallocated field_info (elt_size=4) to 12680 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -445,6 +445,10 @@ Repeated entry---line 11280 of file albanese.bib
  : @article{knight-shokat:2005:chem-biol:selective-kinase-inhibitors
  :                                                                  ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 11442 of file albanese.bib
+ : @incollection{shirts-mobley-brown:2009:sbdd
+ :                                            ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 12167 of file albanese.bib
  : @article{wu_fda-approved_2015
  :                              ,
@@ -606,6 +610,7 @@ presort is already a type "wizard-defined" function name
  :                  }
 `journal' is a missing field, not a string, for entry fda-approved-kinase-inhibitors
 while executing---line 1953 of file vancouver-elife.bst
+Warning--empty pages in shirts-mobley-brown:2009:sbdd
 `journal' is a missing field, not a string, for entry Yosaatmadja::2014
 while executing---line 1953 of file vancouver-elife.bst
 Warning--empty author and editor in acs-cancer-facts-2015
@@ -613,45 +618,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 235 entries,
+You've used 238 entries,
             3483 wiz_defined-function locations,
-            2213 strings with 80942 characters,
-and the built_in function-call counts, 863207 in all, are:
-= -- 109212
-> -- 6536
+            2229 strings with 81606 characters,
+and the built_in function-call counts, 871144 in all, are:
+= -- 110236
+> -- 6592
 < -- 51
-+ -- 3838
-- -- 1634
-* -- 80014
-:= -- 91067
-add.period$ -- 795
-call.type$ -- 235
-change.case$ -- 715
-chr.to.int$ -- 207
-cite$ -- 238
-duplicate$ -- 68726
-empty$ -- 81716
-format.name$ -- 2148
-if$ -- 198785
++ -- 3872
+- -- 1648
+* -- 80730
+:= -- 91902
+add.period$ -- 804
+call.type$ -- 238
+change.case$ -- 726
+chr.to.int$ -- 210
+cite$ -- 242
+duplicate$ -- 69469
+empty$ -- 82455
+format.name$ -- 2168
+if$ -- 200618
 int.to.chr$ -- 29
-int.to.str$ -- 236
-missing$ -- 3492
-newline$ -- 1271
-num.names$ -- 474
-pop$ -- 5746
+int.to.str$ -- 239
+missing$ -- 3527
+newline$ -- 1286
+num.names$ -- 480
+pop$ -- 5812
 preamble$ -- 1
-purify$ -- 705
+purify$ -- 714
 quote$ -- 0
-skip$ -- 4724
+skip$ -- 4775
 stack$ -- 0
-substring$ -- 184200
-swap$ -- 8512
+substring$ -- 185729
+swap$ -- 8602
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1408
-warning$ -- 3
-while$ -- 3223
+type$ -- 1426
+warning$ -- 4
+while$ -- 3254
 width$ -- 0
-write$ -- 3262
-(There were 152 error messages)
+write$ -- 3301
+(There were 153 error messages)

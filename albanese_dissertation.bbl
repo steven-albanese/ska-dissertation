@@ -1,4 +1,4 @@
-\begin{thebibliography}{235}
+\begin{thebibliography}{238}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -922,6 +922,29 @@
   partition index.
 \newblock J Med Chem.  2010 Jun; 53(11):4502--4510.
 
+\bibitem[{Shirts et~al.(2009)Michael R. Shirts and David L. Mobley and Scott P.
+  Brown}]{shirts-mobley-brown:2009:sbdd}
+\textbf{\color{eLifeMediumGrey} Shirts MR}, Mobley DL, Brown SP.
+\newblock Free energy calculations in structure-based drug design.
+\newblock In: \emph{Structure Based Drug Design} Cambridge University Press;
+  2009.
+
+\bibitem[{Kooistra et~al.(2016)Kooistra, Albert J and Kanev, Georgi K and van
+  Linden, Oscar P J and Leurs, Rob and de Esch, Iwan J P and de Graaf,
+  Chris}]{Kooistra:2016fr}
+\textbf{\color{eLifeMediumGrey} Kooistra AJ}, Kanev GK, van Linden OPJ, Leurs
+  R, de~Esch IJP, de~Graaf C.
+\newblock {KLIFS: a structural kinase-ligand interaction database}.
+\newblock Nucleic acids research.  2016 Jan; 44(D1):D365--D371.
+
+\bibitem[{van Linden et~al.(2014)van Linden, Oscar P J and Kooistra, Albert J
+  and Leurs, Rob and de Esch, Iwan J P and de Graaf, Chris}]{vanLinden:2014ea}
+\textbf{\color{eLifeMediumGrey} van Linden OPJ}, Kooistra AJ, Leurs R, de~Esch
+  IJP, de~Graaf C.
+\newblock {KLIFS: a knowledge-based structural database to navigate
+  kinase-ligand interaction space.}
+\newblock Journal of medicinal chemistry.  2014 Jan; 57(2):249--277.
+
 \bibitem[{Hole et~al.(2013)Hole, Alison J and Baumli, Sonja and Shao, Hao and
   Shi, Shenhua and Huang, Shiliang and Pepper, Chris and Fischer, Peter M and
   Wang, Shudong and Endicott, Jane A and Noble, Martin E}]{Hole2013-sr}
@@ -940,6 +963,13 @@
 \newblock {Predicting resistance of clinical Abl mutations to targeted kinase
   inhibitors using alchemical free-energy calculations}.
 \newblock Communications Biology.  2018 Jun; 1(1):70.
+
+\bibitem[{Kalliokoski et~al.(2013)Kalliokoski, Tuomo and Kramer, Christian and
+  Vulpetti, Anna and Gedeck, Peter}]{Kalliokoski:PloSOne:2013}
+\textbf{\color{eLifeMediumGrey} Kalliokoski T}, Kramer C, Vulpetti A, Gedeck P.
+\newblock Comparability of Mixed {{IC50}} Data\textendash{}a Statistical
+  Analysis.
+\newblock PloS One.  2013; 8(4):e61007.
 
 \bibitem[{Hari et~al.(2013)Hari, Sanjay B and Merritt, Ethan A and Maly, Dustin
   J}]{Hari:2013dp}
@@ -978,6 +1008,14 @@
 \newblock {A theoretical entropy score as a single value to express inhibitor
   selectivity.}
 \newblock BMC bioinformatics.  2011 Apr; 12:94.
+
+\bibitem[{Michel et~al.(2006)Michel, Julien and Verdonk, Marcel L. and Essex,
+  Jonathan W.}]{Michel:J.Med.Chem.:2006}
+\textbf{\color{eLifeMediumGrey} Michel J}, Verdonk ML, Essex JW.
+\newblock Protein-{{Ligand Binding Affinity Predictions}} by {{Implicit Solvent
+  Simulations}}: {{A Tool}} for {{Lead Optimization}}?
+\newblock J Med Chem.  2006 Dec; 49(25):7427--7439.
+\newblock \href{10.1021/jm061021s}{\doiprefix \detokenize{10.1021/jm061021s}}.
 
 \bibitem[{Berman et~al.(2002)Berman, Helen M and Battistuz, Tammy and Bhat, T N
   and Bluhm, Wolfgang F and Bourne, Philip E and Burkhardt, Kyle and Feng,
@@ -1056,13 +1094,6 @@
   expressions}.
 \newblock arXiv e-prints.  2016 May; abs/1605.02688.
 \newblock \urlprefix\url{http://arxiv.org/abs/1605.02688}.
-
-\bibitem[{Kalliokoski et~al.(2013)Kalliokoski, Tuomo and Kramer, Christian and
-  Vulpetti, Anna and Gedeck, Peter}]{Kalliokoski:PloSOne:2013}
-\textbf{\color{eLifeMediumGrey} Kalliokoski T}, Kramer C, Vulpetti A, Gedeck P.
-\newblock Comparability of Mixed {{IC50}} Data\textendash{}a Statistical
-  Analysis.
-\newblock PloS One.  2013; 8(4):e61007.
 
 \bibitem[{Knight and Shokat(2005)Zachary A. Knight and Kevan M.
   Shokat}]{knight-shokat:2005:chem-biol:selective-kinase-inhibitors}
@@ -1881,14 +1912,6 @@
   Affinities}} for P38$\alpha$ {{MAP Kinase Inhibitors}}.
 \newblock J Chem Theory Comput.  2010 Dec; 6(12):3850--3856.
 \newblock \href{10.1021/ct100504h}{\doiprefix \detokenize{10.1021/ct100504h}}.
-
-\bibitem[{Michel et~al.(2006)Michel, Julien and Verdonk, Marcel L. and Essex,
-  Jonathan W.}]{Michel:J.Med.Chem.:2006}
-\textbf{\color{eLifeMediumGrey} Michel J}, Verdonk ML, Essex JW.
-\newblock Protein-{{Ligand Binding Affinity Predictions}} by {{Implicit Solvent
-  Simulations}}: {{A Tool}} for {{Lead Optimization}}?
-\newblock J Med Chem.  2006 Dec; 49(25):7427--7439.
-\newblock \href{10.1021/jm061021s}{\doiprefix \detokenize{10.1021/jm061021s}}.
 
 \bibitem[{Barouch-Bentov and Sauer(2011)Barouch-Bentov, Rina and Sauer,
   Karsten}]{BarouchBentov:2011dx}
