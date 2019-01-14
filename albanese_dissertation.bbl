@@ -1,4 +1,4 @@
-\begin{thebibliography}{238}
+\begin{thebibliography}{239}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -1148,6 +1148,14 @@
   Mutation}.
 \newblock In: \emph{Computational Methods in Protein Evolution} New York, NY:
   Springer New York; 2018.p. 19--47.
+
+\bibitem[{Bhati et~al.(2018)Bhati, Agastya P and Wan, Shunzhou and Coveney,
+  Peter Vivian}]{Bhati:2018dl}
+\textbf{\color{eLifeMediumGrey} Bhati AP}, Wan S, Coveney PV.
+\newblock {Ensemble-based replica exchange alchemical free energy methods: the
+  effect of protein mutations on inhibitor binding.}
+\newblock Journal of Chemical Theory and Computation.  2018 Dec; p.
+  acs.jctc.8b01118.
 
 \bibitem[{Shah et~al.(2002)Shah, Neil P. and Nicoll, John M. and Nagar, Bhushan
   and Gorre, Mercedes E. and Paquette, Ronald L. and Kuriyan, John and Sawyers,

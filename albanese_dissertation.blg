@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 620 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 621 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12680 items from 5000.
+Reallocated field_info (elt_size=4) to 12712 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -618,45 +618,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 238 entries,
+You've used 239 entries,
             3483 wiz_defined-function locations,
-            2229 strings with 81606 characters,
-and the built_in function-call counts, 871144 in all, are:
-= -- 110236
-> -- 6592
-< -- 51
-+ -- 3872
-- -- 1648
-* -- 80730
-:= -- 91902
-add.period$ -- 804
-call.type$ -- 238
-change.case$ -- 726
-chr.to.int$ -- 210
-cite$ -- 242
-duplicate$ -- 69469
-empty$ -- 82455
-format.name$ -- 2168
-if$ -- 200618
+            2234 strings with 81825 characters,
+and the built_in function-call counts, 873745 in all, are:
+= -- 110589
+> -- 6604
+< -- 52
++ -- 3879
+- -- 1651
+* -- 80927
+:= -- 92157
+add.period$ -- 807
+call.type$ -- 239
+change.case$ -- 729
+chr.to.int$ -- 211
+cite$ -- 243
+duplicate$ -- 69753
+empty$ -- 82677
+format.name$ -- 2173
+if$ -- 201247
 int.to.chr$ -- 29
-int.to.str$ -- 239
-missing$ -- 3527
-newline$ -- 1286
-num.names$ -- 480
-pop$ -- 5812
+int.to.str$ -- 240
+missing$ -- 3537
+newline$ -- 1291
+num.names$ -- 482
+pop$ -- 5833
 preamble$ -- 1
-purify$ -- 714
+purify$ -- 717
 quote$ -- 0
-skip$ -- 4775
+skip$ -- 4838
 stack$ -- 0
-substring$ -- 185729
-swap$ -- 8602
-text.length$ -- 4
+substring$ -- 186163
+swap$ -- 8658
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1426
+type$ -- 1432
 warning$ -- 4
-while$ -- 3254
+while$ -- 3263
 width$ -- 0
-write$ -- 3301
+write$ -- 3314
 (There were 153 error messages)
