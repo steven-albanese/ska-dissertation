@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 729 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 604 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 14760 items from 5000.
+Reallocated field_info (elt_size=4) to 12584 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -357,14 +357,6 @@ Repeated entry---line 8875 of file albanese.bib
  : @article{fda-approved-kinase-inhibitors
  :                                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9391 of file albanese.bib
- : @article{RodrikOutmezguine:2016km
- :                                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9446 of file albanese.bib
- : @article{Saxton:2017cv
- :                       ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 9779 of file albanese.bib
  : @article{Abel:2017jt
  :                     ,
@@ -448,6 +440,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 11117 of file albanese.bib
  : @article{vertex:2004:kinase-expression
  :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11280 of file albanese.bib
+ : @article{knight-shokat:2005:chem-biol:selective-kinase-inhibitors
+ :                                                                  ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 12167 of file albanese.bib
  : @article{wu_fda-approved_2015
@@ -593,7 +589,14 @@ Repeated entry---line 12701 of file albanese.bib
  : @article{Politi:2015fg
  :                       ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Xu:2016fwu"
+Repeated entry---line 13008 of file albanese.bib
+ : @article{Drilon:2017gb
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13053 of file albanese.bib
+ : @article{Mondal:2016ju
+ :                       ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Redaelli:2012"
 Warning--I didn't find a database entry for "Press:2009"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
@@ -610,45 +613,45 @@ Warning--empty author and editor in sgc-kinome
 Warning--missing publisher in sgc-kinome
 `journal' is a missing field, not a string, for entry reva_determinants_2007
 while executing---line 1953 of file vancouver-elife.bst
-You've used 302 entries,
+You've used 235 entries,
             3483 wiz_defined-function locations,
-            2596 strings with 104780 characters,
-and the built_in function-call counts, 1165799 in all, are:
-= -- 147658
-> -- 8776
-< -- 65
-+ -- 5032
-- -- 2194
-* -- 108333
-:= -- 122693
-add.period$ -- 996
-call.type$ -- 302
-change.case$ -- 916
-chr.to.int$ -- 269
-cite$ -- 305
-duplicate$ -- 92157
-empty$ -- 110523
-format.name$ -- 2861
-if$ -- 268638
-int.to.chr$ -- 34
-int.to.str$ -- 303
-missing$ -- 4585
-newline$ -- 1606
-num.names$ -- 608
-pop$ -- 7505
+            2213 strings with 80942 characters,
+and the built_in function-call counts, 863207 in all, are:
+= -- 109212
+> -- 6536
+< -- 51
++ -- 3838
+- -- 1634
+* -- 80014
+:= -- 91067
+add.period$ -- 795
+call.type$ -- 235
+change.case$ -- 715
+chr.to.int$ -- 207
+cite$ -- 238
+duplicate$ -- 68726
+empty$ -- 81716
+format.name$ -- 2148
+if$ -- 198785
+int.to.chr$ -- 29
+int.to.str$ -- 236
+missing$ -- 3492
+newline$ -- 1271
+num.names$ -- 474
+pop$ -- 5746
 preamble$ -- 1
-purify$ -- 906
+purify$ -- 705
 quote$ -- 0
-skip$ -- 6159
+skip$ -- 4724
 stack$ -- 0
-substring$ -- 251006
-swap$ -- 11175
+substring$ -- 184200
+swap$ -- 8512
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1810
+type$ -- 1408
 warning$ -- 3
-while$ -- 4244
+while$ -- 3223
 width$ -- 0
-write$ -- 4132
-(There were 151 error messages)
+write$ -- 3262
+(There were 152 error messages)
