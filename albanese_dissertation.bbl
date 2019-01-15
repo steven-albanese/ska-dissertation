@@ -375,6 +375,15 @@
 \newblock Journal of clinical oncology : official journal of the American
   Society of Clinical Oncology.  2013 May; 31(15):1806--1814.
 
+\bibitem[{Hauser et~al.(2018)Hauser, Kevin and Negron, Christopher and
+  Albanese, Steven K and Ray, Soumya and Steinbrecher, Thomas and Abel, Robert
+  and Chodera, John D and Wang, Lingle}]{Hauser:2018vz}
+\textbf{\color{eLifeMediumGrey} Hauser K}, Negron C, Albanese SK, Ray S,
+  Steinbrecher T, Abel R, Chodera JD, Wang L.
+\newblock {Predicting resistance of clinical Abl mutations to targeted kinase
+  inhibitors using alchemical free-energy calculations}.
+\newblock Communications Biology.  2018 Jun; 1(1):70.
+
 \bibitem[{Durrant and McCammon(2011)Durrant, Jacob D and McCammon, J
   Andrew}]{Durrant:2011bm}
 \textbf{\color{eLifeMediumGrey} Durrant JD}, McCammon JA.
@@ -954,15 +963,6 @@
   4-(Thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile {CDK9} Inhibitors
   Suggest the Basis for Isotype Selectivity.
 \newblock J Med Chem.  2013 Feb; 56(3):660--670.
-
-\bibitem[{Hauser et~al.(2018)Hauser, Kevin and Negron, Christopher and
-  Albanese, Steven K and Ray, Soumya and Steinbrecher, Thomas and Abel, Robert
-  and Chodera, John D and Wang, Lingle}]{Hauser:2018vz}
-\textbf{\color{eLifeMediumGrey} Hauser K}, Negron C, Albanese SK, Ray S,
-  Steinbrecher T, Abel R, Chodera JD, Wang L.
-\newblock {Predicting resistance of clinical Abl mutations to targeted kinase
-  inhibitors using alchemical free-energy calculations}.
-\newblock Communications Biology.  2018 Jun; 1(1):70.
 
 \bibitem[{Kalliokoski et~al.(2013)Kalliokoski, Tuomo and Kramer, Christian and
   Vulpetti, Anna and Gedeck, Peter}]{Kalliokoski:PloSOne:2013}

@@ -7,30 +7,30 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Correlation in force field errors between targets can significantly accelerate selectivity optimization.}}{32}{figure.caption.7}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Reducing statistical uncertainty when force field error correlation is high improves optimization speedups}}{35}{figure.caption.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Relative alchemical free-energy calculations can be used to predict affinity changes of FDA-approved selective kinase inhibitors arising from clinically-identified mutations in their targets of therapy.}}{58}{figure.caption.14}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Cross-comparison of the experimentally measured effects that mutations in Abl kinase have on ligand binding, performed by different labs.}}{65}{figure.caption.16}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison of 31 mutations for which phosphorylated and non-phosphorylated $\Delta K_{d}$s were available.}}{66}{figure.caption.17}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Comparison of experimentally-measured binding free-energy changes ($\Delta \Delta $G) for 131 clinically observed mutations and 6 selective kinase inhibitors for which co-crystal structures of wild-type kinase with inhibitor are available.}}{72}{figure.caption.19}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Figure caption}}{73}{figure.caption.20}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces TKI-by-TKI truth tables with increasingly large classification cutoffs.}}{76}{figure.caption.21}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Physical modeling accuracy in computing the impact of clinical Abl mutations on selective inhibitor binding.}}{79}{figure.caption.22}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Figure caption}}{80}{figure.caption.23}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Predicting resistance mutations using FEP+ for inhibitors for which co-crystal structures with wild-type kinase are not available.}}{85}{figure.caption.24}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Relative alchemical free-energy calculations can be used to predict affinity changes of FDA-approved selective kinase inhibitors arising from clinically-identified mutations in their targets of therapy.}}{57}{figure.caption.18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Cross-comparison of the experimentally measured effects that mutations in Abl kinase have on ligand binding, performed by different labs.}}{64}{figure.caption.20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison of 31 mutations for which phosphorylated and non-phosphorylated $\Delta K_{d}$s were available.}}{65}{figure.caption.21}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Comparison of experimentally-measured binding free-energy changes ($\Delta \Delta $G) for 131 clinically observed mutations and 6 selective kinase inhibitors for which co-crystal structures of wild-type kinase with inhibitor are available.}}{71}{figure.caption.23}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Figure caption}}{72}{figure.caption.24}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces TKI-by-TKI truth tables with increasingly large classification cutoffs.}}{75}{figure.caption.25}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Physical modeling accuracy in computing the impact of clinical Abl mutations on selective inhibitor binding.}}{78}{figure.caption.26}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Figure caption}}{79}{figure.caption.27}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Predicting resistance mutations using FEP+ for inhibitors for which co-crystal structures with wild-type kinase are not available.}}{84}{figure.caption.28}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Abl kinase domain construct expression screen illustrates high sensitivity to construct boundaries.}}{119}{figure.caption.35}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Expression yields of Abl kinase domain constructs for all constructs with detectable expression.}}{120}{figure.caption.36}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Kinome wide search for expressible kinases.}}{123}{figure.caption.37}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Fluorescence-based thermostability assay demonstrates many high-expressing kinases are well-folded.}}{128}{figure.caption.38}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Fluorescence emission spectra as a function of the fluorescent ATP-competitive kinase inhibitor bosutinib demonstrates the presence of a well-formed ATP binding pocket.}}{132}{figure.caption.39}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Expression yields for engineered clinically-derived Src and Abl missense mutants}}{138}{figure.caption.40}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Abl kinase domain construct expression screen illustrates high sensitivity to construct boundaries.}}{118}{figure.caption.39}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Expression yields of Abl kinase domain constructs for all constructs with detectable expression.}}{119}{figure.caption.40}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Kinome wide search for expressible kinases.}}{122}{figure.caption.41}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Fluorescence-based thermostability assay demonstrates many high-expressing kinases are well-folded.}}{127}{figure.caption.42}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Fluorescence emission spectra as a function of the fluorescent ATP-competitive kinase inhibitor bosutinib demonstrates the presence of a well-formed ATP binding pocket.}}{131}{figure.caption.43}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Expression yields for engineered clinically-derived Src and Abl missense mutants}}{137}{figure.caption.44}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations}}{160}{figure.caption.47}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Correlation coefficient $\rho $ controls the shape of the joint marginal distribution of errors}}{161}{figure.caption.48}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Correlation reduces the expected error for selectivity predictions}}{162}{figure.caption.49}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE}}{163}{figure.caption.50}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient}}{164}{figure.caption.51}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE}}{165}{figure.caption.52}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient}}{166}{figure.caption.53}
-\contentsline {figure}{\numberline {A.8}{\ignorespaces The pooled replicates show good agreement in predictions for individual ligands}}{167}{figure.caption.54}
-\contentsline {figure}{\numberline {A.9}{\ignorespaces The standard deviation for each edge is smaller than the estimated cycle closure uncertainties}}{168}{figure.caption.55}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces CDK2 adopts an inactive conformation in the crystal structure used for the CDK2/ERK2 calculations}}{159}{figure.caption.51}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Correlation coefficient $\rho $ controls the shape of the joint marginal distribution of errors}}{160}{figure.caption.52}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Correlation reduces the expected error for selectivity predictions}}{161}{figure.caption.53}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE}}{162}{figure.caption.54}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Each replicate of the CDK2/CDK9 calculations yields consistent errors and correlation coefficient}}{163}{figure.caption.55}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE}}{164}{figure.caption.56}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Each replicate of the CDK2/ERK2 calculations yields consistent errors and correlation coefficient}}{165}{figure.caption.57}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces The pooled replicates show good agreement in predictions for individual ligands}}{166}{figure.caption.58}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces The standard deviation for each edge is smaller than the estimated cycle closure uncertainties}}{167}{figure.caption.59}
