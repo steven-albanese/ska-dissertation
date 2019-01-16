@@ -2,11 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: albanese_dissertation.aux
 The style file: vancouver-elife.bst
-Illegal, another \bibstyle command---line 622 of file albanese_dissertation.aux
+Illegal, another \bibstyle command---line 626 of file albanese_dissertation.aux
  : \bibstyle
  :          {vancouver-elife.bst}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12712 items from 5000.
+Reallocated field_info (elt_size=4) to 12648 items from 5000.
 Database file #1: albanese.bib
 Repeated entry---line 2289 of file albanese.bib
  : @article{Volkamer2016-sj
@@ -212,10 +212,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 8140 of file albanese.bib
  : @article{Pesesky:Front.Microbiol.:2016
  :                                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 8164 of file albanese.bib
- : @article{Abel:Acc.Chem.Res.:2017
- :                                 ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 8181 of file albanese.bib
  : @article{Gruber2006
@@ -601,8 +597,6 @@ Repeated entry---line 13053 of file albanese.bib
  : @article{Mondal:2016ju
  :                       ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Redaelli:2012"
-Warning--I didn't find a database entry for "Press:2009"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 presort is already a type "wizard-defined" function name
 ---line 1851 of file vancouver-elife.bst
@@ -620,43 +614,43 @@ Warning--missing publisher in sgc-kinome
 while executing---line 1953 of file vancouver-elife.bst
 You've used 239 entries,
             3483 wiz_defined-function locations,
-            2234 strings with 81825 characters,
-and the built_in function-call counts, 873745 in all, are:
-= -- 110589
-> -- 6604
+            2232 strings with 81772 characters,
+and the built_in function-call counts, 872176 in all, are:
+= -- 110409
+> -- 6576
 < -- 52
-+ -- 3879
-- -- 1651
-* -- 80927
-:= -- 92157
-add.period$ -- 807
++ -- 3859
+- -- 1644
+* -- 80774
+:= -- 91993
+add.period$ -- 806
 call.type$ -- 239
 change.case$ -- 729
-chr.to.int$ -- 211
+chr.to.int$ -- 213
 cite$ -- 243
-duplicate$ -- 69753
-empty$ -- 82677
-format.name$ -- 2173
-if$ -- 201247
-int.to.chr$ -- 29
+duplicate$ -- 69680
+empty$ -- 82527
+format.name$ -- 2166
+if$ -- 200889
+int.to.chr$ -- 27
 int.to.str$ -- 240
-missing$ -- 3537
-newline$ -- 1291
+missing$ -- 3530
+newline$ -- 1290
 num.names$ -- 482
-pop$ -- 5833
+pop$ -- 5813
 preamble$ -- 1
 purify$ -- 717
 quote$ -- 0
-skip$ -- 4838
+skip$ -- 4836
 stack$ -- 0
-substring$ -- 186163
-swap$ -- 8658
+substring$ -- 185791
+swap$ -- 8641
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1432
 warning$ -- 4
-while$ -- 3263
+while$ -- 3256
 width$ -- 0
-write$ -- 3314
-(There were 153 error messages)
+write$ -- 3312
+(There were 152 error messages)

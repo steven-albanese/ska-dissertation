@@ -573,7 +573,7 @@ MUE = \frac{ \sum_{0}^{n} \mid \Delta \Delta G _\text{calc} - \Delta \Delta G _\
 \end{equation}
 and the root mean squared error (RMSE)
 \begin{equation}\label{eq:sample-rmse}
-RMSE = \sqrt{\frac{ \sum_{0}^{n}\Delta \Delta~G_\text{calc}^2 - \Delta \Delta~G_\text{exp}^2}{n} }
+RMSE = \sqrt{\frac{ \sum_{0}^{n}(\Delta \Delta~G_\text{calc} - \Delta \Delta~G_\text{exp})^2}{n}}
 \end{equation}
 To account for the finite ligand sample size, we used 10 000 replicates of bootstrapping with replacement to estimate  95\% confidence intervals.
 The code used to bootstrap these values is available on GitHub [\url{https://github.com/choderalab/selectivity}].
@@ -698,12 +698,12 @@ The work in this chapter was published in \emph{Communications Biology} as follo
 \realdoublespacing
  
 \medskip
-This work represents a step towards addressing the feasibility of using alchemical free energy calculations to predict the impact of clinical kinase mutations on small molecule binding. Next-generation sequencing has revolutionized our understanding of cancer, and lead to the generation of massive datasets. While these data sets have provided numerous insights into cancer biology, they present the challenge of interpreting and understanding vast amounts of data. While many highly recurrent mutations have been extensively characterized through structural, biochemical and \emph{in vivo} methods, the majority of these mutations are rare, occurring fewer than 10 times~\citep{Hauser:2018vz}. They often occur in the context of genetically complex tumors with many rearrangements and mutations~\citep{Zehir:2017ib}, which makes generating good disease models difficult.  Thus, it is important to develop methods that can describe the impact of individual mutations on properties of interest, such as inhibitor binding, regulatory state, protein stability, and protein conformation. Here, we focus on the use of physical modeling to predict the impact of missense mutations on kinase inhibitor binding. Understanding the impact of these mutations on inhibitor binding is particularly interesting for kinase systems. There are over 43 FDA-approved inhibitors that are currently used to treat patients~\citep{fda-approved-kinase-inhibitors}. While initial responses are typically promising, resistance and disease progression arise in most cases~\citep{knight-shokat:2005:chem-biol:selective-kinase-inhibitors,Pao:2005dp,Pao2004-kx}. Developing effective inhibitors to overcome this resistance has been a the focus of extensive drug development programs, leading to the generation of numerous second- and third-generation inhibitors~\citep{Chuang:2016jw,Tan:2018de,Gainor:2016ep} for a number of different kinase targets. 
+This work represents a step towards addressing the feasibility of using alchemical free energy calculations to predict the impact of clinical kinase mutations on small molecule binding. Next-generation sequencing has revolutionized our understanding of cancer, and lead to the generation of massive datasets. While these data sets have provided numerous insights into cancer biology, they present the challenge of interpreting and understanding vast amounts of data. While many highly recurrent mutations have been extensively characterized through structural, biochemical and \emph{in vivo} methods, the majority of these mutations are rare, occurring fewer than 10 times~\citep{Hauser:2018vz}. They often occur in the context of genetically complex tumors with many rearrangements and mutations~\citep{Zehir:2017ib}, which makes generating good disease models difficult.  Thus, it is important to develop methods that can describe the impact of individual mutations on properties of interest, such as inhibitor binding, regulatory state, protein stability, and protein conformation. Here, we focus on the use of physical modeling to predict the impact of missense mutations on kinase inhibitor binding. Understanding the impact of these mutations on inhibitor binding is particularly interesting for kinase systems. There are over 43 FDA-approved inhibitors that are currently used to treat patients~\citep{fda-approved-kinase-inhibitors}. While initial responses are typically promising, resistance and disease progression arise in most cases~\citep{knight-shokat:2005:chem-biol:selective-kinase-inhibitors,Pao:2005dp,Pao2004-kx}. Developing effective inhibitors to overcome this resistance has been a the focus of extensive drug development programs, leading to the generation of numerous second- and third-generation inhibitors~\citep{Chuang:2016jw,Tan:2018de,Gainor:2016ep} for a many different kinase targets. 
 
-However, this work typically had relied on data from clinical trials, where patients how have stopped responding to treatment are investigated for potential mutations or changes in cell signaling pathways that may give rise to resistance. While this approach has informed a huge number of discoveries, the patients presenting with resistance are often left without good treatment alternatives. This paradigm was flipped in recent work on TRK kinase inhibitors targeting TRK fusion-driven cancers, where the anticipation of missense mutations causing resistance lead to the parallel development of a second-generation TRK inhibitor~\citep{Drilon:2017gb}. In doing so, patients that presented with resistance in the early clinical trials were immediately shuffled on to the next clinical trial for the second generation of inhibitor. One of the key challenges in this study was identifying potential missense mutations for targeting with next generation inhibitors. Physical modeling has the potential aid the design of new inhibitors in this paradigm by predicting ~\emph{de novo} missense resistance mutations, as well as the impact of rare but already observed mutations that have yet to be studied. Further, reliable predictions of the impact on inhibitor binding could eventually aid in the selection of existing inhibitors to treat a patient with a novel mutation, especially as the pharmacopeia available grows over time. 
+However, this work has typically relied on data from clinical trials, where patients how have stopped responding to treatment are investigated for potential mutations or changes in cell signaling pathways that may give rise to resistance. While this approach informs a huge number of discoveries, the patients presenting with resistance are often left without good treatment alternatives. This paradigm was flipped in recent work on TRK kinase inhibitors targeting TRK fusion-driven cancers, where the anticipation of missense mutations causing resistance lead to the parallel development of a second-generation TRK inhibitor~\citep{Drilon:2017gb}. In doing so, patients that presented with resistance in the early clinical trials were immediately shuffled on to the next clinical trial for the second generation of inhibitor. One of the key challenges in this study was identifying potential missense mutations for targeting with next generation inhibitors. Physical modeling has the potential aid the design of new inhibitors in this paradigm by predicting ~\emph{de novo} missense resistance mutations, as well as the impact of rare but already observed mutations that have yet to be studied. Further, reliable predictions of the impact on inhibitor binding could eventually aid in the selection of existing inhibitors to treat a patient with a novel mutation, especially as the pharmacopeia available grows over time. 
 
 The work in this chapter represents a step towards addressing the feasibility of using alchemical free energy calculations to predict the impact of clinical kinase mutations on small molecule binding. This field had previously been understudied and \emph{much} work remains to be done before these methodologies can impact the clinic and the way clinicians make decisions directly. Previous work focused on understanding the mechanism of a small number of kinase gatekeeper mutations~\citep{Mondal:2016ju}, which does not provide a large enough data set to draw rigorous conclusions about the broad accuracy and applicability of free energy calculations for predicting the impact of mutations on inhibitor binding. After the publication of the work in this chapter, Aldeghi \emph{et al.,} published a broad study assessing non-equilibrium free energy methods across 17 different proteins and 27 ligands~\citep{Aldeghi:2018fz}. 
-This protocol~\citep{Aldeghi:2018ej} achieved similar levels of accuracy to the work presented here, but did not include any kinase systems. While the paper looked at a large number of compounds, the number of mutants for each target was relatively limited. In a 2018 publication after this work, Bhati~\emph{et al.} apply alchemical free energy calculations to a fibroblast growth factor receptor 3 (FGFR3) gatekeeper mutations~\citep{Bhati:2018dl}. There results are similarly promising for predicting changes in free energy of binding and capturing some conformational changes, but are found to be sensitive to initial structure selection. 
+This protocol~\citep{Aldeghi:2018ej} achieved similar levels of accuracy to the work presented here, but did not include any kinase systems. While the paper looked at a large number of compounds, the number of mutants for each target was relatively limited. In a 2018 publication after this work, Bhati~\emph{et al.} apply alchemical free energy calculations to a fibroblast growth factor receptor 3 (FGFR3) gatekeeper mutations~\citep{Bhati:2018dl}. These results are similarly promising for predicting changes in free energy of binding and capturing some conformational changes, but are found to be sensitive to initial structure selection. 
 
 Here we present a large set of clinical mutations and binding affinity data for many FDA-approved kinase inhibitors, forming a valuable benchmark set for future work on new methodologies seeking to improve accuracy or efficiency. This work was a collaborative effort that I was able to contribute to in a number of ways. I identified sources of experimental affinity data and helped do background and quality control searches on the mutations to ensure that they were sourced from the clinic. I contributed to the preparation of the systems used in the calculations, and helped analyze the data, particularly looking at outliers resulting from the free energy calculations. I took part in writing the first draft of the paper as well as subsequent editing efforts. 
 
@@ -783,7 +783,7 @@ The results of this benchmark demonstrate the potential for FEP+ to predict the 
 
 \section{Results}
 \subsection{A benchmark of $\Delta$pIC$_{50}$s for predicting mutational resistance} 
-To construct a benchmark evaluation dataset, we compiled a total of 144  $\Delta$pIC$_{50}$ measurements of Abl:TKI affinities, summarized in \TABLE{table-1}, taking care to ensure all measurements for an individual TKI were reported in the same study from experiments run under identical conditions.
+To construct a benchmark evaluation dataset, we compiled a total of 144  $\Delta$pIC$_{50}$ measurements of Abl:TKI affinities, summarized in Table ~\ref{tab:abl-table-1}, taking care to ensure all measurements for an individual TKI were reported in the same study from experiments run under identical conditions.
 131 $\Delta$pIC$_{50}$ measurements were available across the six TKIs with available co-crystal structures with wild-type Abl---26 for axitinib and 21 for bosutinib, dasatinib, imatinib, nilotinib, and ponatinib.
 13 $\Delta$pIC$_{50}$ measurements were available for the two TKIs for which docking was necessary to generate Abl:TKI structures---7 for erlotinib and 6 for gefitinib. 
 For added diversity, this set includes TKIs for which Abl is not the primary target---axitinib, erlotinib, and gefitinib.
@@ -792,6 +792,7 @@ Kettering-Integrated Mutation Profiling of Actionable Cancer Targets (MSK-IMPACT
 
 \begin{landscape}
 \begin{table}[bt]
+	\centering
 	\caption[ Public $\Delta$pIC$_{50}$ datasets for 144 Abl kinase mutations and eight tyrosine kinase inhibitors (TKIs) with corresponding wild-type co-crystal structures used in this study]{
 		\label{tab:abl-table-1}
 		{\bf Public $\Delta$pIC$_{50}$ datasets for 144 Abl kinase mutations and eight tyrosine kinase inhibitors (TKIs) with corresponding wild-type co-crystal structures used in this study}
@@ -866,10 +867,10 @@ In comparing 31 mutations for which phosphorylated and non-phosphorylated $\Delt
 	\end{figure}
 \end{landscape}
 
-\paragraph{Most mutations do not significantly reduce TKI potency}
+\subsection{Most mutations do not significantly reduce TKI potency}
 The majority of mutations do not lead to resistance by our 10-fold affinity loss threshold: 86.3\% of the co-crystal set (n=113) and 86.8\% of the total set (n=125).
 Resistance mutations, which are likely to result in a failure of therapy, constitute 13.7\% of the co-crystal set (n=18) and 13.2\% of the total set of mutations (n=19).
-The $\Delta$pIC$_{50}$s for all 144 mutations are summarized in Table \ref{abl-table-si-1}. % in the Supplementary Information.
+The $\Delta$pIC$_{50}$s for all 144 mutations are summarized in Table \ref{tab:abl-table-si-1}. % in the Supplementary Information.
 Two mutations exceeded the dynamic range of the assays (IC$_{50}$ $>$10,000 nM); as these two mutations clearly raise resistance, we excluded them from quantitative analysis (RMSE and MUE) but included them in truth table analyses and classification metrics (accuracy, specificity, sensitivity).
 
 \begin{landscape}
@@ -878,16 +879,16 @@ Two mutations exceeded the dynamic range of the assays (IC$_{50}$ $>$10,000 nM);
 	\begin{TableNotes}
 		\footnotesize
 		\item{A}: Gruber et al. (\cite{Gruber:Med.Oncol.:2012}), % \\
-		\item{B}: Redaelli et al. (\cite{Redaelli:2012}), % \\
+		\item{B}: Redaelli et al. (\cite{Redaelli:2012ci}), % \\
 		\item{C}: Cortes et al. (\cite{Cortes:N.Engl.J.Med.:2012}), % \\
 		\item{D}: Branford et al. (\cite{Branford:Blood:2002}), % \\
-		\item{E}: Press et al. (\cite{Press:2009}), % \\
+		\item{E}: Press et al. (\cite{Press:2009jn}), % \\
 		\item{F}: Shah et al. (\cite{Shah:CancerCell:2002}), %\\
 		\item{G}: F317C observed with $\Delta$27-183, % \\
-		\item{H}: M343T observed as compound mutation with H396R, % \\
-		\item{I}: L384M observed as compound mutation with M343T, % \\
-		\item{J}: H396R observed as compound mutation with F486S, % \\
-		\item{K}: F486S observed as compound mutation with H396R 
+		\item{$^H$}: M343T observed as compound mutation with H396R, % \\
+		\item{$^I$}: L384M observed as compound mutation with M343T, % \\
+		\item{$^J$}: H396R observed as compound mutation with F486S, % \\
+		\item{$^K$}: F486S observed as compound mutation with H396R 
 	\end{TableNotes}
 \begin{longtable}[c]{llllllllll}
 	\caption[ $\Delta \Delta$G data derived from publicly available $\Delta$pIC$_{50}$ measurements and sources of mutation clinical-observation]{
@@ -980,7 +981,7 @@ Notably, alchemical free energy calculations come substantially closer than MMGB
 			\emph{Top panel:} Abl:TKI co-crystal structures used in this study with locations of clinical mutants for each inhibitor highlighted (colored from blue to red for residues nearest to farthest from ligand) in relation to TKI (green sticks) on the corresponding Abl:TKI wild-type crystal structure.
 			\emph{Middle panel:} Scatter plots show Prime and FEP+ computed $\Delta \Delta $G compared to experiment, with ellipse widths and heights ($\pm\sigma$) for experiment and FEP+ respectively.
 			The red diagonal line indicates when prediction equals experiment, while the yellow shaded region indicates area in which predicted $\Delta \Delta$G is within 1.36 kcal mol$^{-1}$ of experiment (corresponding to a ten-fold error in predicted affinity change).
-			$\Delta \Delta$G < 0 kcal mol$^{-1}$ denotes the mutation increases the susceptibility of the kinase to the inhibitor, while $\Delta \Delta$G > 0 kcal mol$^{-1}$ denotes the mutation increases the resistance of the kinase to the inhibitor.
+			$\Delta \Delta$G \textless~0 kcal mol$^{-1}$ denotes the mutation increases the susceptibility of the kinase to the inhibitor, while $\Delta \Delta$G \textgreater~0 kcal mol$^{-1}$ denotes the mutation increases the resistance of the kinase to the inhibitor.
 			The two mutations that were beyond the concentration limit of the assay (T315I/dasatinib, L248R/imatinib) were not plotted; 129 points were plotted.
 			Truth tables of classification accuracy, sensitivity and specificity using two-classes. 
 			\emph{Bottom panel:} Truth tables and classification results include T315I/dasatinib and L248R/imatinib; 131 points were used.
@@ -1010,9 +1011,9 @@ For FEP+, the sensitivity was 0.50$^{0.74}_{0.29}$ while the specificity was 0.9
 There is a very high probability that FEP+ will correctly predict that one of the eight TKIs studied here will remain effective for a patient bearing a susceptible mutation. 
 
 \subsection{How reliant are classification results on choice of cutoff?}
-Previous work by O'Hare et al. utilized TKI-specific thresholds for dasatinib, imatinib, and nilotinib~\citep{OHare:Clin.CancerRes.:2005}, which were $\sim$2 kcal mol$^{-1}$. Figure \ref{fig:figure-si-2} shows that when our classification threshold was increased to a 20-fold change in binding (1.77 kcal mol$^{-1}$), FEP+ correctly classified 8 of the 13 resistant mutations and with a threshold of 100-fold change in binding (2.72 kcal mol$^{-1}$), FEP+ correctly classified the only two resistant mutations (T315I/dasatinib and T315I/nilotinib).
+Previous work by O'Hare et al. utilized TKI-specific thresholds for dasatinib, imatinib, and nilotinib~\citep{OHare:Clin.CancerRes.:2005}, which were $\sim$2 kcal mol$^{-1}$. Figure \ref{fig:abl-figure-si-2} shows that when our classification threshold was increased to a 20-fold change in binding (1.77 kcal mol$^{-1}$), FEP+ correctly classified 8 of the 13 resistant mutations and with a threshold of 100-fold change in binding (2.72 kcal mol$^{-1}$), FEP+ correctly classified the only two resistant mutations (T315I/dasatinib and T315I/nilotinib).
 With the extant multilayered and multinodal decision-making algorithms used by experienced oncologists to manage their patients' treatment, or by medicinal chemists to propose candidate compounds for clinical trials, the resistant or susceptible cutoffs could be selected with more nuance than the simple 10-fold affinity threshold we consider here.
-With a larger affinity change cutoff, for example, the accuracy with which physical models predict resistance mutations increases beyond 90\% (Figure \ref{fig:figure-si-2}).
+With a larger affinity change cutoff, for example, the accuracy with which physical models predict resistance mutations increases beyond 90\% (Figure \ref{fig:abl-figure-si-2}).
 For the alchemical approach, the two-class accuracy was $0.92^{0.96}_{0.87}$ when an affinity change cutoff of 20-fold was used while using an affinity change cutoff of 100-fold further improved the two-class accuracy to $0.98^{1.00}_{0.96}$.
 
 \begin{landscape}
@@ -1022,7 +1023,7 @@ For the alchemical approach, the two-class accuracy was $0.92^{0.96}_{0.87}$ whe
 		\caption[TKI-by-TKI truth tables with increasingly large classification cutoffs.]{
 			{\bf TKI-by-TKI truth tables with increasingly large classification cutoffs.}
 			Truth tables for the six TKIs (axitinib, bosutinib, dasatinib, imatinib, nilotinib, and ponatinib) using Prime (left, green) and FEP+ (right, blue) with classification cutoff values defining whether mutations are susceptible (S, experiment; s, prediction) or resistant (R, experiment; r, prediction). 
-			A mutation is susceptible if $\Delta\Delta$G $\le$ \textbf{cutoff} or resistant if $\Delta\Delta$G > \textbf{cutoff}.
+			A mutation is susceptible if $\Delta\Delta$G $\le$ \textbf{cutoff} or resistant if $\Delta\Delta$G \textgreater~\textbf{cutoff}.
 		}
 		\label{fig:abl-figure-si-2}
 	\end{figure}
@@ -1076,8 +1077,8 @@ This is reflected in the MUE and RMSE of $0.87^{1.16}_{0.62}$ kcal mol$^{-1}$ an
 			Ligand interaction diagrams for six selective FDA-approved tyrosine kinase inhibitors (TKIs) for which co-crystal structures with Abl were available (left). Comparisons for clinically-observed mutations are shown for FEP+ (right) and Prime (left).
 			For each ligand, computed \emph{vs.} experimental binding free energies ($\Delta \Delta$G) are plotted with MUE and RMSE (units of kcal mol$^{-1}$) depicted below.
 			Truth tables are shown to the right.
-			Rows denote \emph{true} susceptible (S, $\Delta \Delta$G $\leq$ 1.36 kcal mol$^{-1}$) or resistant (R, $\Delta \Delta$G > kcal mol$^{-1}$) experimental classes using a 1.36 kcal mol$^{-1}$ (10-fold change) threshold;
-			columns denote \emph{predicted} susceptible (s, $\Delta \Delta$G $\leq$ kcal mol$^{-1}$) or resistant (r, $\Delta \Delta$G > kcal mol$^{-1}$).
+			Rows denote \emph{true} susceptible (S, $\Delta \Delta$G $\leq$ 1.36 kcal mol$^{-1}$) or resistant (R, $\Delta \Delta$G \textgreater kcal mol$^{-1}$) experimental classes using a 1.36 kcal mol$^{-1}$ (10-fold change) threshold;
+			columns denote \emph{predicted} susceptible (s, $\Delta \Delta$G $\leq$ kcal mol$^{-1}$) or resistant (r, $\Delta \Delta$G \textgreater kcal mol$^{-1}$).
 			Correct predictions populate diagonal elements (orange text), incorrect predictions populate off-diagonals.
 			Accuracy, specificity, and sensitivity for two-class classification are shown below the truth table.
 			Elliptical point sizes and error bars in the scatter plots depict estimated uncertainty/variability and error respectively ($\pm\sigma$) of FEP+ values (vertical size) and experimental values (horizontal size).
@@ -1201,7 +1202,7 @@ ROC-AUC for FEP+ was $0.75_{0.61}^{0.90}$ (n=144); ROC-AUC for Prime was $0.66_{
 	{xtals}: All mutations for which co-crystal structures were available;
 	{Glide}: erlotinib and gefitinib\\
 	Accuracy, specificity, and sensitivity were computed to assess two-class prediction performance:\\
-	\emph{resistant} ($\Delta \Delta$G > 1.36 kcal mol$^{-1}$) or \emph{susceptible} ($\Delta \Delta$G $\le$ 1.36 kcal mol$^{-1}$).\\
+	\emph{resistant} ($\Delta \Delta$G \textgreater 1.36 kcal mol$^{-1}$) or \emph{susceptible} ($\Delta \Delta$G $\le$ 1.36 kcal mol$^{-1}$).\\
 	95\% CIs (sub-/superscripts) were estimated from 1000 bootstrap replicates.
 	Note: The sensitivity for axitinib and ponatinib is NA, because there is no resistant mutation for these two drugs.
 \end{table}
@@ -1381,13 +1382,13 @@ Triplicate simulations were performed in parallel using four NIVIDA Pascal Archi
 
 \subsection{Obtaining $\Delta\Delta$G from $\Delta$pIC$_{50}$ benchmark set data}
 Reference relative free energies were obtained from three publicly available sources of $\Delta$pIC$_{50}$ data (Table~\ref{tab:abl-table-1}).
-Under the assumption of Michaelis-Menten binding kinetics (pseudo first-order, but relative free energies are likely consistent), the inhibitor is competitive with ATP (\EQ{ic50}). 
+Under the assumption of Michaelis-Menten binding kinetics (pseudo first-order, but relative free energies are likely consistent), the inhibitor is competitive with ATP (Equation~\ref{eq:ic50}). 
 This assumption has been successfully used to estimate relative free energies~\citep{Price:Bioorg.Med.Chem.Lett.:2000,Luccarelli:J.Chem.TheoryComput.:2010,Michel:J.Med.Chem.:2006,mondal2016} using the relationship between IC$_{50}$ and competitive inhibitor affinity $K_{i}$,
 \begin{equation}
 \label{eq:ic50}
 \mathrm{IC}_{50} = \frac{ K_{i} }{ 1 + \frac{[S_{0}]}{K_{M}} } .
 \end{equation}
-If the Michaelis constant for ATP ($K_{M}$) is much larger than the initial ATP concentration $S_{0}$, the relation in \EQ{ic50} will tend towards the equality IC$_{50}$ = $K_{i}$. The relative change in binding free energy of Abl:TKI binding due to protein mutation is simply,
+If the Michaelis constant for ATP ($K_{M}$) is much larger than the initial ATP concentration $S_{0}$, the relation in Equation~\ref{eq:ic50} will tend towards the equality IC$_{50}$ = $K_{i}$. The relative change in binding free energy of Abl:TKI binding due to protein mutation is simply,
 \begin{eqnarray}
 \Delta\Delta G = - RT \ln \frac{\mathrm{IC}_{50,WT}}{\mathrm{IC}_{50,mut}} \label{eq:ddg}
 \end{eqnarray}
