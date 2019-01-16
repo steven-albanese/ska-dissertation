@@ -6,8 +6,8 @@
 \contentsline {section}{Acknowledgements}{vii}{chapter*.1}
 \gobblefive 
 \contentsline {section}{Table of Contents}{x}{chapter*.2}
-\contentsline {section}{List of Tables}{xiv}{chapter*.2}
-\contentsline {section}{List of Figures}{xv}{chapter*.2}
+\contentsline {section}{List of Tables}{xiii}{chapter*.2}
+\contentsline {section}{List of Figures}{xiv}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Perspective}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Synopsis}{5}{section.1.2}
@@ -67,32 +67,32 @@
 \contentsline {subsection}{\numberline {3.4.7}How transferable is FEP+ across the six TKIs?}{77}{subsection.3.4.7}
 \contentsline {subsection}{\numberline {3.4.8}Understanding the origin of mispredictions}{80}{subsection.3.4.8}
 \contentsline {subsection}{\numberline {3.4.9}How strongly is accuracy affected for docked TKIs?}{81}{subsection.3.4.9}
-\contentsline {section}{\numberline {3.5}Discussion}{85}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}{85}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Hierarchical Bayesian model estimates global performance}{88}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}{89}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}Other physical mechanisms of resistance are likely similarly computable.}{90}{subsection.3.5.4}
-\contentsline {section}{\numberline {3.6}Conclusion}{90}{section.3.6}
-\contentsline {section}{\numberline {3.7}Methods}{92}{section.3.7}
-\contentsline {subsection}{\numberline {3.7.1}System preparation}{92}{subsection.3.7.1}
-\contentsline {subsubsection}{Complexes with co-crystal structures.}{92}{section*.29}
-\contentsline {subsubsection}{Complexes without co-crystal structures.}{96}{section*.31}
-\contentsline {subsection}{\numberline {3.7.2}Force field parameter assignment}{97}{subsection.3.7.2}
-\contentsline {subsection}{\numberline {3.7.3}Prime (MM-GBSA)}{97}{subsection.3.7.3}
-\contentsline {subsection}{\numberline {3.7.4}Alchemical free energy perturbation calculations using FEP+}{98}{subsection.3.7.4}
-\contentsline {subsection}{\numberline {3.7.5}Obtaining $\Delta \Delta $G from $\Delta $pIC$_{50}$ benchmark set data}{100}{subsection.3.7.5}
-\contentsline {subsection}{\numberline {3.7.6}Assessing prediction performance}{102}{subsection.3.7.6}
-\contentsline {subsubsection}{Quantitative accuracy metrics}{102}{section*.32}
-\contentsline {subsubsection}{Truth tables}{102}{section*.33}
-\contentsline {subsubsection}{Consensus model}{103}{section*.34}
-\contentsline {subsubsection}{ROC}{103}{section*.35}
-\contentsline {subsubsection}{Estimating uncertainties of physical-modeling results}{103}{section*.36}
-\contentsline {subsubsection}{Bayesian hierarchical model to estimate intrinsic error}{104}{section*.37}
-\contentsline {subsection}{\numberline {3.7.7}Data availability}{106}{subsection.3.7.7}
-\contentsline {subsection}{\numberline {3.7.8}Code availability}{106}{subsection.3.7.8}
-\contentsline {section}{\numberline {3.8}Acknowledgments}{106}{section.3.8}
-\contentsline {section}{\numberline {3.9}Author Contributions}{107}{section.3.9}
-\contentsline {section}{\numberline {3.10}Competing Interests}{107}{section.3.10}
+\contentsline {section}{\numberline {3.5}Discussion and Conclusions}{85}{section.3.5}
+\contentsline {paragraph}{Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}{85}{section*.28}
+\contentsline {paragraph}{Hierarchical Bayesian model estimates global performance}{88}{section*.30}
+\contentsline {paragraph}{Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}{89}{section*.31}
+\contentsline {paragraph}{Other physical mechanisms of resistance are likely similarly computable.}{90}{section*.32}
+\contentsline {paragraph}{Conclusion}{90}{section*.33}
+\contentsline {section}{\numberline {3.6}Methods}{92}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}System preparation}{92}{subsection.3.6.1}
+\contentsline {subsubsection}{Complexes with co-crystal structures.}{92}{section*.34}
+\contentsline {subsubsection}{Complexes without co-crystal structures.}{96}{section*.36}
+\contentsline {subsection}{\numberline {3.6.2}Force field parameter assignment}{97}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Prime (MM-GBSA)}{97}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Alchemical free energy perturbation calculations using FEP+}{98}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Obtaining $\Delta \Delta $G from $\Delta $pIC$_{50}$ benchmark set data}{100}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Assessing prediction performance}{102}{subsection.3.6.6}
+\contentsline {subsubsection}{Quantitative accuracy metrics}{102}{section*.37}
+\contentsline {subsubsection}{Truth tables}{102}{section*.38}
+\contentsline {subsubsection}{Consensus model}{103}{section*.39}
+\contentsline {subsubsection}{ROC}{103}{section*.40}
+\contentsline {subsubsection}{Estimating uncertainties of physical-modeling results}{103}{section*.41}
+\contentsline {subsubsection}{Bayesian hierarchical model to estimate intrinsic error}{104}{section*.42}
+\contentsline {subsection}{\numberline {3.6.7}Data availability}{106}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Code availability}{106}{subsection.3.6.8}
+\contentsline {section}{\numberline {3.7}Acknowledgments}{106}{section.3.7}
+\contentsline {section}{\numberline {3.8}Author Contributions}{107}{section.3.8}
+\contentsline {section}{\numberline {3.9}Competing Interests}{107}{section.3.9}
 \contentsline {chapter}{\numberline {4}Enabling high-throughput biophysical experiments on clinically-observed mutations}{108}{chapter.4}
 \contentsline {section}{\numberline {4.1}Gloss}{108}{section.4.1}
 \contentsline {section}{\numberline {4.2}Abstract}{111}{section.4.2}
@@ -104,22 +104,22 @@
 \contentsline {subsection}{\numberline {4.4.4}Fluorescence-based thermostability assay}{128}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}ATP-competitive inhibitor binding fluorescence assay}{129}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Expressing clinically-derived Src and Abl mutants}{132}{subsection.4.4.6}
-\contentsline {section}{\numberline {4.5}Methods}{138}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Semi-automated selection of kinase construct sequences for \emph {E.\nobreakspace {}coli} expression}{138}{subsection.4.5.1}
-\contentsline {subsubsection}{Selection of human protein kinase domain targets}{138}{section*.44}
-\contentsline {subsubsection}{Matching target sequences with relevant PDB constructs}{138}{section*.45}
-\contentsline {subsubsection}{Plasmid libraries}{140}{section*.46}
-\contentsline {subsubsection}{Selection of sequence constructs for expression}{141}{section*.47}
-\contentsline {subsubsection}{Automation of the construct selection process}{142}{section*.48}
-\contentsline {subsection}{\numberline {4.5.2}Mutagenesis protocol}{142}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Expression testing}{143}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {4.5.4}Fluorescence-based thermostability assay}{144}{subsection.4.5.4}
-\contentsline {subsection}{\numberline {4.5.5}ATP-competitive inhibitor binding fluorescence assay}{146}{subsection.4.5.5}
-\contentsline {subsection}{\numberline {4.5.6}Large Scale expression and purification protocol for MK14}{149}{subsection.4.5.6}
-\contentsline {section}{\numberline {4.6}Discussion}{150}{section.4.6}
+\contentsline {section}{\numberline {4.5}Discussion}{138}{section.4.5}
+\contentsline {section}{\numberline {4.6}Methods}{140}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Semi-automated selection of kinase construct sequences for \emph {E.\nobreakspace {}coli} expression}{140}{subsection.4.6.1}
+\contentsline {subsubsection}{Selection of human protein kinase domain targets}{140}{section*.49}
+\contentsline {subsubsection}{Matching target sequences with relevant PDB constructs}{141}{section*.50}
+\contentsline {subsubsection}{Plasmid libraries}{142}{section*.51}
+\contentsline {subsubsection}{Selection of sequence constructs for expression}{143}{section*.52}
+\contentsline {subsubsection}{Automation of the construct selection process}{144}{section*.53}
+\contentsline {subsection}{\numberline {4.6.2}Mutagenesis protocol}{144}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Expression testing}{145}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Fluorescence-based thermostability assay}{146}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}ATP-competitive inhibitor binding fluorescence assay}{148}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}Large Scale expression and purification protocol for MK14}{151}{subsection.4.6.6}
 \contentsline {section}{\numberline {4.7}Author Contributions}{152}{section.4.7}
 \contentsline {section}{\numberline {4.8}Acknowledgments}{153}{section.4.8}
 \contentsline {chapter}{\numberline {5}Conclusion}{154}{chapter.5}
-\contentsline {chapter}{Appendices}{157}{section*.49}
+\contentsline {chapter}{Appendices}{157}{section*.54}
 \contentsline {chapter}{\numberline {A}Supplemental Figures from Chapter 2}{158}{Appendix.1.A}
-\contentsline {chapter}{Bibliography}{169}{table.caption.59}
+\contentsline {chapter}{Bibliography}{169}{table.caption.64}

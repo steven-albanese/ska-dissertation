@@ -1141,9 +1141,10 @@ Therefore, the one misclassification by FEP+ in Figure~\ref{fig:abl-figure5} is 
 	\end{figure}
 \end{landscape}
 
-\section{Discussion}
+\section{Discussion and Conclusions}
 
-\subsection{Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}
+\paragraph{Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}
+
 The results presented in this work are summarized in Table~\ref{tab:abl-table-2}.
 The performance metrics summarized in Table~\ref{tab:abl-table-2} indicates that the set of 131 mutations for the six TKIs in which co-crystal structures were available is on par with the complete set (144 mutations), which included results based on Abl:TKI complexes generated from docking models.
 The performance results for the 13 mutations for the two TKIs (erlotinib and gefitinib) in which co-crystal structures were unavailable exhibited good quantitative accuracy (MUE and RMSE) and good classification power.    
@@ -1208,7 +1209,7 @@ ROC-AUC for FEP+ was $0.75_{0.61}^{0.90}$ (n=144); ROC-AUC for Prime was $0.66_{
 \end{table}
 \end{landscape}
 
-\subsection{Hierarchical Bayesian model estimates global performance}
+\paragraph{Hierarchical Bayesian model estimates global performance}
 A hierarchical Bayesian approach was developed to estimate the intrinsic accuracy of the models when the noise in the experimental and predicted values of $\Delta\Delta$G was accounted for.
 Utilizing this approach, the MUE and RMSE for Prime was found to be $1.39^{1.58}_{1.23}$ kcal mol$^{-1}$ and $1.75^{1.98}_{1.55}$ kcal mol$^{-1}$ (N=142) respectively.
 The accuracy, specificity, and sensitivity of Prime was found using this method to be $0.74^{0.76}_{0.71}$, $0.75^{0.77}_{0.73}$, and $0.59^{0.78}_{0.40}$ (N=144) respectively.
@@ -1223,7 +1224,7 @@ While the currently employed methodology for alchemical transformations involvin
 Kinases and their inhibitors are known to possess multiple titratable sites with either intrinsic or effective p$K_{a}$s near physiological pH, while the simulations here treat protonation states and proton tautomers fixed throughout the bound and unbound states; the accuracy of the model can be further improved with the protonation states or tautomers shift  upon binding or mutation considered~\citep{Onufriev:Q.Rev.Biophys.:2013,Martin:2009:JournalofComputer-AidedMolecularDesign}.
 Similarly, some systems display significant salt concentration dependence~\citep{Jensen:Curr.Pharm.Biotechnol.:2008a}, while the simulations for some systems reported here did not rigorously mimic all aspects of the experimental conditions of the cell viability assays.
 
-\subsection{Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}
+\paragraph{Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}
 While we have shown that predicting the direct impact of mutations on the binding affinity of ATP-competitive tyrosine kinase inhibitors for a single kinase conformation has useful predictive capacity, many additional physical effects that can contribute to cell viability are not currently captured by examining only the predicted change in inhibitor binding affinity.
 For example, kinase missense mutations can also shift the populations of kinase conformations (which may affect ATP and inhibitor affinities differentially), modulate ATP affinity, modulate affinity for protein substrate, or modulate the ability of the kinase to be regulated or 
 bounded by scaffolding proteins. 
@@ -1232,7 +1233,7 @@ While many of these effects are in principle tractable by physical modeling in g
 it is valuable to examine our mispredictions and outliers to identify whether any of these cases are likely to induce resistance (as observed by $\Delta$pIC$_{50}$ shifts) by one of these alternative mechanisms.
 
 
-\subsection{Other physical mechanisms of resistance are likely similarly computable.}
+\paragraph{Other physical mechanisms of resistance are likely similarly computable.}
 A simple threshold of 10-fold TKI affinity change is a crude metric for classifying resistance or susceptibility due to the myriad biological factors that contribute to the efficacy of a drug in a person. 
 Except for affecting the binding affinity of inhibitors, missense mutations can also cause drug resistance through other physical mechanisms including induction of splice variants or alleviation of feedback.
 While the current study only focused on the effect of mutation on drug binding affinity, resistance from these other physical mechanisms could be similarly computed using physical modeling.
@@ -1246,7 +1247,7 @@ For example, some mutations are known to activate the kinase by increasing affin
 %
 %
 %TC:break Conclusion
-\section{Conclusion}
+\paragraph{Conclusion}
 Revolutionary changes in computing power---especially the arrival of inexpensive graphics processors (GPUs)---and software automation have enabled alchemical free-energy calculations to impact drug discovery and life sciences projects in previously unforeseen ways.
 In this communication, we tested the hypothesis that FEP+, a fully-automated relative-alchemical free-energy workflow,     
 had reached the point where it can accurately and reliably predict how clinically-observed mutations in Abl kinase alter the binding affinity of eight FDA-approved TKIs.
@@ -1532,9 +1533,9 @@ The work in this chapter was submitted to \emph{Biochemistry} and appeared as:
 \realdoublespacing 
 \medskip 
 
-A common roadblock in testing computational methodologies to predict resistance and selectivity is the relative scarcity of high-quality, publicly available, and quantitative experimental data for the same compounds measured against multiples kinases or multiple forms of the kinase. Further, what data is available is often reported without reliable uncertainty estimates. Studies of internal and public databases have provided estimates of uncertainties for IC50~\citep{BROWN2009420,Kalliokoski:PloSOne:2013} and $K_i$~\citep{Kramer:J.Med.Chem.:2012}, as well as the pitfalls that come from combining heterogeneous datasets. Even for kinases, many of which are extensively studied and are the subjects of many drug development programs, quantitative data is scarce and difficult to access publicly. Highlighting this problem uniquely in the previous chapter, the RMSE of FEP+ for predicting the impact of mutations was roughly equal to the RMSE of $K_d$ and IC50 measurements for the same ligand and mutant kinase pairs. 
+A common roadblock in testing computational methodologies to predict resistance and selectivity is the relative scarcity of high-quality, publicly available, and quantitative experimental data for the same compounds measured against multiples kinases or multiple forms of the kinase. Further, what data is available is often reported without reliable uncertainty estimates. Studies of internal and public databases have provided estimates of uncertainties for IC50~\citep{BROWN2009420,Kalliokoski:PloSOne:2013} and $K_i$~\citep{Kramer:J.Med.Chem.:2012}, as well as the pitfalls that come from combining heterogeneous datasets. Even for kinases, many of which are extensively studied and are the subjects of many drug development programs, quantitative data is scarce and difficult to access publicly. The previous chapter uniquely highlighted this problem: the RMSE of FEP+ for predicting the impact of mutations was roughly equal to the RMSE of $K_d$ and IC50 measurements for the same ligand and mutant kinase pairs. 
 
-Rather than manually intensive gathering of unreliable public data, an idealized pipeline for experiments benchmarking computational methods for their ability to predict selectivity or the impact of mutations would be: express the wildtype or clinical mutant kinases of interest, measure the affinities using a minimally perturbative method that allows for the estimation of a $\Delta Delta G_{binding}$ with well-characterized uncertainty and then benchmark the computational calculations or methodologies. In the future, one can envision a scenario in which a novel mutation is mapped onto all relevant structures and computationally tested for the mutations impact on all available FDA-approved treatments. Any promising calculations can be confirmed by rapidly expressing the mutant and performing the biophysical experiments in a high-throughput manner, with a consistent protocol to enable comparisons between different mutations and ligands. Engineering this type of pipeline in either direction requires a number of components. First, we need to be able to identify clinical mutations, through an assay such as the MSK-IMPACT panel~\citep{Zehir:2017ib}. Then, we need ways to automate the building and running of alchemical free energy calculations for all combinations of structural conformations and inhibitors of interest. Finally, we need ways to rapidly engineer and express the mutants to validate the computational experiments with biophysical measurements. In this chapter, we present work moving towards enabling the high-throughput expression of kinases and their clinical mutants using a one-size fits all, automated protocol. We also present two high-throughput biophysical measurements that are used to validate the quality of the expressed protein, but can be extended to test computational predictions in a high-throughput manner in future work. Finally, the resulting wild type kinase plasmids from this work have been made available on Addgene, which we hope will provide a useful resource to the community for kinase oriented biophysical studies. 
+Rather than manually intensive gathering of unreliable public data, an idealized pipeline for experiments benchmarking computational methods for their ability to predict selectivity or the impact of mutations would be: express the wildtype or clinical mutant kinases of interest, measure the affinities using a minimally perturbative method that allows for the estimation of a $\Delta \Delta G_{\text{binding}}$ with well-characterized uncertainty and then benchmark the computational calculations or methodologies. In the future, one can envision a scenario in which a novel mutation is mapped onto all relevant structures and computationally tested for the mutations impact on all available FDA-approved treatments. Any promising calculations can be confirmed by rapidly expressing the mutant and performing the biophysical experiments in a high-throughput manner, with a consistent protocol to enable comparisons between different mutations and ligands. Engineering this type of pipeline in either direction requires a number of components. First, we need to be able to identify clinical mutations, through an assay such as the MSK-IMPACT panel~\citep{Zehir:2017ib}. Then, we need ways to automate the setup and execution of alchemical free energy calculations for all combinations of structural conformations and inhibitors of interest. Finally, we need ways to rapidly engineer and express the mutants to validate the computational experiments with biophysical measurements. In this chapter, we present work moving towards enabling the high-throughput expression of kinases and their clinical mutants using a one-size fits all, automated protocol. We also present two different high-throughput biophysical measurements that are used to validate the quality of the expressed protein, which can be extended to test computational predictions in a high-throughput, quantitative manner in future work. Finally, the resulting wild-type kinase plasmids from this work have been made available on Addgene, which we hope will provide a useful resource to the community for kinase oriented biophysical studies. 
 
 This work was the result of a long collaboration between the Chodera Lab and the QB3 MacroLab at UC Berkeley. Daniel Parton and John Chodera designed the structural informatics pipeline and initial expression experiments, which were carried out at the MacroLab by Scott Gradua and Chris Jeans. Mehtap Işık, Lucelenie Rodr\'{i}guez-Laureano and I planned and troubleshot the biophysical experiments, which built on Sonya Hanson's work in the lab. Julie Behr and I planned the mutation expression experiments, which were carried out at the MacroLab. I analyzed and curated the data, as well as wrote and edit the manuscript, with a great deal of input from all of the authors, especially John Chodera, Mehtap Işık, Nick Levinson and Markus Seeliger. 
 
@@ -1980,6 +1981,39 @@ In instances where kinase activity is not required, yield could be increased via
 	\end{figure}
 \end{landscape}
 
+\section{Discussion}
+\label{section:discussion}
+
+We have demonstrated that a simple, uniform, automatable protocol is able to achieve useful bacterial expression yields for a variety of kinase domain constructs.
+While yields could likely be further improved by a variety of methods---such as the addition of solubility-promoting tags, construct domain boundary and codon optimization, or mutations to improve the solubility or ablate catalytic activity---the simplicity of this approach suggests widespread utility of automated bacterial expression for biophysical, biochemical, and structural biology work for the further study of human kinase domains.
+
+Our expression test of 81 different construct boundaries of the Abl kinase domain demonstrated a surprising sensitivity of expression yields to the precise choice of boundary. 
+This sensitivity may be related to where the construct is truncated with respect to the secondary structure of the protein, as disrupting secondary structure could cause the protein to improperly fold, leading to low soluble protein yield even when total expression is high. 
+Of note, the highest expressing C-terminal boundaries for Abl were residues 511 and 512. 
+These residues fall in the regulatory alpha helix~$\alpha$I~\citep{Nagar:2003tu}. 
+This helix has been shown to undergo a dramatic conformational change upon binding to the myristoylated N-terminal cap, which introduces a sharp "kink" in residues 516--519. 
+These residues may lead to higher levels of soluble expression by truncating an secondary structural element that is unusually flexible. 
+Indeed, this helix is not resolved in some X-ray structures (PDBID:2E2B)~\citep{Horio:2007wo}, further suggesting that this helix is less thermodynamically stable than expected. 
+Control replicates of three constructs indicate good repeatability of expression yields in the high-throughput format. 
+This screen suggests that optimization of construct boundaries could potentially further greatly increase yields of poorly expressing kinase domains. 
+Codon optimization for bacterial expression could also increase expression for kinase domains with low yield due to codon bias~\citep{SORENSEN2005113}, as could coexpression with chaperones~\citep{Haacke:ProteinExpr.Purif.:2009}. 
+
+For those kinases that did express, a fluorescence-based thermostability assay indicated that many of the highest-expressing kinases are well folded. 
+An ATP-competitive inhibitor binding fluorescent assay provides qualitative evidence that the 39 kinases that had sufficiently high expression levels to be assayed have a well-formed ATP-binding site capable of binding bosutinib, a small molecule ATP-competitive kinase inhibitor. 
+Taken together, these two experiments demonstrate that our expression protocol produces folded kinases with utility for biophysical experiments and drug design.  
+
+The tolerance of these bacterial constructs to many engineered clinical missense mutations suggests a promising route to the high-throughput biophysical characterization of the effect of clinical mutants on anticancer therapeutics. 
+Mutations that did not express well may destabilize the protein, or may increase the specific activity of the kinase. 
+A higher specific activity would require more phosphatase activity, wasting ATP to prevent high levels of phosphorylation that have been hypothesized to cause difficulty expressing kinases without a coexpressed phosphatase in bacteria~\citep{seeliger:2005:protein-sci:kinase-expression}. 
+Mutations that are destabilizing may show improved expression if coexpressed with more elaborate chaperones such as GroEL and Trigger factor~\citep{Haacke:ProteinExpr.Purif.:2009}.
+Mutations that increase the specific activity of the kinase might also express better when combined with an inactivating mutation.  
+
+High-throughput automated kinase expression could be combined with enzymatic or biophysical techniques for characterizing the potency of a variety of clinical kinase inhibitors to assess which mutations confer resistance or sensitivity.
+While the process of engineering, expressing, purifying, and assaying mutants currently takes approximately two weeks, it is possible that new techniques for cell-free bacterial expression~\citep{Kim:Biotechnol.Bioeng.:1999,Sawasaki:Proc.Natl.Acad.Sci.:2002a} may reduce this time to a matter of days or hours in a manner that might be compatible with clinical time frames to impact therapeutic decision-making.
+
+We hope that other laboratories find these resources useful in their own work.
+
+
 \section{Methods}
 
 \subsection{Semi-automated selection of kinase construct sequences for \emph{E.~coli} expression}
@@ -2133,38 +2167,6 @@ After tag cleavage, the sample was run over a 5~mL HisTrap FF Crude column (GE H
 The flow-through was collected, concentrated to roughly 5mL using centrifugal concentrators (10~kDA MWCO, Millipore) and loaded onto a HiPrep 16/60 Sephacryl S-200 HR column (GE Healthcare). 
 The sample was equilibrated into Gel Filtration buffer (20 mM Tris-HCl pH 8.0, 150 mM NaCl, 5\% glycerol, 1 mM DTT) and fractions containing MK14 were pooled and concentrated (10~kDA MWCO centrifugal concentrators, Millipore). 
 500~$\mu$L aliquots of MK14 were snap frozen in liquid nitrogen and stored at -80$^{\circ}$C. Quantification by theoretical extinction coeffcient suggests the final MK14 concentration was roughly 4.0~mg/mL (97~$\mu$M), roughly 22.4~mg/L of culture yield.  
-
-\section{Discussion}
-\label{section:discussion}
-
-We have demonstrated that a simple, uniform, automatable protocol is able to achieve useful bacterial expression yields for a variety of kinase domain constructs.
-While yields could likely be further improved by a variety of methods---such as the addition of solubility-promoting tags, construct domain boundary and codon optimization, or mutations to improve the solubility or ablate catalytic activity---the simplicity of this approach suggests widespread utility of automated bacterial expression for biophysical, biochemical, and structural biology work for the further study of human kinase domains.
-
-Our expression test of 81 different construct boundaries of the Abl kinase domain demonstrated a surprising sensitivity of expression yields to the precise choice of boundary. 
-This sensitivity may be related to where the construct is truncated with respect to the secondary structure of the protein, as disrupting secondary structure could cause the protein to improperly fold, leading to low soluble protein yield even when total expression is high. 
-Of note, the highest expressing C-terminal boundaries for Abl were residues 511 and 512. 
-These residues fall in the regulatory alpha helix~$\alpha$I~\citep{Nagar:2003tu}. 
-This helix has been shown to undergo a dramatic conformational change upon binding to the myristoylated N-terminal cap, which introduces a sharp "kink" in residues 516--519. 
-These residues may lead to higher levels of soluble expression by truncating an secondary structural element that is unusually flexible. 
-Indeed, this helix is not resolved in some X-ray structures (PDBID:2E2B)~\citep{Horio:2007wo}, further suggesting that this helix is less thermodynamically stable than expected. 
-Control replicates of three constructs indicate good repeatability of expression yields in the high-throughput format. 
-This screen suggests that optimization of construct boundaries could potentially further greatly increase yields of poorly expressing kinase domains. 
-Codon optimization for bacterial expression could also increase expression for kinase domains with low yield due to codon bias~\citep{SORENSEN2005113}, as could coexpression with chaperones~\citep{Haacke:ProteinExpr.Purif.:2009}. 
-
-For those kinases that did express, a fluorescence-based thermostability assay indicated that many of the highest-expressing kinases are well folded. 
-An ATP-competitive inhibitor binding fluorescent assay provides qualitative evidence that the 39 kinases that had sufficiently high expression levels to be assayed have a well-formed ATP-binding site capable of binding bosutinib, a small molecule ATP-competitive kinase inhibitor. 
-Taken together, these two experiments demonstrate that our expression protocol produces folded kinases with utility for biophysical experiments and drug design.  
-
-The tolerance of these bacterial constructs to many engineered clinical missense mutations suggests a promising route to the high-throughput biophysical characterization of the effect of clinical mutants on anticancer therapeutics. 
-Mutations that did not express well may destabilize the protein, or may increase the specific activity of the kinase. 
-A higher specific activity would require more phosphatase activity, wasting ATP to prevent high levels of phosphorylation that have been hypothesized to cause difficulty expressing kinases without a coexpressed phosphatase in bacteria~\citep{seeliger:2005:protein-sci:kinase-expression}. 
-Mutations that are destabilizing may show improved expression if coexpressed with more elaborate chaperones such as GroEL and Trigger factor~\citep{Haacke:ProteinExpr.Purif.:2009}.
-Mutations that increase the specific activity of the kinase might also express better when combined with an inactivating mutation.  
-
-High-throughput automated kinase expression could be combined with enzymatic or biophysical techniques for characterizing the potency of a variety of clinical kinase inhibitors to assess which mutations confer resistance or sensitivity.
-While the process of engineering, expressing, purifying, and assaying mutants currently takes approximately two weeks, it is possible that new techniques for cell-free bacterial expression~\citep{Kim:Biotechnol.Bioeng.:1999,Sawasaki:Proc.Natl.Acad.Sci.:2002a} may reduce this time to a matter of days or hours in a manner that might be compatible with clinical time frames to impact therapeutic decision-making.
-
-We hope that other laboratories find these resources useful in their own work.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
