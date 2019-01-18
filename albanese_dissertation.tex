@@ -289,7 +289,7 @@ To assess the correlation of errors in free energy predictions for selectivity, 
 We searched for data sets that contained binding affinity data for a number of kinase targets and ligands, as well as having crystal structures for each target with the same co-crystallized ligand. 
 
 The first data set we used contained data for a congeneric series of ligands with experimental data for CDK2 and CDK9, with the goal of potently inhibiting CDK9 and sparing CDK2. 
-Based on a multiple sequence alignment of the 85 binding site residues identified in the kinase–ligand interaction fingerprints and structure (KLIFS) database~\cite{Kooistra:2016fr,vanLinden:2014ea}, CDK2 and CDK9 share 57\% sequence identity (Table~\ref{similarity-table}).   
+Based on a multiple sequence alignment of the 85 binding site residues identified in the kinase–ligand interaction fingerprints and structure (KLIFS) database~\cite{Kooistra:2016fr,vanLinden:2014ea}, CDK2 and CDK9 share 57\% sequence identity (Supp.\ Table~\ref{similarity-table}).   
 For this CDK2/CDK9 data set~\citep{Shao2013-oe}, ligand 12c was cocrystallized with CDK2/cylin A (Figure~\ref{fig:figure-2}A, left) and CDK9/cyclin~T (Figure~\ref{fig:figure-2}B, left), work that was published in a companion paper~\citep{Hole2013-sr}. 
 In both CDK2 and CDK9, ligand 12c forms relatively few hydrogen bond interactions with the kinase. 
 Each kinase forms a set of hydrogen bonds between the ligand scaffold and a hinge residue (C106 in CDK9 and L83 in CDK2) that is conserved across all of the ligands in this series. 
@@ -353,11 +353,15 @@ While the small standard deviation suggests that selectivity is difficult to dri
 \end{landscape}
 
 \subsection{FEP+ calculations show smaller than expected errors for $\Delta S$ predictions}
-The FEP+ predictions of the relative free energy of binding between ligands $i$ and $j$ for each target ($\Delta \Delta G_{ij, target}$) showed good accuracy for the CDK2 and ERK2 data set (Figure~\ref{fig:figure-4}, top). 
+The FEP+ predictions of the relative free energy of binding between ligands $i$ and $j$ for each target ($\Delta \Delta G_{ij, target}$) showed good accuracy for the CDK2 and ERK2 data set (Figure~\ref{fig:figure-4}, top). For each ligand $i$, $\Delta \Delta G_{ij, target}$ is defined where $j$ is a reference compound, such that $\Delta \Delta G_{ij, target}$ for the reference compound is 0 kcal/mol. 
 
-Replicate 1 of the calculations is shown on the bottom of Figure~\ref{fig:figure-4}, with an RMSE of $0.79^{1.02}_{0.35}$ and $1.49^{2.74}_{0.40}$ kcal/mol, respectively. All of the CDK2 $\Delta \Delta G_{ij, target}$s were predicted within 1 log unit of the experimental value, while ERK2 had a number of outliers. The change in selectivity ($\Delta S$) predictions show an RMSE of $1.24^{1.51}_{0.47}$ kcal/mol, with all the confidence intervals of the predictions falling within 1 log unit of the experimental values (Figure~\ref{fig:figure-4}, top right panel). This was consistent across all three replicates of the calculations (Supp. Figure ~\ref{fig:sup-figure-6}). This consistency across replicates holds true at the individual ligand level as well (Supp. Figure~\ref{fig:sup-figure-8}). Despite the low RMSE for the selectivity predictions, the narrow dynamic range and high uncertainty from experiment and calculation makes it difficult to determine which compounds are more selective than others. 
+\begin{equation}
+\Delta \Delta G_{ij, target} = \Delta G_{i, target} - \Delta G_{reference, target} 
+\end{equation}
 
-Replicate 1 of the CDK2/CDK9 calculations are shown in the top panel of Figure~\ref{fig:figure-4}. The CDK2 and CDK9 data sets show higher errors in $\Delta \Delta G_{ij, target}$ predictions, with an RMSE of $1.51^{2.05}_{0.90}$ and $2.08^{2.52}_{0.96}$ kcal/mol respectively. There are a number of outliers that fall outside of 1 log unit from the experimental value for CDK2 and CDK9. While the higher per target errors make predicting potency more difficult, the selectivity predictions show a lower than expected RMSE of $1.61^{1.92}_{0.52}$ kcal/mol. This suggests that some correlation in the error is leading to fortuitous cancellation of the force field error, leading to more accurate than expected predictions of $\Delta S$. These results were consistent across all three replicates of the calculation (Supp. Figure ~\ref{fig:sup-figure-4}) as well as each individual ligand (Supp. Figure~\ref{fig:sup-figure-8}). 
+The reference compounds (Compound 6 for CDK2/ERK2 and Compound 1a for CDK2/CDK9) were selected because they were the compounds from which the synthetic studies were started. Replicate 1 of the CDK2/ERK2 calculations is shown on the bottom of Figure~\ref{fig:figure-4}, with an RMSE of $0.95^{1.25}_{0.62}$ and $0.97^{1.23}_{0.71}$ kcal/mol, respectively. All of the CDK2 and ERK2 $\Delta \Delta G_{ij, target}$s were predicted within 1 log unit of the experimental value. The change in selectivity ($\Delta S$) predictions show an RMSE of $1.41^{1.75}_{1.07}$ kcal/mol, with all the confidence intervals of the predictions falling within 1 log unit of the experimental values (Figure~\ref{fig:figure-4}, top right panel). This was consistent across all three replicates of the calculations (Supp. Figure ~\ref{fig:sup-figure-6}). This consistency across replicates holds true at the individual ligand level as well (Supp. Figure~\ref{fig:sup-figure-8}). Despite the low RMSE for the selectivity predictions, the narrow dynamic range and high uncertainty from experiment and calculation makes it difficult to determine which compounds are more selective than others. 
+
+Replicate 1 of the CDK2/CDK9 calculations are shown in the top panel of Figure~\ref{fig:figure-4}. The CDK2 and CDK9 data sets show higher errors in $\Delta \Delta G_{ij, target}$ predictions, with an RMSE of $1.15^{1.58}_{0.67}$ and $2.10^{2.63}_{1.47}$ kcal/mol respectively. There are a number of outliers that fall outside of 1 log unit from the experimental value for CDK9. While the higher per target errors make predicting potency more difficult, the selectivity predictions show a lower than expected RMSE of $1.37^{1.66}_{1.03}$ kcal/mol. This suggests that some correlation in the error is leading to fortuitous cancellation of the force field error, leading to more accurate than expected predictions of $\Delta S$. These results were consistent across all three replicates of the calculation (Supp. Figure ~\ref{fig:sup-figure-4}) as well as each individual ligand (Supp. Figure~\ref{fig:sup-figure-8}). 
 
 \begin{landscape}
 \begin{figure}
@@ -365,16 +369,17 @@ Replicate 1 of the CDK2/CDK9 calculations are shown in the top panel of Figure~\
 \includegraphics[width=0.6\linewidth]{figures/Figure4.png}
 \caption[Selectivity predictions suggest correlation in forcefield error.]{
 {\bf Selectivity predictions suggest correlation in forcefield error} \\
-$\Delta \Delta G_{ij, \text{target}}$ and $\Delta S$ predictions for CDK2/ERK2 from the Blake data sets (\emph{top}), and CDK2/CDK9 (\emph{bottom}) from the Shao data sets. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a transformation between a ligand $i$ to ligand $j$ for a given target (i.e., the edge of an FEP+ map). All values are shown in units of kcal/mol. The horizontal error bars show a 95\% CI for the $\delta \Delta \Delta G^{exp}_{ij}$ based on the assumed uncertainty of 0.3 kcal/mol\citep{BROWN2009420,Kalliokoski:PloSOne:2013} for each $\Delta G^{exp}_{i}$. We show the 95\% CI based on the estimated statistical error ($\sigma_{stat}$) as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals.
+$\Delta \Delta G_{ij, \text{target}}$ and $\Delta S$ predictions for CDK2/ERK2 from the Blake data sets (\emph{top}), and CDK2/CDK9 (\emph{bottom}) from the Shao data sets. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a transformation between a ligand $i$ to a set reference ligand $j$ for a given target. All values are shown in units of kcal/mol. The horizontal error bars show a 95\% CI for the $\delta \Delta \Delta G^{exp}_{ij}$ based on the assumed uncertainty of 0.3 kcal/mol\citep{BROWN2009420,Kalliokoski:PloSOne:2013} for each $\Delta G^{exp}_{i}$. We show the 95\% CI based on the estimated statistical error ($\sigma_{stat}$) as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals.
 }
 \label{fig:figure-4}
 \end{figure}
 \end{landscape}
 
 \subsection{Correlation of forcefield errors accelerates selectivity optimization}
+
 To quantify the correlation coefficient ($\rho$) of the force field error between targets, we built a Bayesian graphical model to separate the force field error from the statistical error and quantify our confidence in estimates of $\rho$ (described in depth in Methods). 
 Briefly, we modeled the absolute free energy ($G$) of each ligand in each thermodynamic phase (ligand-in-complex and ligand-in-solvent, with $G$ determined to an arbitrary additive constant for each phase) as in Equation~\ref{eq:prior-on-absolute-free-energy}. 
-The model was chained to the FEP+ calculations by providing the $\Delta G^{calc}_{phase,ij,target}$ as observed data, as in Equation~\ref{eq6}. As in Equation~\ref{eq12}, the experimental data was modeled as a normal distribution centered around the true free energy of binding ($\Delta G^{true}_{i,target}$) corrupted by experimental error, which is assumed to be 0.3~kcal/mol from previous work done to quantify the uncertainty in publicly available data~\citep{BROWN2009420}. 
+The model was chained to the FEP+ calculations by providing the $\Delta G^{calc}_{phase,ij,target}$ for each edge from the FEP+ maps (where $j$ is now not necessarily the reference compound) as observed data, as in Equation~\ref{eq6}. As in Equation~\ref{eq12}, the experimental data was modeled as a normal distribution centered around the true free energy of binding ($\Delta G^{true}_{i,target}$) corrupted by experimental error, which is assumed to be 0.3~kcal/mol from previous work done to quantify the uncertainty in publicly available data~\citep{BROWN2009420}. 
 $\Delta G$ values derived from reported IC$_{50}$s or $K_i$s, as described in the methods section, were treated as data observations (Equation~\ref{eq12}) and the $\Delta G^{true}_{i,target}$ was assigned a weak normal prior (Equation~\ref{eq13}). 
 
 The correlation coefficient was calculated for each sample according to equation~\ref{eq9}. 
@@ -429,32 +434,44 @@ In general, the standard deviation suggests that the statistical error for our c
 
 
 \section{Discussion and Conclusions}
-\paragraph{$S$ is a useful metric for selectivity in lead optimization}
+\paragraph{$S$ is a useful metric for selectivity in lead optimization} \mbox{}\\
+
+
 There are a number of different metrics for quantifying the selectivity of a compound~\citep{Bosc:2017gs}, which look at selectivity from different views depending on the information trying to be conveyed. 
 One of the earliest metrics was the standard selectivity score, which conveyed the number of inhibited kinase targets in a broad scale assay divided by the total number of kinases in the assay~\citep{Davis2011-dz}. 
 The Gini coefficient is a method that does not rely on any threshold, but is highly sensitive to experimental conditions because it is dependent on percent inhibition~\citep{Graczyk:2007bm}. Other metrics take a thermodynamic approach to kinase selectivity and are suitable for smaller panel screens~\citep{DuongLy:2016iha,Uitdehaag:2011ea}. Here, we propose a more granular, thermodynamic  view of selectivity that is easy to use free energy methods to calculate: the change in free energy of binding for a given ligand between two different targets ($S$). 
 $S$ is a useful metric of selectivity in lead optimization once a single, or small panel, of off-targets have been identified and the goal is to use physical modeling to either improve or maintain selectivity within a lead series. 
 
-\paragraph{Forcefield error correlation can accelerate selectivity optimization}
+\paragraph{Forcefield error correlation can accelerate selectivity optimization} \mbox{}\\
+
+
 We have demonstrated, using a simple numerical model, the impact that free energy calculations with even weakly correlated force field errors can have on speeding up the optimization of selectivity in small molecule kinase inhibitors. 
 While the expected speed up is dependent on the per target force field error of the method ($\sigma_{ff}$), the speedup is also highly dependent on the correlation of errors made for both targets. 
 Unsurprisingly, free energy methods have greater impact as the threshold for selectivity optimization goes from 10$\times$ to 100$\times$. 
 While 100$\times$ selectivity optimization is difficult to achieve, the expected benefit from free energy calculations is also quite high, with speedups of one or two orders of magnitude possible. 
 
-\paragraph{Two pairs of kinase test systems suggest forcefield errors can be correlated}
+\paragraph{Two pairs of kinase test systems suggest forcefield errors can be correlated} \mbox{}\\
+
+
 To quantify the correlation of errors in two example systems, we gathered experimental data for two congeneric ligand series with experimental data for CDK2 and ERK2, as well as CDK2 and CDK9. These data sets, which had crystal structures for both targets with the same ligand co-crystallized, exemplify the difficulty in predicting selectivity. 
 The dynamic range of selectivity for both systems is incredibly narrow, with most of the perturbations not having a major impact on the overall selectivity achieved. 
 Further, the data was reported with unreliable experimental uncertainties, which makes quantifying the errors made by the free energy calculations difficult. 
 This issue is common when considering selectivity, as many kinase-oriented high throughput screens are carried out at a single concentration and not highly quantitative. 
+
+The CDK9 calculations contained a significant outlier, compound 12h, that drove much of the prediction error for that set. Compound 12e (R1 = F) is the most potent against CDK9 of the compounds in with a sulfonamide at R3 (Figure~\ref{fig:figure-2}). The addition of a single methyl group decreases the potency against CDK9 (compound 12g) and while only slightly changing the affinity for CDK2. However, adding on another methyl group (compound 12h) results in an order of magnitude decrease in $K_i$ for both CDK9 and CDK2. Crystal structures for both kinases show that R1 points into a pocket formed by the backbone, and the sidechains of a Valine and  Phenylalanine. While ethyl at R1 in compound 12h \emph{is} bulkier, the magnitude of the decrease in affinity for both kinases is larger than might be expected, given that the pocket suggests an ethyl group would be well accommodated in terms of fit and the hydrophobicity of the sidechains. For both kinases, the free energy calculations predict that this addition should \emph{improve} the potency, suggesting that it is possible that the model is missing a chemical detail that might explain the trend seen in the experimental data. We expect that these types of errors, which would be troubling when predicting potency alone, will drive the correlation of forcefield errors and fortuitously cancel. 
+
 Despite CDK2 and ERK2 being more distantly related than CDK2 and CDK9, the calculated correlation in the force field error suggests that fortuitous cancellation of errors may be applicable in a wider range of scenarios than closely related kinases within the same family. 
 
-\paragraph{Reducing statistical error is beneficial when forcefield errors are correlated}
+
+\paragraph{Reducing statistical error is beneficial when forcefield errors are correlated} \mbox{}\\
+
 
 We built a numerical model of the impact of statistical error in the context of different levels of force field error correlation, in order to better understand if there are situations where it is beneficial to expend more effort running longer calculations to minimize statistical error and get improved speedup in selectivity optimization. 
 Our results suggest that unless the correlation $\rho > 0.5$ for the two targets of interest, there is not much benefit in running longer calculations. 
 However, when the force field error is reduced by correlation, longer calculations can help realize large increases in speedup. Keeping a running quantification of $\rho$ for free energy calculations as compounds are made and the predictions can be tested will allow for decisions to be made about whether running longer calculations is worthwhile. It will also allow for an estimate of $\sigma_{selectivity}$, which is useful for estimating expected force field error for prospective predictions. Importantly, we expect that correlation will be protocol dependent and changes to the way the system is modeled are expected to change the observed correlation in the force field error. 
 
-\paragraph{Larger data sets with a wide range of protein targets will enable future work}
+\paragraph{Larger data sets with a wide range of protein targets will enable future work} \mbox{}\\
+
 
 The data sets gathered here were limited by the total number of compounds, the small dynamic range for selectivity ($S$), and the lack of reliable experimental uncertainties. The small size of the data set makes it difficult to draw broad conclusions about the correlation in forcefield errors. Understanding the degree of correlation \emph{a priori} based on structural similarity requires study on a larger range of targets than the two pairs presented in this study. A larger data set that contained many protein targets, crystal structures and quantitative binding affinity data would be ideal to draw conclusions about the broader prevalence of forcefield error correlation. 
 
@@ -507,9 +524,7 @@ Any compound predicted to have an improvement in selectivity of above the thresh
 The speedup value for each value of $\rho$ is calculated as previously described. 
 
 \subsection{Binding Site Similarity analysis}
-\todo[inline]{SKA: need to get this from Andrea}
-\todo[inline]{JDC: Do you have this yet?}
-\todo[inline]{SKA: Not yet!}
+Binding site similarity analysis was performed using a multiple sequence alignment of the residues in the binding site. Binding site definitions for each kinase were taken from the 85 residues defined by the KLIFs database~\citep{Kooistra:2016fr}. The scores presented in Table~\ref{similarity-table} are the pair wise identity scores for each pair of kinase. 
 
 \subsection{Extracting the binding free energy $\Delta G$ from reported experimental data}
 
@@ -567,6 +582,7 @@ The SPC water model was used.
 A GCMC solvation protocol was used to sample buried water molecules in the binding pocket prior to the calculation, which discards any retained crystal waters. 
 
 \subsection{Statistical Analysis of FEP+ calculations}
+
 To quantify the overall errors in the FEP+ calculations, we computed the mean unsigned error (MUE),
 \begin{equation}\label{eq:sample-mue}
 MUE = \frac{ \sum_{0}^{n} \mid \Delta \Delta G _\text{calc} - \Delta \Delta G _\text{exp} \mid}{n}
@@ -575,7 +591,8 @@ and the root mean squared error (RMSE)
 \begin{equation}\label{eq:sample-rmse}
 RMSE = \sqrt{\frac{ \sum_{0}^{n}(\Delta \Delta~G_\text{calc} - \Delta \Delta~G_\text{exp})^2}{n}}
 \end{equation}
-To account for the finite ligand sample size, we used 10 000 replicates of bootstrapping with replacement to estimate  95\% confidence intervals.
+
+MUE and RMSE were computed for the $\Delta \Delta G_{\text{binding}}$ for each ligand with respect to a reference compound, which was pinned to $\Delta \Delta G_{\text{binding}}$ = 0 kcal/mol. For the CDK2/CDK9 data set, compound 1a was used as the reference compound, as it was the first compound from which the others in the series were derived. For the CDK2/ERK2 data set, compound 6 was used as the reference compound, since it was the compound from which the investigation was launch. A metabolite of compound 6 (not included in the data set here) was used as the starting compound from which the rest were derived. To account for the finite ligand sample size, we used 10 000 replicates of bootstrapping with replacement to estimate  95\% confidence intervals.
 The code used to bootstrap these values is available on GitHub [\url{https://github.com/choderalab/selectivity}].
 
 
@@ -591,7 +608,9 @@ To improve sampling efficiency, for each phase, one ligand was chosen as the ref
 \begin{equation}\label{eq:prior-on-absolute-free-energy}
 G^{phase}_{1,\text{target}} = \mathcal{N}(\mu=0,~\sigma=1.0~\text{kcal/mol})
 \end{equation}
-For each edge of the FEP map (ligand $i$ --> ligand $j$), there is a contribution from dummy atoms, that was modeled as in Equation~\ref{eq5}.  
+
+For each edge of the FEP map (ligand $i$ --> ligand $j$), there is a contribution from dummy atoms, that was modeled as in Equation~\ref{eq5}. Note that here, unlike was was done in Figure~\ref{fig:figure-4}, ligand $j$ is not necessarily a reference compound. 
+
 \begin{equation}\label{eq5}
 c_{i,j} = \mathcal{N}(\mu=0,~\sigma=25.0~\text{kcal/mol})
 \end{equation}
@@ -672,13 +691,7 @@ A complete funding history for the Chodera lab can be found at http://choderalab
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Author Contributions}
-Conceptualization: SKA, LW, RA, JDC \\
-Methodology: SKA, LW, JDC\\
-Investigation: SKA, SP\\
-Writing -- Original Draft: SKA\\
-Writing -- Review \& Editing: SKA, JDC \\
-Funding Acquisition: RA, JDC\\
-Resources: LW, JDC\\
+Conceptualization: SKA, LW, RA, JDC; Methodology: SKA, LW, JDC; Formal Analysis: SKA, JDC, LW; Data Curation: SKA, SP; Investigation: SKA, SP, AV; Writing -- Original Draft: SKA; Writing -- Review \& Editing: SKA, JDC, LW, AV; Visualization: SKA, JDC, LW; Supervision: LW, JDC, RA; Project Administration: SKA, LW, JDC, RA; Funding Acquisition: RA, JDC; Resources: LW, JDC
 
 
 \chapter{Predicting the impact of clinically-observed kinase mutations using physical modeling}
@@ -2248,7 +2261,7 @@ While this dissertation primarily focuses using on alchemical free energy calcul
 			\includegraphics[width=0.46\linewidth]{figures/supp_figure4.pdf}
 			\caption[Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE]{
 {\bf Each replicate of the CDK2/CDK9 calculations yields a consistent RMSE and MUE} \\
-Three replicates of the CDK2/CDK9 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the the 95\% CI based on an assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} expanded assuming no correlation between each measurement. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
+Three replicates of the CDK2/CDK9 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a transformation between a ligand $i$ to a set reference ligand $j$ (Compound 1a) for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the the 95\% CI based on an assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} expanded assuming no correlation between each measurement. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
 			\label{fig:sup-figure-4}
 		\end{figure}
 	\end{landscape}
@@ -2270,8 +2283,8 @@ Three replicates of the CDK2/CDK9 calculations with different random seeds, but 
 			\centering
 			\includegraphics[width=0.46\linewidth]{figures/supp_figure6.pdf}
 			\caption[Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE]{
-{\bf Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE} \\
-Three replicates of the CDK2/ERK2 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to an edge in the FEP+ map. All values are shown in units of kcal/mol. The horizontal error bars show the the 95\% CI based on an assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} expanded assuming no correlation between each measurement. We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated.  The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
+	{\bf Each replicate of the CDK2/ERK2 calculations yields a consistent RMSE and MUE} \\
+Three replicates of the CDK2/ERK2 calculations with different random seeds, but otherwise the same input structures, files, and parameters. The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a transformation between a ligand $i$ to reference ligand $j$ (Compound 6) for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the the 95\% CI based on an assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} expanded assuming no correlation between each measurement. We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated.  The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf A}) Replicate 1 ({\bf B}) Replicate 2 ({\bf C}) Replicate 3}
 			\label{fig:sup-figure-6}
 		\end{figure}
 	\end{landscape}
@@ -2293,9 +2306,9 @@ Three replicates of the CDK2/ERK2 calculations with different random seeds, but 
 			\centering
 			\includegraphics[width=0.7\linewidth]{figures/supp_figure8.pdf}
 			\caption[The pooled replicates show good agreement in predictions for individual ligands]{
-				{\bf The pooled replicates show good agreement in predictions for individual ligands} \\
-				The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a ligand for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} for each individual measurement, expanded assuming the error is uncorrelated. We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf Top}) CDK2/CDK9 replicates ({\bf Bottom}) CDK2/ERK2 replicates
-			}
+			{\bf The pooled replicates show good agreement in predictions for individual ligands} \\
+The experimental values are shown on the X-axis and calculated values on the Y-axis. Each data point corresponds to a transformation between a ligand $i$ to reference ligand $j$ (Compound 6 for CDK2/ERK2, Compound 1a for CDK2/CDK9) for a given target. All values are shown in units of kcal/mol. The horizontal error bars show the assumed experimental uncertainty of 0.3 kcal/mol\citep{BROWN2009420} for each individual measurement, expanded assuming the error is uncorrelated. We show the 95\% CI based on the estimated statistical as vertical blue error bars. For selectivity, the errors were propagated under the assumption that they were completely uncorrelated. The black line indicates agreement between calculation and experiment, while the gray shaded region represent 1.36 kcal/mol (or 1 log unit) error. The MUE and RMSE are shown on each plot with bootstrapped 95$\%$ confidence intervals. ({\bf Top}) CDK2/CDK9 replicates ({\bf Bottom}) CDK2/ERK2 replicates
+}
 			\label{fig:sup-figure-8}
 		\end{figure}
 	\end{landscape}
@@ -2315,7 +2328,7 @@ Three replicates of the CDK2/ERK2 calculations with different random seeds, but 
 	\begin{landscape}
 	\begin{table}[p]
 		\centering
-		\caption{{\bf The CDK2 and CDK9 binding sites are more similar than the CDK2 and ERK2 binding sites} \\
+		\caption[The CDK2 and CDK9 binding sites are more similar than the CDK2 and ERK2 binding sites]{{\bf The CDK2 and CDK9 binding sites are more similar than the CDK2 and ERK2 binding sites} \\
 			Sequence based similarity of the binding sites based on multiple sequence alignments of the 85 residues annotated by the KLIFS database~\citep{vanLinden:2014ea,Kooistra:2016fr}
 		}
 		\label{similarity-table}

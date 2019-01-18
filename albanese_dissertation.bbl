@@ -3,22 +3,6 @@
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
 
-\bibitem[{van Linden et~al.(2014)van Linden, Oscar P J and Kooistra, Albert J
-  and Leurs, Rob and de Esch, Iwan J P and de Graaf, Chris}]{vanLinden:2014ea}
-\textbf{\color{eLifeMediumGrey} van Linden OPJ}, Kooistra AJ, Leurs R, de~Esch
-  IJP, de~Graaf C.
-\newblock {KLIFS: a knowledge-based structural database to navigate
-  kinase-ligand interaction space.}
-\newblock Journal of medicinal chemistry.  2014 Jan; 57(2):249--277.
-
-\bibitem[{Kooistra et~al.(2016)Kooistra, Albert J and Kanev, Georgi K and van
-  Linden, Oscar P J and Leurs, Rob and de Esch, Iwan J P and de Graaf,
-  Chris}]{Kooistra:2016fr}
-\textbf{\color{eLifeMediumGrey} Kooistra AJ}, Kanev GK, van Linden OPJ, Leurs
-  R, de~Esch IJP, de~Graaf C.
-\newblock {KLIFS: a structural kinase-ligand interaction database}.
-\newblock Nucleic acids research.  2016 Jan; 44(D1):D365--D371.
-
 \bibitem[{Siegel et~al.(2018)Siegel, Rebecca L and Miller, Kimberly D and
   Jemal, Ahmedin}]{Siegel:2018cq}
 \textbf{\color{eLifeMediumGrey} Siegel RL}, Miller KD, Jemal A.
@@ -940,6 +924,22 @@
 \newblock Free energy calculations in structure-based drug design.
 \newblock In: \emph{Structure Based Drug Design} Cambridge University Press;
   2009.
+
+\bibitem[{Kooistra et~al.(2016)Kooistra, Albert J and Kanev, Georgi K and van
+  Linden, Oscar P J and Leurs, Rob and de Esch, Iwan J P and de Graaf,
+  Chris}]{Kooistra:2016fr}
+\textbf{\color{eLifeMediumGrey} Kooistra AJ}, Kanev GK, van Linden OPJ, Leurs
+  R, de~Esch IJP, de~Graaf C.
+\newblock {KLIFS: a structural kinase-ligand interaction database}.
+\newblock Nucleic acids research.  2016 Jan; 44(D1):D365--D371.
+
+\bibitem[{van Linden et~al.(2014)van Linden, Oscar P J and Kooistra, Albert J
+  and Leurs, Rob and de Esch, Iwan J P and de Graaf, Chris}]{vanLinden:2014ea}
+\textbf{\color{eLifeMediumGrey} van Linden OPJ}, Kooistra AJ, Leurs R, de~Esch
+  IJP, de~Graaf C.
+\newblock {KLIFS: a knowledge-based structural database to navigate
+  kinase-ligand interaction space.}
+\newblock Journal of medicinal chemistry.  2014 Jan; 57(2):249--277.
 
 \bibitem[{Hole et~al.(2013)Hole, Alison J and Baumli, Sonja and Shao, Hao and
   Shi, Shenhua and Huang, Shiliang and Pepper, Chris and Fischer, Peter M and
@@ -2304,29 +2304,6 @@
 \newblock {Oncotator: cancer variant annotation tool.}
 \newblock Human mutation.  2015 Apr; 36(4):E2423--9.
 
-\bibitem[{Klock et~al.(2008)Klock, Heath E. and Koesema, Eric J. and Knuth,
-  Mark W. and Lesley, Scott A.}]{klock_combining_2008}
-\textbf{\color{eLifeMediumGrey} Klock HE}, Koesema EJ, Knuth MW, Lesley SA.
-\newblock Combining the polymerase incomplete primer extension method for
-  cloning and mutagenesis with microscreening to accelerate structural genomics
-  efforts.
-\newblock Proteins: Structure, Function, and Bioinformatics.  2008 May;
-  71(2):982--994.
-\newblock \href{10.1002/prot.21786}{\doiprefix
-  \detokenize{10.1002/prot.21786}}.
-
-\bibitem[{Velankar et~al.(2013)Velankar, Sameer and Dana, José M. and
-  Jacobsen, Julius and van Ginkel, Glen and Gane, Paul J. and Luo, Jie and
-  Oldfield, Thomas J. and O’Donovan, Claire and Martin, Maria-Jesus and
-  Kleywegt, Gerard J.}]{doi:10.1093/nar/gks1258}
-\textbf{\color{eLifeMediumGrey} Velankar S}, Dana JM, Jacobsen J, van Ginkel G,
-  Gane PJ, Luo J, Oldfield TJ, O’Donovan C, Martin MJ, Kleywegt GJ.
-\newblock SIFTS: Structure Integration with Function, Taxonomy and Sequences
-  resource.
-\newblock Nucleic Acids Research.  2013; 41(D1):D483.
-\newblock \urlprefix\url{http://dx.doi.org/10.1093/nar/gks1258},
-  \href{10.1093/nar/gks1258}{\doiprefix \detokenize{10.1093/nar/gks1258}}.
-
 \bibitem[{Sørensen and Mortensen(2005)Hans Peter Sørensen and Kim Kusk
   Mortensen}]{SORENSEN2005113}
 \textbf{\color{eLifeMediumGrey} Sørensen HP}, Mortensen KK.
@@ -2365,6 +2342,29 @@
 \newblock Proc Natl Acad Sci.  2002 Nov; 99(23):14652--14657.
 \newblock \href{10.1073/pnas.232580399}{\doiprefix
   \detokenize{10.1073/pnas.232580399}}.
+
+\bibitem[{Klock et~al.(2008)Klock, Heath E. and Koesema, Eric J. and Knuth,
+  Mark W. and Lesley, Scott A.}]{klock_combining_2008}
+\textbf{\color{eLifeMediumGrey} Klock HE}, Koesema EJ, Knuth MW, Lesley SA.
+\newblock Combining the polymerase incomplete primer extension method for
+  cloning and mutagenesis with microscreening to accelerate structural genomics
+  efforts.
+\newblock Proteins: Structure, Function, and Bioinformatics.  2008 May;
+  71(2):982--994.
+\newblock \href{10.1002/prot.21786}{\doiprefix
+  \detokenize{10.1002/prot.21786}}.
+
+\bibitem[{Velankar et~al.(2013)Velankar, Sameer and Dana, José M. and
+  Jacobsen, Julius and van Ginkel, Glen and Gane, Paul J. and Luo, Jie and
+  Oldfield, Thomas J. and O’Donovan, Claire and Martin, Maria-Jesus and
+  Kleywegt, Gerard J.}]{doi:10.1093/nar/gks1258}
+\textbf{\color{eLifeMediumGrey} Velankar S}, Dana JM, Jacobsen J, van Ginkel G,
+  Gane PJ, Luo J, Oldfield TJ, O’Donovan C, Martin MJ, Kleywegt GJ.
+\newblock SIFTS: Structure Integration with Function, Taxonomy and Sequences
+  resource.
+\newblock Nucleic Acids Research.  2013; 41(D1):D483.
+\newblock \urlprefix\url{http://dx.doi.org/10.1093/nar/gks1258},
+  \href{10.1093/nar/gks1258}{\doiprefix \detokenize{10.1093/nar/gks1258}}.
 
 \bibitem[{Hu et~al.(2015)Hu, Jiancheng and Ahuja, Lalima G and Meharena, Hiruy
   S and Kannan, Natarajan and Kornev, Alexandr P and Taylor, Susan S and Shaw,
