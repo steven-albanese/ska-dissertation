@@ -1,4 +1,4 @@
-\begin{thebibliography}{239}
+\begin{thebibliography}{241}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -925,6 +925,21 @@
 \newblock In: \emph{Structure Based Drug Design} Cambridge University Press;
   2009.
 
+\bibitem[{Abel et~al.(2018)Abel, Robert and Manas, Eric S and Friesner, Richard
+  A and Farid, Ramy S and Wang, Lingle}]{Abel:2018ds}
+\textbf{\color{eLifeMediumGrey} Abel R}, Manas ES, Friesner RA, Farid RS, Wang
+  L.
+\newblock {Modeling the value of predictive affinity scoring in preclinical
+  drug discovery.}
+\newblock Current opinion in structural biology.  2018 Oct; 52:103--110.
+
+\bibitem[{Abel et~al.(2017{\natexlab{c}})Abel, Robert and Wang, Lingle and
+  Mobley, David L and Friesner, Richard A}]{Abel:2017jw}
+\textbf{\color{eLifeMediumGrey} Abel R}, Wang L, Mobley DL, Friesner RA.
+\newblock {A Critical Review of Validation, Blind Testing, and Real- World Use
+  of Alchemical Protein-Ligand Binding Free Energy Calculations.}
+\newblock Current topics in medicinal chemistry.  2017; 17(23):2577--2585.
+
 \bibitem[{Kooistra et~al.(2016)Kooistra, Albert J and Kanev, Georgi K and van
   Linden, Oscar P J and Leurs, Rob and de Esch, Iwan J P and de Graaf,
   Chris}]{Kooistra:2016fr}
@@ -1366,7 +1381,7 @@
 \newblock \href{10.1016/j.sbi.2011.01.011}{\doiprefix
   \detokenize{10.1016/j.sbi.2011.01.011}}.
 
-\bibitem[{Abel et~al.(2017{\natexlab{c}})Abel, Robert and Mondal, Sayan and
+\bibitem[{Abel et~al.(2017{\natexlab{d}})Abel, Robert and Mondal, Sayan and
   Masse, Craig and Greenwood, Jeremy and Harriman, Geraldine and Ashwell, Mark
   A and Bhat, Sathesh and Wester, Ronald and Frye, Leah and Kapeller, Rosana
   and others}]{abel2017accelerating}

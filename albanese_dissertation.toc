@@ -23,103 +23,103 @@
 \contentsline {section}{\numberline {2.4}Results}{16}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Alchemical free energy methods can be used to predict compound selectivity}{16}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Correlation in force field errors can significantly enhance accuracy of selectivity predictions}{18}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Poor selectivity is achieved for the closely related kinases CDK2/CDK9}{21}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Greater selectivity is achieved for more distantly related kinases CDK2/ERK2}{24}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}FEP+ calculations show smaller than expected errors for $\Delta S$ predictions}{27}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {2.4.6}Correlation of forcefield errors accelerates selectivity optimization}{30}{subsection.2.4.6}
-\contentsline {subsection}{\numberline {2.4.7}Expending more effort to reduce statistical error can be beneficial in selectivity optimization}{33}{subsection.2.4.7}
-\contentsline {section}{\numberline {2.5}Discussion and Conclusions}{36}{section.2.5}
-\contentsline {paragraph}{$S$ is a useful metric for selectivity in lead optimization}{36}{section*.9}
-\contentsline {paragraph}{Forcefield error correlation can accelerate selectivity optimization}{36}{section*.10}
-\contentsline {paragraph}{Two pairs of kinase test systems suggest forcefield errors can be correlated}{37}{section*.11}
-\contentsline {paragraph}{Reducing statistical error is beneficial when forcefield errors are correlated}{38}{section*.12}
-\contentsline {paragraph}{Larger data sets with a wide range of protein targets will enable future work}{39}{section*.13}
-\contentsline {section}{\numberline {2.6}Methods}{40}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Numerical model of selectivity optimization speedup}{40}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Numerical model of impact of statistical error on selectivity optimization}{41}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Binding Site Similarity analysis}{42}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Extracting the binding free energy $\Delta G$ from reported experimental data}{43}{subsection.2.6.4}
-\contentsline {subsection}{\numberline {2.6.5}Structure Preparation}{44}{subsection.2.6.5}
-\contentsline {paragraph}{Ligand Pose Generation}{44}{section*.14}
-\contentsline {subsection}{\numberline {2.6.6}Free Energy Calculations}{45}{subsection.2.6.6}
-\contentsline {subsection}{\numberline {2.6.7}Statistical Analysis of FEP+ calculations}{46}{subsection.2.6.7}
-\contentsline {subsection}{\numberline {2.6.8}Quantification of the correlation coefficient $\rho $}{47}{subsection.2.6.8}
-\contentsline {subsection}{\numberline {2.6.9}Calculating the marginal distribution of speedup}{49}{subsection.2.6.9}
-\contentsline {section}{\numberline {2.7}Acknowledgments}{49}{section.2.7}
-\contentsline {section}{\numberline {2.8}Funding}{50}{section.2.8}
-\contentsline {section}{\numberline {2.9}Disclosures}{50}{section.2.9}
-\contentsline {section}{\numberline {2.10}Author Contributions}{51}{section.2.10}
-\contentsline {chapter}{\numberline {3}Predicting the impact of clinically-observed kinase mutations using physical modeling}{52}{chapter.3}
-\contentsline {section}{\numberline {3.1}Gloss}{52}{section.3.1}
-\contentsline {section}{\numberline {3.2}Abstract}{56}{section.3.2}
-\contentsline {section}{\numberline {3.3}Introduction}{56}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{57}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Alchemical free-energy methods can predict inhibitor binding affinities}{60}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Alchemical approaches can predict the impact of protein mutations on free energy}{60}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{61}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Results}{62}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{62}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Most mutations do not significantly reduce TKI potency}{68}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}FEP+ predicts affinity changes for clinical Abl mutants}{71}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}FEP+ accurately classifies affinity changes for Abl mutants}{75}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}How reliant are classification results on choice of cutoff?}{76}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3.4.6}Bayesian analysis can estimate the true error}{78}{subsection.3.4.6}
-\contentsline {subsection}{\numberline {3.4.7}How transferable is FEP+ across the six TKIs?}{79}{subsection.3.4.7}
-\contentsline {subsection}{\numberline {3.4.8}Understanding the origin of mispredictions}{82}{subsection.3.4.8}
-\contentsline {subsection}{\numberline {3.4.9}How strongly is accuracy affected for docked TKIs?}{83}{subsection.3.4.9}
-\contentsline {section}{\numberline {3.5}Discussion and Conclusions}{87}{section.3.5}
-\contentsline {paragraph}{Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}{87}{section*.25}
-\contentsline {paragraph}{Hierarchical Bayesian model estimates global performance}{90}{section*.27}
-\contentsline {paragraph}{Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}{91}{section*.28}
-\contentsline {paragraph}{Other physical mechanisms of resistance are likely similarly computable.}{92}{section*.29}
-\contentsline {paragraph}{Conclusion}{92}{section*.30}
-\contentsline {section}{\numberline {3.6}Methods}{94}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}System preparation}{94}{subsection.3.6.1}
-\contentsline {subsubsection}{Complexes with co-crystal structures.}{94}{section*.31}
-\contentsline {subsubsection}{Complexes without co-crystal structures.}{98}{section*.33}
-\contentsline {subsection}{\numberline {3.6.2}Force field parameter assignment}{99}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Prime (MM-GBSA)}{99}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}Alchemical free energy perturbation calculations using FEP+}{100}{subsection.3.6.4}
-\contentsline {subsection}{\numberline {3.6.5}Obtaining $\Delta \Delta $G from $\Delta $pIC$_{50}$ benchmark set data}{102}{subsection.3.6.5}
-\contentsline {subsection}{\numberline {3.6.6}Assessing prediction performance}{104}{subsection.3.6.6}
-\contentsline {subsubsection}{Quantitative accuracy metrics}{104}{section*.34}
-\contentsline {subsubsection}{Truth tables}{104}{section*.35}
-\contentsline {subsubsection}{Consensus model}{105}{section*.36}
-\contentsline {subsubsection}{ROC}{105}{section*.37}
-\contentsline {subsubsection}{Estimating uncertainties of physical-modeling results}{105}{section*.38}
-\contentsline {subsubsection}{Bayesian hierarchical model to estimate intrinsic error}{106}{section*.39}
-\contentsline {subsection}{\numberline {3.6.7}Data availability}{108}{subsection.3.6.7}
-\contentsline {subsection}{\numberline {3.6.8}Code availability}{108}{subsection.3.6.8}
-\contentsline {section}{\numberline {3.7}Acknowledgments}{108}{section.3.7}
-\contentsline {section}{\numberline {3.8}Author Contributions}{109}{section.3.8}
-\contentsline {section}{\numberline {3.9}Competing Interests}{109}{section.3.9}
-\contentsline {chapter}{\numberline {4}Enabling high-throughput biophysical experiments on clinically-observed mutations}{110}{chapter.4}
-\contentsline {section}{\numberline {4.1}Gloss}{110}{section.4.1}
-\contentsline {section}{\numberline {4.2}Abstract}{113}{section.4.2}
-\contentsline {section}{\numberline {4.3}Introduction}{114}{section.4.3}
-\contentsline {section}{\numberline {4.4}Results}{118}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Construct boundary choice impacts Abl kinase domain expression}{118}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Screen of 96 kinases finds 52 with useful levels of automated \emph {E.\nobreakspace {}coli} expression}{122}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}High-expressing kinases are folded with a well-formed ATP binding site}{128}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Fluorescence-based thermostability assay}{130}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}ATP-competitive inhibitor binding fluorescence assay}{131}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Expressing clinically-derived Src and Abl mutants}{134}{subsection.4.4.6}
-\contentsline {section}{\numberline {4.5}Discussion}{140}{section.4.5}
-\contentsline {section}{\numberline {4.6}Methods}{142}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Semi-automated selection of kinase construct sequences for \emph {E.\nobreakspace {}coli} expression}{142}{subsection.4.6.1}
-\contentsline {subsubsection}{Selection of human protein kinase domain targets}{142}{section*.46}
-\contentsline {subsubsection}{Matching target sequences with relevant PDB constructs}{143}{section*.47}
-\contentsline {subsubsection}{Plasmid libraries}{144}{section*.48}
-\contentsline {subsubsection}{Selection of sequence constructs for expression}{145}{section*.49}
-\contentsline {subsubsection}{Automation of the construct selection process}{146}{section*.50}
-\contentsline {subsection}{\numberline {4.6.2}Mutagenesis protocol}{146}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}Expression testing}{147}{subsection.4.6.3}
-\contentsline {subsection}{\numberline {4.6.4}Fluorescence-based thermostability assay}{148}{subsection.4.6.4}
-\contentsline {subsection}{\numberline {4.6.5}ATP-competitive inhibitor binding fluorescence assay}{150}{subsection.4.6.5}
-\contentsline {subsection}{\numberline {4.6.6}Large Scale expression and purification protocol for MK14}{153}{subsection.4.6.6}
-\contentsline {section}{\numberline {4.7}Author Contributions}{154}{section.4.7}
-\contentsline {section}{\numberline {4.8}Acknowledgments}{155}{section.4.8}
-\contentsline {chapter}{\numberline {5}Conclusion}{156}{chapter.5}
-\contentsline {chapter}{Appendices}{159}{section*.51}
-\contentsline {chapter}{\numberline {A}Supplemental Figures from Chapter 2}{160}{Appendix.1.A}
-\contentsline {chapter}{Bibliography}{171}{table.caption.61}
+\contentsline {subsection}{\numberline {2.4.3}Poor selectivity is achieved for the closely related kinases CDK2/CDK9}{22}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Greater selectivity is achieved for more distantly related kinases CDK2/ERK2}{25}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}FEP+ calculations show smaller than expected errors for $\Delta S$ predictions}{28}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Correlation of forcefield errors accelerates selectivity optimization}{31}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Expending more effort to reduce statistical error can be beneficial in selectivity optimization}{34}{subsection.2.4.7}
+\contentsline {section}{\numberline {2.5}Discussion and Conclusions}{37}{section.2.5}
+\contentsline {paragraph}{$S$ is a useful metric for selectivity in lead optimization}{37}{section*.9}
+\contentsline {paragraph}{Forcefield error correlation can accelerate selectivity optimization}{37}{section*.10}
+\contentsline {paragraph}{Two pairs of kinase test systems suggest forcefield errors can be correlated}{38}{section*.11}
+\contentsline {paragraph}{Reducing statistical error is beneficial when forcefield errors are correlated}{39}{section*.12}
+\contentsline {paragraph}{Larger data sets with a wide range of protein targets will enable future work}{40}{section*.13}
+\contentsline {section}{\numberline {2.6}Methods}{41}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Numerical model of selectivity optimization speedup}{41}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Numerical model of impact of statistical error on selectivity optimization}{42}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Binding Site Similarity analysis}{43}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Extracting the binding free energy $\Delta G$ from reported experimental data}{44}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Structure Preparation}{45}{subsection.2.6.5}
+\contentsline {paragraph}{Ligand Pose Generation}{45}{section*.14}
+\contentsline {subsection}{\numberline {2.6.6}Free Energy Calculations}{46}{subsection.2.6.6}
+\contentsline {subsection}{\numberline {2.6.7}Statistical Analysis of FEP+ calculations}{47}{subsection.2.6.7}
+\contentsline {subsection}{\numberline {2.6.8}Quantification of the correlation coefficient $\rho $}{48}{subsection.2.6.8}
+\contentsline {subsection}{\numberline {2.6.9}Calculating the marginal distribution of speedup}{50}{subsection.2.6.9}
+\contentsline {section}{\numberline {2.7}Acknowledgments}{50}{section.2.7}
+\contentsline {section}{\numberline {2.8}Funding}{51}{section.2.8}
+\contentsline {section}{\numberline {2.9}Disclosures}{51}{section.2.9}
+\contentsline {section}{\numberline {2.10}Author Contributions}{52}{section.2.10}
+\contentsline {chapter}{\numberline {3}Predicting the impact of clinically-observed kinase mutations using physical modeling}{53}{chapter.3}
+\contentsline {section}{\numberline {3.1}Gloss}{53}{section.3.1}
+\contentsline {section}{\numberline {3.2}Abstract}{57}{section.3.2}
+\contentsline {section}{\numberline {3.3}Introduction}{57}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}The long tail of rare kinase mutations frustrates prediction of drug resistance}{58}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Alchemical free-energy methods can predict inhibitor binding affinities}{61}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Alchemical approaches can predict the impact of protein mutations on free energy}{61}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Assessing the potential for physical modeling to predict resistance to FDA-approved TKIs}{62}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Results}{63}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}A benchmark of $\Delta $pIC$_{50}$s for predicting mutational resistance}{63}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Most mutations do not significantly reduce TKI potency}{69}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}FEP+ predicts affinity changes for clinical Abl mutants}{72}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}FEP+ accurately classifies affinity changes for Abl mutants}{76}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}How reliant are classification results on choice of cutoff?}{77}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Bayesian analysis can estimate the true error}{79}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}How transferable is FEP+ across the six TKIs?}{80}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3.4.8}Understanding the origin of mispredictions}{83}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3.4.9}How strongly is accuracy affected for docked TKIs?}{84}{subsection.3.4.9}
+\contentsline {section}{\numberline {3.5}Discussion and Conclusions}{88}{section.3.5}
+\contentsline {paragraph}{Physics-based modeling can reliably predict when a mutation elicits resistance to therapy}{88}{section*.25}
+\contentsline {paragraph}{Hierarchical Bayesian model estimates global performance}{91}{section*.27}
+\contentsline {paragraph}{Experimentally observed IC$_{50}$ changes can be caused by other physical mechanisms}{92}{section*.28}
+\contentsline {paragraph}{Other physical mechanisms of resistance are likely similarly computable.}{93}{section*.29}
+\contentsline {paragraph}{Conclusion}{93}{section*.30}
+\contentsline {section}{\numberline {3.6}Methods}{95}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}System preparation}{95}{subsection.3.6.1}
+\contentsline {subsubsection}{Complexes with co-crystal structures.}{95}{section*.31}
+\contentsline {subsubsection}{Complexes without co-crystal structures.}{99}{section*.33}
+\contentsline {subsection}{\numberline {3.6.2}Force field parameter assignment}{100}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Prime (MM-GBSA)}{100}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Alchemical free energy perturbation calculations using FEP+}{101}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Obtaining $\Delta \Delta $G from $\Delta $pIC$_{50}$ benchmark set data}{103}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Assessing prediction performance}{105}{subsection.3.6.6}
+\contentsline {subsubsection}{Quantitative accuracy metrics}{105}{section*.34}
+\contentsline {subsubsection}{Truth tables}{105}{section*.35}
+\contentsline {subsubsection}{Consensus model}{106}{section*.36}
+\contentsline {subsubsection}{ROC}{106}{section*.37}
+\contentsline {subsubsection}{Estimating uncertainties of physical-modeling results}{106}{section*.38}
+\contentsline {subsubsection}{Bayesian hierarchical model to estimate intrinsic error}{107}{section*.39}
+\contentsline {subsection}{\numberline {3.6.7}Data availability}{109}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Code availability}{109}{subsection.3.6.8}
+\contentsline {section}{\numberline {3.7}Acknowledgments}{109}{section.3.7}
+\contentsline {section}{\numberline {3.8}Author Contributions}{110}{section.3.8}
+\contentsline {section}{\numberline {3.9}Competing Interests}{110}{section.3.9}
+\contentsline {chapter}{\numberline {4}Enabling high-throughput biophysical experiments on clinically-observed mutations}{111}{chapter.4}
+\contentsline {section}{\numberline {4.1}Gloss}{111}{section.4.1}
+\contentsline {section}{\numberline {4.2}Abstract}{114}{section.4.2}
+\contentsline {section}{\numberline {4.3}Introduction}{115}{section.4.3}
+\contentsline {section}{\numberline {4.4}Results}{119}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Construct boundary choice impacts Abl kinase domain expression}{119}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Screen of 96 kinases finds 52 with useful levels of automated \emph {E.\nobreakspace {}coli} expression}{123}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}High-expressing kinases are folded with a well-formed ATP binding site}{129}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Fluorescence-based thermostability assay}{131}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}ATP-competitive inhibitor binding fluorescence assay}{132}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Expressing clinically-derived Src and Abl mutants}{135}{subsection.4.4.6}
+\contentsline {section}{\numberline {4.5}Discussion}{141}{section.4.5}
+\contentsline {section}{\numberline {4.6}Methods}{143}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Semi-automated selection of kinase construct sequences for \emph {E.\nobreakspace {}coli} expression}{143}{subsection.4.6.1}
+\contentsline {subsubsection}{Selection of human protein kinase domain targets}{143}{section*.46}
+\contentsline {subsubsection}{Matching target sequences with relevant PDB constructs}{144}{section*.47}
+\contentsline {subsubsection}{Plasmid libraries}{145}{section*.48}
+\contentsline {subsubsection}{Selection of sequence constructs for expression}{146}{section*.49}
+\contentsline {subsubsection}{Automation of the construct selection process}{147}{section*.50}
+\contentsline {subsection}{\numberline {4.6.2}Mutagenesis protocol}{147}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Expression testing}{148}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Fluorescence-based thermostability assay}{149}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}ATP-competitive inhibitor binding fluorescence assay}{151}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}Large Scale expression and purification protocol for MK14}{154}{subsection.4.6.6}
+\contentsline {section}{\numberline {4.7}Author Contributions}{155}{section.4.7}
+\contentsline {section}{\numberline {4.8}Acknowledgments}{156}{section.4.8}
+\contentsline {chapter}{\numberline {5}Conclusion}{157}{chapter.5}
+\contentsline {chapter}{Appendices}{160}{section*.51}
+\contentsline {chapter}{\numberline {A}Supplemental Figures from Chapter 2}{161}{Appendix.1.A}
+\contentsline {chapter}{Bibliography}{172}{table.caption.61}

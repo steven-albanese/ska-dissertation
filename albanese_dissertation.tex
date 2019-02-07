@@ -266,6 +266,8 @@ The fold-change in the proportion of compounds that are made that have a true 1.
 For this 1.4~kcal/mol selectivity improvement threshold, a correlation coefficient $\rho$ of 0.5 gives an expected speed up of 4.1$\times$, which can be interpreted as needing to make 4.1x fewer compounds to achieve a tenfold improvement in selectivity. 
 This process can be extended for the even more difficult proposition of achieving a hundredfold improvement in selectivity (Figure~\ref{fig:figure-1}C), where 200--300$\times$ speedups can be expected, depending on $\sigma_\text{ff}$ for the free energy methodology. 
 
+While the speedup values illustrate the potential utility of free energy methods for a drug discovery team optimizing the selectivity of a compound series, it is important to acknowledge that observed speedups for a real drug discovery project will be dependent on the details of how the free energy methods are used by the project team. All of the scoring accuracies under consideration here should allow for immediate identification of 1-log-unit-improved selective compounds in a single round of chemistry, provided a sufficient number of molecules are scored and a sufficiently stringent synthesis rule is used~\citep{Abel:2018ds,Abel:2017jw}. 
+
 \begin{landscape}
 \begin{figure}[p]
 \centering
@@ -377,7 +379,7 @@ $\Delta \Delta G_{ij, \text{target}}$ and $\Delta S$ predictions for CDK2/ERK2 f
 
 \subsection{Correlation of forcefield errors accelerates selectivity optimization}
 
-To quantify the correlation coefficient ($\rho$) of the force field error between targets, we built a Bayesian graphical model to separate the force field error from the statistical error and quantify our confidence in estimates of $\rho$ (described in depth in Methods). 
+To quantify the correlation coefficient ($\rho$) of the force field error between targets, we built a Bayesian graphical model to estimate the true model error and quantify our confidence in estimates of $\rho$ (described in depth in Methods). 
 Briefly, we modeled the absolute free energy ($G$) of each ligand in each thermodynamic phase (ligand-in-complex and ligand-in-solvent, with $G$ determined to an arbitrary additive constant for each phase) as in Equation~\ref{eq:prior-on-absolute-free-energy}. 
 The model was chained to the FEP+ calculations by providing the $\Delta G^{calc}_{phase,ij,target}$ for each edge from the FEP+ maps (where $j$ is now not necessarily the reference compound) as observed data, as in Equation~\ref{eq6}. As in Equation~\ref{eq12}, the experimental data was modeled as a normal distribution centered around the true free energy of binding ($\Delta G^{true}_{i,target}$) corrupted by experimental error, which is assumed to be 0.3~kcal/mol from previous work done to quantify the uncertainty in publicly available data~\citep{BROWN2009420}. 
 $\Delta G$ values derived from reported IC$_{50}$s or $K_i$s, as described in the methods section, were treated as data observations (Equation~\ref{eq12}) and the $\Delta G^{true}_{i,target}$ was assigned a weak normal prior (Equation~\ref{eq13}). 
@@ -413,7 +415,7 @@ The inserted box shows the mean and 95\% confidence interval for the correlation
 
 \subsection{Expending more effort to reduce statistical error can be beneficial in selectivity optimization}
 
-Up to this point, we have considered only force field error in quantifying the speedup free energy calculations can enable for selectivity optimization, by the statistical error for each target is zero. 
+Up to this point, we have considered only force field error in quantifying the speedup free energy calculations can enable for selectivity optimization, by assuming the statistical error for each target is zero -- that we are in the regime of infinite sampling. 
 To begin understanding how statistical error impacts this speedup, we modified the model of speedup by additionally considering the per target statistical error ($\sigma_{stat}$), which we define in Equation~\ref{eq15} such that at the baseline effort, N, $\sigma_{stat}$ is 0.2~kcal/mol. In this definition, it takes 4$\times$ the sampling, or effort, to reduce statistical error by a factor of 2$\times$. 
 We assume that statistical error is uncorrelated when propagating to two targets, and that $\sigma_{ff}$ is~$\approx$ 1.0~kcal/mol for both targets~\citep{Harder:J.Chem.TheoryComput.:2016, Hauser:2018vz}. As shown in Figure~\ref{fig:figure-6}, expending effort to reduce $\sigma_{stat}$ when $\rho$ is less than 0.5 does not change the expected speedup for the 100$\times$ selectivity threshold in meaningful way, suggesting that it is not worth running calculations longer than the default protocol in this case. However, when $\rho > 0.5$, the curves do start to separate, particularly the 1/4$\times$, 1$\times$, and 4$\times$ effort curves. This suggests that when the correlation is high, running longer calculations can net improvements in selectivity optimization speed. Interestingly, the 16$\times$, 48$\times$, and $\infty$ effort curves do not differ greatly from the 4$\times$ effort curve, indicating that there are diminishing returns to running longer calculations. 
 
