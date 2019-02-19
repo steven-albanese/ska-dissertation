@@ -19,9 +19,9 @@
 \contentsline {subsection}{\numberline {2.3.2}Selectivity is an important consideration in drug design}{11}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}The use of physical modeling to predict selectivity is relatively unexplored}{12}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Kinases are an important and particularly challenging model system for selectivity predictions}{13}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}The correlation coefficient measures how useful predictions are in achieving selectivity}{14}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Results}{16}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Alchemical free energy methods can be used to predict compound selectivity}{16}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.3.5}The correlation coefficient measures how useful predictions are in achieving selectivity}{15}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Results}{17}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Alchemical free energy methods can be used to predict compound selectivity}{17}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Correlation in force field errors can significantly enhance accuracy of selectivity predictions}{18}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Poor selectivity is achieved for the closely related kinases CDK2/CDK9}{22}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Greater selectivity is achieved for more distantly related kinases CDK2/ERK2}{25}{subsection.2.4.4}
@@ -40,7 +40,7 @@
 \contentsline {subsection}{\numberline {2.6.3}Binding Site Similarity analysis}{43}{subsection.2.6.3}
 \contentsline {subsection}{\numberline {2.6.4}Extracting the binding free energy $\Delta G$ from reported experimental data}{44}{subsection.2.6.4}
 \contentsline {subsection}{\numberline {2.6.5}Structure Preparation}{45}{subsection.2.6.5}
-\contentsline {paragraph}{Ligand Pose Generation}{45}{section*.14}
+\contentsline {paragraph}{Ligand Pose Generation}{46}{section*.14}
 \contentsline {subsection}{\numberline {2.6.6}Free Energy Calculations}{46}{subsection.2.6.6}
 \contentsline {subsection}{\numberline {2.6.7}Statistical Analysis of FEP+ calculations}{47}{subsection.2.6.7}
 \contentsline {subsection}{\numberline {2.6.8}Quantification of the correlation coefficient $\rho $}{48}{subsection.2.6.8}
@@ -90,7 +90,7 @@
 \contentsline {subsubsection}{Bayesian hierarchical model to estimate intrinsic error}{107}{section*.39}
 \contentsline {subsection}{\numberline {3.6.7}Data availability}{109}{subsection.3.6.7}
 \contentsline {subsection}{\numberline {3.6.8}Code availability}{109}{subsection.3.6.8}
-\contentsline {section}{\numberline {3.7}Acknowledgments}{109}{section.3.7}
+\contentsline {section}{\numberline {3.7}Acknowledgments}{110}{section.3.7}
 \contentsline {section}{\numberline {3.8}Author Contributions}{110}{section.3.8}
 \contentsline {section}{\numberline {3.9}Competing Interests}{110}{section.3.9}
 \contentsline {chapter}{\numberline {4}Enabling high-throughput biophysical experiments on clinically-observed mutations}{111}{chapter.4}
